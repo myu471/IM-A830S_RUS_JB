@@ -25,27 +25,27 @@
   <string name="selectTextMode">Выбрать текст</string>
   <string name="status_bar_notification_info_overflow">&gt;999</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
-  <string name="config_tether_apndata" />
+  <string name="config_tether_apndata"></string>
   <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
   <string name="default_wallpaper_component">com.pantech.wallpaper.multiphoto/.PhotoService</string>
   <string name="config_networkLocationProvider1">com.qualcomm.services.location.xtwifi.XTWiFiLocationProvider</string>
   <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
-  <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>
+  <string name="config_geocodeProvider">com.google.android.location.GeocodeProvider</string>
   <string name="config_geofenceProvider">com.qualcomm.services.location</string>
   <string name="config_datause_iface">rmnet0</string>
   <string name="config_default_dns_server">8.8.8.8</string>
-  <string name="gsm_alphabet_default_charset" />
+  <string name="gsm_alphabet_default_charset"></string>
   <string name="db_default_journal_mode">PERSIST</string>
   <string name="db_default_sync_mode">FULL</string>
   <string name="db_wal_sync_mode">FULL</string>
-  <string name="config_useragentprofile_url" />
-  <string name="config_isoImagePath" />
-  <string name="config_ntpServer">2.android.pool.ntp.org</string>
-  <string name="config_wimaxServiceJarLocation" />
-  <string name="config_wimaxNativeLibLocation" />
-  <string name="config_wimaxManagerClassname" />
-  <string name="config_wimaxServiceClassname" />
-  <string name="config_wimaxStateTrackerClassname" />
+  <string name="config_useragentprofile_url"></string>
+  <string name="config_isoImagePath"></string>
+  <string name="config_ntpServer">pool.ntp.org</string>
+  <string name="config_wimaxServiceJarLocation"></string>
+  <string name="config_wimaxNativeLibLocation"></string>
+  <string name="config_wimaxManagerClassname"></string>
+  <string name="config_wimaxServiceClassname"></string>
+  <string name="config_wimaxStateTrackerClassname"></string>
   <string name="config_defaultDreamComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="month_long_standalone_january">Январь</string>
   <string name="month_long_standalone_february">Февраль</string>
@@ -123,8 +123,8 @@
   <string name="day_of_week_shortest_thursday">Ч</string>
   <string name="day_of_week_shortest_friday">П</string>
   <string name="day_of_week_shortest_saturday">С</string>
-  <string name="am">am</string>
-  <string name="pm">pm</string>
+  <string name="am">AM</string>
+  <string name="pm">PM</string>
   <string name="yesterday">Вчера</string>
   <string name="today">Сегодня</string>
   <string name="tomorrow">Завтра</string>
@@ -184,12 +184,12 @@
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="abbrev_wday_month_day_no_year">EEE, MMMM d</string>
   <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
-  <string name="common_name_prefixes">1LT, 1ST, 2LT, 2ND, 3RD, ADMIRAL, CAPT, CAPTAIN, COL, CPT, DR, GEN, GENERAL, LCDR, LT, LTC, LTG, LTJG, MAJ, MAJOR, MG, MR, MRS, MS, PASTOR, PROF, REP, REVEREND, REV, SEN, ST</string>
-  <string name="common_name_suffixes">B.A., BA, D.D.S., DDS, I, II, III, IV, IX, JR., M.A., M.D., MA, MD, MS, PH.D., PHD, SR., V, VI, VII, VIII, X</string>
-  <string name="common_last_name_prefixes">"D', DE, DEL, DI, LA, LE, MC, SAN, ST, TER, VAN, VON"</string>
-  <string name="common_name_conjunctions">&amp;, AND, OR</string>
+  <string name="common_name_prefixes"></string>
+  <string name="common_name_suffixes"></string>
+  <string name="common_last_name_prefixes"></string>
+  <string name="common_name_conjunctions"></string>
   <string name="default_text_encoding">Latin-1</string>
-  <string name="lock_pattern_view_aspect">square</string>
+  <string name="lock_pattern_view_aspect">квадрат</string>
   <string name="time_picker_separator">:</string>
   <string name="byteShort">"Б"</string>
   <string name="kilobyteShort">КБ</string>
@@ -202,12 +202,12 @@
   <string name="ellipsis_two_dots">...</string>
   <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
   <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
-  <string name="stkCcUssdToDial">USSD request is modified to DIAL request.</string>
-  <string name="stkCcUssdToSs">USSD request is modified to SS request.</string>
-  <string name="stkCcUssdToUssd">USSD request is modified to new USSD request.</string>
-  <string name="stkCcSsToDial">SS request is modified to DIAL request.</string>
-  <string name="stkCcSsToUssd">SS request is modified to USSD request.</string>
-  <string name="stkCcSsToSs">SS request is modified to new SS request.</string>
+  <string name="stkCcUssdToDial">USSD запрос преобразован в DIAL запрос.</string>
+  <string name="stkCcUssdToSs">USSD запрос преобразован в SS запрос.</string>
+  <string name="stkCcUssdToUssd">USSD запрос преобразован в новый USSD запрос.</string>
+  <string name="stkCcSsToDial">SS запрос преобразован в DIAL запрос.</string>
+  <string name="stkCcSsToUssd">SS запрос преобразован в USSD запрос.</string>
+  <string name="stkCcSsToSs">SS запрос преобразован в новый SS request.</string>
   <string name="serviceEnabled">Служба включена.</string>
   <string name="serviceEnabledFor">Служба подключена для:</string>
   <string name="serviceDisabled">Служба отключена.</string>
@@ -224,7 +224,7 @@
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
   <string name="enablePin">Unsuccessful. Enable SIM/RUIM LOCK.</string>
   <string name="pinpuk_attempts">"
-Attempts Remaining :"</string>
+Попыток осталось: "</string>
   <string name="imei">IMEI</string>
   <string name="meid">MEID</string>
   <string name="ClipMmi">Идентификация вызывающего абонента</string>
@@ -761,18 +761,18 @@ Attempts Remaining :"</string>
   <string name="sipAddressTypeOther">Другой</string>
   <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
   <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
-  <string name="keyguard_password_enter_pin_code_for_subscription">Enter PIN code for Subscription</string>
-  <string name="keyguard_password_enter_puk_code_for_subscription">Enter PUK and new PIN code for Subscription</string>
+  <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN-код для Подписки</string>
+  <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK и новый PIN для Подписки</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
   <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
   <string name="keyguard_password_entry_touch_hint">Нажмите для ввода пароля</string>
   <string name="keyguard_password_enter_password_code">Введите пароль</string>
   <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
   <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
-  <string name="keyguard_password_wrong_puk_code">Incorrect PUK code!</string>
+  <string name="keyguard_password_wrong_puk_code">Неверный PUK-код!</string>
   <string name="keyguard_password_pin_failed">PIN operation failed!</string>
   <string name="keyguard_password_puk_failed">PUK operation failed!</string>
-  <string name="keyguard_pin_accepted">Code Accepted!</string>
+  <string name="keyguard_pin_accepted">Код принят!</string>
   <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
   <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
   <string name="lockscreen_carrier_default">Сеть не найдена</string>
@@ -802,8 +802,8 @@ Attempts Remaining :"</string>
   <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
   <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
   <string name="emergency_calls_only">Только экстренные вызовы</string>
-  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
-  <string name="lockscreen_sim_error_message">SIM card is Invalid.</string>
+  <string name="lockscreen_sim_error_message_short">Неправильная карта.</string>
+  <string name="lockscreen_sim_error_message">Неправильная SIM-карта.</string>
   <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
   <string name="lockscreen_perso_locked_message">SIM/RUIM is Perso locked</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
@@ -812,8 +812,8 @@ Attempts Remaining :"</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ. "\n\n"Повтор через %d сек."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали пароль. "\n\n"Повтор через %d сек."</string>
-  <string name="lockscreen_sim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
-  <string name="lockscreen_ruim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
+  <string name="lockscreen_sim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
+  <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали PIN-код. "\n\n"Повтор через %d сек."</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. "\n\n" Повтор через %d сек."</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать телефон. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
@@ -849,7 +849,7 @@ Attempts Remaining :"</string>
   <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден.</string>
   <string name="factorytest_reboot">Перезагрузка</string>
   <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-  <string name="web_user_agent_target_content">"Mobile "</string>
+  <string name="web_user_agent_target_content">"Мобильный "</string>
   <string name="js_dialog_title">"Подтвердите действие на %s"</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_dialog_before_unload">"Покинуть эту страницу?"\n\n"%s"\n\n"Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться."</string>
@@ -1084,15 +1084,11 @@ Attempts Remaining :"</string>
   <string name="date_picker_dialog_title">Настройка даты</string>
   <string name="date_time_set">Установить</string>
   <string name="date_time_done">Готово</string>
-  <string name="default_permission_group">Default</string>
+  <string name="default_permission_group">По умолчанию</string>
   <string name="permissions_format">%1$s, %2$s</string>
   <string name="no_permissions">Не требуется разрешений</string>
-  <string name="perms_hide">
-    <b>Hide</b>
-  </string>
-  <string name="perms_show_all">
-    <b>Show all</b>
-  </string>
+  <string name="perms_hide">Скрыть</string>
+  <string name="perms_show_all">Показать все</string>
   <string name="perms_new_perm_prefix">НОВОЕ: </string>
   <string name="perms_description_app">Источник: %1$s.</string>
   <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
@@ -1122,7 +1118,7 @@ Attempts Remaining :"</string>
   <string name="extmedia_format_button_format">Формат</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
   <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку по USB.</string>
-  <string name="locale_replacement" />
+  <string name="locale_replacement"></string>
   <string name="select_input_method">Выберите способ ввода</string>
   <string name="configure_input_methods">Настройка способов ввода</string>
   <string name="use_physical_keyboard">Физическая клавиатура</string>
@@ -1161,9 +1157,9 @@ Attempts Remaining :"</string>
   <string name="ime_action_previous">Пред.</string>
   <string name="ime_action_default">Выполнить</string>
   <string name="managed_roaming_title">Managed Roaming</string>
-  <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
-  <string name="managed_roaming_dialog_ok_button">Yes</string>
-  <string name="managed_roaming_dialog_cancel_button">No</string>
+  <string name="managed_roaming_dialog_content">Найдена сеть с ограниченным сервисом. Вы хотите начать поиск сети?</string>
+  <string name="managed_roaming_dialog_ok_button">Да</string>
+  <string name="managed_roaming_dialog_cancel_button">Нет</string>
   <string name="dial_number_using">"Набрать номер"\n"%s"</string>
   <string name="create_contact_using">"Создать контакт"\n"с номером %s"</string>
   <string name="grant_credentials_permission_message_header">Одному или нескольким приложениям требуется разрешение на доступ к вашему аккаунту сейчас и в дальнейшем.</string>
@@ -1316,139 +1312,136 @@ Attempts Remaining :"</string>
   <string name="default_audio_route_category_name">Система</string>
   <string name="bluetooth_a2dp_audio_route_name">Воспроизведение звука через Bluetooth</string>
   <string name="media_route_chooser_grouping_done">Готово</string>
-  <string name="usim_pin_input_empty">There are no numbers. Input password(PIN)</string>
-  <string name="usim_pin_input_pukempty">There are no numbers. Input password(PUK)</string>
-  <string name="usim_pin_input_pintitle">"PIN Input, PIN should be from 4 to 8 digit
-Remind input : %1$d/3"</string>
-  <string name="usim_pin_input_newpin">Input new password (PIN)</string>
-  <string name="usim_pin_input_renewpin">Input new password(PIN) again</string>
-  <string name="usim_pin_input_success">Success password(PIN) change</string>
-  <string name="usim_pin_input_pin">PIN should be from 4 to 8 digit</string>
+  <string name="usim_pin_input_empty">Пусто. Введите пароль(PIN).</string>
+  <string name="usim_pin_input_pukempty">Пусто. Введите пароль(PUK).</string>
+  <string name="usim_pin_input_pintitle">Ввод PIN. PIN должен быть от 4 до 8 цифр</string>
+  <string name="usim_pin_input_newpin">Введите новый пароль (PIN)</string>
+  <string name="usim_pin_input_renewpin">Введите новый пароль (PIN) еще раз</string>
+  <string name="usim_pin_input_success">Пароль(PIN) успешно изменен</string>
+  <string name="usim_pin_input_pin">PIN должен быть от 4 до 8 цифр</string>
   <string name="usim_pin_input_new_pin">PIN should be from 4 to 8 digit</string>
   <string name="usim_pin_reinput_new_pin">Reentered PIN should be from 4 to 8 digit</string>
-  <string name="usim_pin_input_pukinput">PUK should be 8 digit</string>
-  <string name="usim_pin_input_error_pintitle">PIN input error</string>
-  <string name="usim_pin_input_error_pukinput">PIN input error Invalid password(PIN) 3 times Input unblocking codes(PUK) Warning. We recommand you to visit customer center if you do not sure to know PUK</string>
-  <string name="usim_pin_input_puktitle">Unblocking Codes</string>
-  <string name="usim_pin_input_puk">"Input unblocking codes (PUK)
-Remind input : %1$d/10"</string>
-  <string name="usim_pin_input_error_diabletitle">Invalid USIM</string>
-  <string name="usim_pin_input_ERROR_diablepuk">Invalid unblocking codes 10 times. You can not use the USIM more</string>
-  <string name="usim_pin_input_ERROR_retrypintitle">PIN input error</string>
-  <string name="usim_pin_input_ERROR_retrypin">"Invalid PIN1. Remains: %1$d
-Input PIN1 again"</string>
-  <string name="usim_pin_input_ERROR_retrypuktitle">Invalid Codes</string>
-  <string name="usim_pin_input_ERROR_retrypuk">Invalid unblocking codes(PUK). Wrong inputting is %1$d. %2$d remains. Warning! We recommand you to visit customer center if you do not sure to know PUK</string>
-  <string name="usim_pin_input_ERROR_renewpinfail">Inputted PIN is not equal with New PIN. Input new PIN again</string>
-  <string name="usim_pin_input_retryinput_button">Retry</string>
+  <string name="usim_pin_input_pukinput">PUK должен быть 8 цифр</string>
+  <string name="usim_pin_input_error_pintitle">Ошибка ввода PIN</string>
+  <string name="usim_pin_input_error_pukinput">Ошибка ввода PIN. Неправильный пароль(PIN) введен 3 раза, введите код разблокироваки(PUK). Внимание! Рекомендуем обратиться к поставщику услуг, если вы неуверены, что знаете PUK</string>
+  <string name="usim_pin_input_puktitle">Код разблокировки</string>
+  <string name="usim_pin_input_puk">Введите код разблокировки (PUK)</string>
+  <string name="usim_pin_input_error_diabletitle">Неверная USIM</string>
+  <string name="usim_pin_input_ERROR_diablepuk">Код разблокировки введен неправильн 10 раз. Вы больше не можете использовать эту SIM-карту.</string>
+  <string name="usim_pin_input_ERROR_retrypintitle">Ошибка ввода PIN</string>
+  <string name="usim_pin_input_ERROR_retrypin">Неправильный PIN1. Попыток осталось: %1$d. Введите PIN1 еще раз.</string>
+  <string name="usim_pin_input_ERROR_retrypuktitle">Неправильный код</string>
+  <string name="usim_pin_input_ERROR_retrypuk">Неправильный код разблокировки(PUK).Попытка № %1$d. %2$d осталось. Внимание! Рекомендуем обратиться к поставщику услуг, если вы неуверены, что знаете PUK</string>
+  <string name="usim_pin_input_ERROR_renewpinfail">Введеный PIN не совпадает с новым PIN. Введите новый PIN еще раз.</string>
+  <string name="usim_pin_input_retryinput_button">Повторить</string>
   <string name="usim_pin_input_sharp_button">\#</string>
-  <string name="keyguard_password_enter_repin_prompt">New Pin Code again</string>
-  <string name="usim_pck_input_locktitle">Other USIM card lock</string>
-  <string name="usim_pck_input_title">Enter other USIM card lock PIN code</string>
-  <string name="usim_pck_input_ERROR">Incorrect other USIM card lock PIN code!</string>
-  <string name="usim_pin_input_ERROR_diableperso">Exceeded 5 times input limit. Plz, Reboot or Visit customer center</string>
-  <string name="usim_pck_input_empty">There are no numbers. Input password</string>
-  <string name="usim_pck_input_pck">Input password, password should be 4 digit</string>
-  <string name="lockscreen_other_sim_unlock_progress_dialog_message">Unlocking Other USIM card…</string>
-  <string name="usim_kt_pin_retrycount_title">PIN1 input</string>
-  <string name="usim_kt_puk_retrycount_title">PUK1 input</string>
-  <string name="usim_kt_pin_retrycount_body">Remind input : %1$d/3</string>
-  <string name="usim_kt_puk_retrycount_body">Remind input : %1$d/10</string>
-  <string name="usim_kt_pin_input_pin">"Confirm PIN1, Password should be from 4 to 8 digit
-Remind input : %1$d/3"</string>
-  <string name="usim_kt_pin_input_puk">"Confirm PUK, Input unblocking codes (PUK)
-Remind input : %1$d/10"</string>
-  <string name="usim_error_limited_message">Invalid card and change card</string>
-  <string name="usim_removed_message">Removed USIM. Restart after inserting USIM</string>
-  <string name="usim_notify_removed_message">Removed USIM</string>
-  <string name="usim_notify_removed_restart_message">Restart after inserting USIM</string>
-  <string name="skt_limited_service">Emergency Calls Only</string>
-  <string name="skt_authentication_reject">USIM not allowed</string>
-  <string name="lockscreen_skt_empty_sim_message">Need to USIM download.</string>
-  <string name="skt_imsi_unknown_hlr">Unauthorized Phone number.</string>
-  <string name="skt_illegal_ms">Registration Failed.</string>
-  <string name="skt_illegal_me">Unauthorized Phone.</string>
-  <string name="skt_gprs_not_allowed">Data service can not be supported.</string>
-  <string name="skt_gprs_not_allowed_in_this_plmn">Data service can not be supported in this network.</string>
-  <string name="skt_plmn_not_allowed">Fail in Registration.</string>
-  <string name="skt_network_failure">The network registration is delayed.</string>
-  <string name="skt_service_center">Please contact to service center(1599-0011).</string>
-  <string name="skt_service_center_foreign_roam">Please contact to service center(+82-2-6343-9000).</string>
-  <string name="skt_service_center_others">Please contact to service center.</string>
+  <string name="keyguard_password_enter_repin_prompt">Введите новый Pin еще раз</string>
+  <string name="usim_pck_input_locktitle">Другая блокировка SIM-карты</string>
+  <string name="usim_pck_input_title">Введите PIN-код другой блокировки SIM-карты</string>
+  <string name="usim_pck_input_ERROR">Неверный PIN-код!</string>
+  <string name="usim_pin_input_ERROR_diableperso">Превышен 5-разовый лимит ввода 5. Пожалуйста, перезагрузитесь или посетите центр обслуживания клиентов</string>
+  <string name="usim_pck_input_empty">Пусто. Введите пароль.</string>
+  <string name="usim_pck_input_pck">Введите пароль, пароль должен быть 4 цифры</string>
+  <string name="lockscreen_other_sim_unlock_progress_dialog_message">Разблокировка USIM-карты…</string>
+  <string name="usim_kt_pin_retrycount_title">Введите PIN1</string>
+  <string name="usim_kt_puk_retrycount_title">Введите PUK1</string>
+  <string name="usim_kt_pin_retrycount_body">Попыток ввода: %1$d/3</string>
+  <string name="usim_kt_puk_retrycount_body">Попыток ввода: %1$d/10</string>
+  <string name="usim_kt_pin_input_pin">"Подтвердите PIN1, пароль должен быть от 4 до 8 цифр
+Попыток: %1$d/3"</string>
+  <string name="usim_kt_pin_input_puk">"Подтвердите PUK, введите код разблокировки(PUK)
+Попыток: %1$d/10"</string>
+  <string name="usim_error_limited_message">Неверная Sim-карта, смените карту</string>
+  <string name="usim_removed_message">SIM-карта извлечена. Перезагрузитесь после вставки SIM-карты.</string>
+  <string name="usim_notify_removed_message">SIM-карта извлечена</string>
+  <string name="usim_notify_removed_restart_message">Перезагрузитесь после вставки SIM-карты</string>
+  <string name="skt_limited_service">Только экстренные звонки</string>
+  <string name="skt_authentication_reject">USIM-карта недоступна</string>
+  <string name="lockscreen_skt_empty_sim_message">Необходимо загрузить USIM.</string>
+  <string name="skt_imsi_unknown_hlr">Неавторизованный номер телефона.</string>
+  <string name="skt_illegal_ms">Ошибка регистрации.</string>
+  <string name="skt_illegal_me">Неавторизованный телефон.</string>
+  <string name="skt_gprs_not_allowed">Передача данных не поддерживается.</string>
+  <string name="skt_gprs_not_allowed_in_this_plmn">Передача данных не поддерживается в этой сети.</string>
+  <string name="skt_plmn_not_allowed">Ошибка регистрации.</string>
+  <string name="skt_network_failure">Регистрация в сети откложена.</string>
+  <string name="skt_service_center">Пожалуйста, свяжитесь с контакт центром(1599-0011).</string>
+  <string name="skt_service_center_foreign_roam">Пожалуйста, свяжитесь с сервисным центром(+82-2-6343-9000).</string>
+  <string name="skt_service_center_others">Пожалуйста, свяжитесь с сервисным центром.</string>
   <string name="skt_managed_roaming_dialog_content">"Roaming service is not available now.
  Do you want to select a provider again?"</string>
-  <string name="button_ok">OK</string>
+  <string name="button_ok">Ок</string>
   <string name="skt_roaming_current_network">Current Network Provider</string>
   <string name="skt_roaming_reg_failure">Roaming service is not available.</string>
   <string name="skt_roaming_reselect_network">Need to reselect a network provider.</string>
-  <string name="alwayson_popup_dialog_title">Data network connection</string>
-  <string name="alwayson_popup_initial_title">Data Network Setting</string>
-  <string name="alwayson_popup_dialog_content">"Data network is required to access wireless network(Data) which may occur charge for data transferred.
-Do you want to allow access for Data network?"</string>
-  <string name="alwayson_popup_dialog_ok_button">Yes</string>
-  <string name="alwayson_popup_dialog_cancel_button">No</string>
-  <string name="alwayson_reject_popup_initial_title">Data network connection fail</string>
-  <string name="alwayson_reject_popup_dialog_content">Data nework Error. Retry data network connection. Change Data network setting at settings.</string>
-  <string name="alwayson_reject_popup_dialog_ok_button">YES</string>
-  <string name="conn_fail_title_string">Unable to connect data network.</string>
-  <string name="conn_fail_string">Network error. Connect again after disconnecting data network.</string>
-  <string name="roaming_data_connection_toast_string">"When using roaming data service, subscribed plan is not applied.
-Excessive data fee can be charged."</string>
-  <string name="dlg_dataRoamingTitle">Roaming data agreement</string>
+  <string name="alwayson_popup_dialog_title">Подключение к сети передачи данных</string>
+  <string name="alwayson_popup_initial_title">Настройка сети передачи данных</string>
+  <string name="alwayson_popup_dialog_content">"Передача данных просит разрешить доступ к беспроводным сетям, что может повлечь дополнительную плату за передачу.
+Разрешить доступ к передаче данных?"</string>
+  <string name="alwayson_popup_dialog_ok_button">Да</string>
+  <string name="alwayson_popup_dialog_cancel_button">Нет</string>
+  <string name="alwayson_reject_popup_initial_title">Ошибка подключения к сети передачи данных</string>
+  <string name="alwayson_reject_popup_dialog_content">Ошибка сети передачи данных. Поворите подключение. Измените настройки сети в Настройках.</string>
+  <string name="alwayson_reject_popup_dialog_ok_button">Да</string>
+  <string name="conn_fail_title_string">Не удалось подключиться к сети передачи данных.</string>
+  <string name="conn_fail_string">Ошибка сети. Попробуйте подключиться еще раз после отключения.</string>
+  <string name="roaming_data_connection_toast_string">"При использовании передачи данных в роуминге, тарифный план не учитывается.
+Может быть снята дополнительная плата."</string>
+  <string name="dlg_dataRoamingTitle">Настройки роуминга передачи данных</string>
   <string name="dlg_dataRoamingMsgAllow">Agree(Allow)</string>
   <string name="dlg_dataRoamingMsgBlock">Cancel(Block)</string>
   <string name="data_roaming_msg_checked">Agree</string>
   <string name="data_roaming_msg_agree1">I confirm that I have read the terms and conditions below, and agree on roaming data usage.</string>
   <string name="data_roaming_msg_agree2">
     <font fgcolor="#ffff0000">Automatic synchronization</font> such as SNS or email or weather may incur additional charges in addition to your domestic flat rate plan. (Except One Pass plan)</string>
-  <string name="data_connection_toast_string">Connecting to data network</string>
-  <string name="title_eap_notification">Certification is Success.</string>
-  <string name="toast_auth_timeout">There is no response from the Wi-Fi network.</string>
-  <string name="wificonnection_popup_initial_title">Wi-Fi has been disconnected.</string>
-  <string name="wificonnection_popup_dialog_content">"Wi-Fi has been disconnected.
+  <string name="data_connection_toast_string">Подключение к сети передачи данных</string>
+  <string name="title_eap_notification">Успешная сертификация</string>
+  <string name="toast_auth_timeout">Нет ответа от сети Wi-Fi</string>
+  <string name="wificonnection_popup_initial_title">Wi-Fi подключение отключено.</string>
+  <string name="wificonnection_popup_dialog_content">"Телефон не подключен к точке доступа Wi-Fi.
 
- Turn off Wi-Fi?"</string>
-  <string name="wificonnection_popup_dialog_ok_button">Yes</string>
-  <string name="wificonnection_popup_dialog_cancel_button">No</string>
+Выключить Wi-Fi?"</string>
+  <string name="wificonnection_popup_dialog_ok_button">Да</string>
+  <string name="wificonnection_popup_dialog_cancel_button">Нет</string>
   <string name="wificonnection_popup_dialog_check_box">Do not show this again.</string>
   <string name="wifi_psk_nego_fail">Check PASSWORD again.</string>
-  <string name="msg_low_storage_view_title">Exceeded memory capacity</string>
-  <string name="msg_low_storage_view_text">Unable to receive message.</string>
-  <string name="str_list_default_msg">Please give a call.</string>
-  <string name="str_list_no_content">[No content]</string>
-  <string name="str_locked_message">Locked message</string>
+  <string name="msg_low_storage_view_title">Память заполнена</string>
+  <string name="msg_low_storage_view_text">Не удается получить сообщение.</string>
+  <string name="str_list_default_msg">Пожалуйста, позвоните.</string>
+  <string name="str_list_no_content">[Нет содержимого]</string>
+  <string name="str_locked_message">Заблокированное сообщение</string>
   <string name="wap_msg_title_lgt">[LG U+]</string>
-  <string name="wap_msg_title_cp">[Data service]</string>
-  <string name="wap_msg_title_corp">[3rd party site]</string>
-  <string name="web_msg_title_lgt">[Web site]</string>
-  <string name="web_msg_title_cp">[Web site]</string>
-  <string name="web_msg_title_corp">[3rd party site]</string>
+  <string name="wap_msg_title_cp">[Служба передачи данных]</string>
+  <string name="wap_msg_title_corp">[3rd Party Site]</string>
+  <string name="web_msg_title_lgt">[WEB Site]</string>
+  <string name="web_msg_title_cp">[WEB Site]</string>
+  <string name="web_msg_title_corp">[3rd Party Site]</string>
   <string name="shared_msg_title">[OZ]</string>
-  <string name="cbs_msg_title">[Public channel]</string>
-  <string name="ppt_msg_title">[Paging]</string>
-  <string name="str_list_show_paper">[SHOW download pack]</string>
-  <string name="str_no_subject">[No subject]</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message_for_pin_and_password" formatted="false">"You have incorrectly input number %d times. 
+  <string name="cbs_msg_title">[Общий канал]</string>
+  <string name="ppt_msg_title">[Пейджинг]</string>
+  <string name="str_list_show_paper">[Показать скачанный пакет]</string>
+  <string name="str_no_subject">[Нет темы]</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message_for_pin_and_password" formatted="false">"Неправильно введено %d раз. 
 
-Please try again in %d seconds."</string>
-  <string name="sky_roaming_help">Help</string>
+Повторите через %d секунд."</string>
+  <string name="sky_roaming_help">Помощь</string>
   <string name="sky_roaming_title">T Roaming</string>
-  <string name="sky_roaming_current">Local</string>
-  <string name="sky_roaming_seoul">Korea</string>
+  <string name="sky_roaming_current">Текущий</string>
+  <string name="sky_roaming_seoul">Сеул</string>
   <string name="sky_status_divider">/</string>
   <string name="sky_time_format">EE, MMM d</string>
-  <string name="sky_hold_answer_general">General</string>
-  <string name="sky_hold_answer_driving">Driving</string>
-  <string name="sky_hold_answer_conference">Conference</string>
-  <string name="sky_hold_answer_class">Class</string>
-  <string name="sky_bgp_no_title">No music found</string>
-  <string name="sky_bgp_no_subinfo">Music</string>
-  <string name="sky_skt_fota_title">Phone assurance service</string>
+  <string name="sky_hold_answer_general">Главный</string>
+  <string name="sky_hold_answer_driving">За рулем</string>
+  <string name="sky_hold_answer_conference">Конференция</string>
+  <string name="sky_hold_answer_class">Занят</string>
+  <string name="sky_bgp_no_title">Музыка не найдена</string>
+  <string name="sky_bgp_no_subinfo">Музыка</string>
+  <string name="sky_skt_fota_title">Телефон службы обеспечения</string>
   <string name="sky_usim_missing_contents">"Restart after inserting USIM. 
 Emergency calls can be enabled."</string>
   <string name="keyguard_eas_reset_guide">"%d attempts remain before device's data is wiped out."</string>
-  <string name="sky_unlock_service_notice">"VEGA Cyber Pluszone
-www.vegaservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' menu."</string>
+  <string name="sky_unlock_service_notice">"SKY Cyber Pluszone
+www.skyservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' menu."</string>
   <string name="account_unlock_bakcup_pin_text">If you forget your Google sign-in details, you can enter your backup PIN to unlock.</string>
   <string name="account_unlock_bakcup_pin_hint_text">Enter PIN code</string>
   <string name="account_unlock_bakcup_pin_incorrect_text">Incorrect backup PIN.</string>
@@ -1458,44 +1451,44 @@ www.vegaservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' me
   <string name="sky_gesture_date_normal_format">"EE,
 MMM dd"</string>
   <string name="sky_gesture_date_roaming_format">EE, MMM dd</string>
-  <string name="sky_hold_gesture_error_text">Retry after checking gesture.</string>
-  <string name="sky_hold_gesture_help_text">"The menu will execute 
-If you draw the outline of 
-definded shapes."</string>
-  <string name="sky_hold_gesture_help_sub_text">PLEASE DRAW MENU ICONS</string>
-  <string name="sky_hold_gesture_help_emergency_text">Emergency Call</string>
-  <string name="sky_hold_gesture_slide_home">Unlock</string>
-  <string name="sky_hold_gesture_slide_call">Call</string>
-  <string name="sky_hold_gesture_slide_message">Message</string>
-  <string name="sky_hold_gesture_slide_email">Email</string>
-  <string name="sky_hold_gesture_slide_player">Player</string>
+  <string name="sky_hold_gesture_error_text">Повторить после проверки жеста.</string>
+  <string name="sky_hold_gesture_help_text">"Нарисуйте фигуру, 
+чтобы выполнить действие"
+</string>
+  <string name="sky_hold_gesture_help_sub_text">Пожалуйста, нарисуйте фигуры действий</string>
+  <string name="sky_hold_gesture_help_emergency_text">Экстренный вызов</string>
+  <string name="sky_hold_gesture_slide_home">Разблокировать</string>
+  <string name="sky_hold_gesture_slide_call">Звонок</string>
+  <string name="sky_hold_gesture_slide_message">SMS</string>
+  <string name="sky_hold_gesture_slide_email">Эл. почта</string>
+  <string name="sky_hold_gesture_slide_player">Плеер</string>
   <string name="sky_hold_gesture_slide_sns">SNS</string>
-  <string name="sky_hold_gesture_slide_zero">"Add gesture on Settings &gt; Display &gt; Hold &gt; Gesture Hold 'Gesture guide'"</string>
+  <string name="sky_hold_gesture_slide_zero">"Добавить жест: Настройки &gt; Экран &gt; Локскрин &gt; Жесты &gt; Гид по жестам"</string>
   <string name="sky_hold_gesture_slide_camera">Camera</string>
   <string name="sky_hold_gesture_slide_smartvoice">Smart Voice</string>
   <string name="sky_hold_gesture_slide_contacts">Contacts</string>
   <string name="sky_hold_gesture_slide_browser">Web</string>
-  <string name="gesture_category_unlock">Unlock</string>
-  <string name="gesture_category_applications">Applications</string>
-  <string name="string_6knob_full_charge_message_01">Fully charged.</string>
-  <string name="string_6knob_full_charge_message_02">Disconnect charger.</string>
+  <string name="gesture_category_unlock">Разблокировать</string>
+  <string name="gesture_category_applications">Приложения</string>
+  <string name="string_6knob_full_charge_message_01">Зарядка завершена</string>
+  <string name="string_6knob_full_charge_message_02">Отключите зарядное</string>
   <string name="sky_6knob_hold_time_format">E, MMM dd</string>
-  <string name="sky_missed_comm_guide">Drag icon here</string>
+  <string name="sky_missed_comm_guide">Тащите значек сюда</string>
   <string name="string_6knob_batt_percent">%</string>
-  <string name="string_6knob_batt_full_text">Full</string>
+  <string name="string_6knob_batt_full_text">Полная</string>
   <string name="string_6knob_batt_full_percent">100%</string>
   <string name="sky_missed_comm_guide_unlock">Drag icon here to unlock</string>
   <string name="sky_missed_comm_guide_excute">"Drag icon here to run
 "</string>
   <string name="sky_unlock_guide">Drag icon into circle.</string>
-  <string name="string_visual_default_shortcut_01">Phone</string>
-  <string name="string_visual_default_shortcut_02">Messages</string>
+  <string name="string_visual_default_shortcut_01">Телефон</string>
+  <string name="string_visual_default_shortcut_02">Сообщения</string>
   <string name="string_visual_default_shortcut_03">Smart Voice</string>
-  <string name="string_visual_default_shortcut_04">Camera</string>
-  <string name="string_visual_vibrate_on">Vibrate on</string>
-  <string name="string_visual_vibrate_off">Vibrate off</string>
+  <string name="string_visual_default_shortcut_04">Камера</string>
+  <string name="string_visual_vibrate_on">Вибро вкл</string>
+  <string name="string_visual_vibrate_off">Вибро выкл</string>
   <string name="sky_visual_hold_time_format">E, MMM dd</string>
-  <string name="simple_unlock_guide">Switch on to unlock screen</string>
+  <string name="simple_unlock_guide">Включите, чтобы разблокировать экран</string>
   <string name="sky_simple_date_normal_format">E, MMM dd</string>
   <string name="sky_simple_date_roaming_format">MM.dd (E)</string>
   <string name="sky_new_gesture_error_text">Retry after checking gesture</string>
@@ -1509,15 +1502,15 @@ definded shapes."</string>
   <string name="keyguard_accessbility_visual_guide2">Left to Unlock</string>
   <string name="keyguard_accessbility_visual_guide3">Right to vibrate on</string>
   <string name="keyguard_accessbility_visual_guide4">Right to vibrate off</string>
-  <string name="permlab_bindAlwaysOnTop">bind to an always-on-top</string>
-  <string name="permdesc_bindAlwaysOnTop">Allows the holder to bind to the top-level interface of an always-on-top. Should never be needed for normal applications.</string>
-  <string name="alwaysontop">Always On Top</string>
-  <string name="aot_on_the_phone">Unable to run mini Window during calling.</string>
-  <string name="aot_music">Music</string>
-  <string name="aot_tdmb">DMB</string>
-  <string name="aot_dic">Dictionary</string>
-  <string name="aot_note">Memo</string>
-  <string name="aot_video">Videos</string>
+  <string name="permlab_bindAlwaysOnTop">поверх всех окон</string>
+  <string name="permdesc_bindAlwaysOnTop">Позволяет владельцу связываться с верхнего уровня интерфейса поверх всех окон. Не требуется для обычных приложений.</string>
+  <string name="alwaysontop">Поверх всех окон</string>
+  <string name="aot_on_the_phone">Не удалось запустить мини Окно во время звонка.</string>
+  <string name="aot_music">Музыка</string>
+  <string name="aot_tdmb">T-DMB</string>
+  <string name="aot_dic">Словарь</string>
+  <string name="aot_note">Блокнот</string>
+  <string name="aot_video">Видео</string>
   <string name="aot_pen">V note</string>
   <string name="aot_camera">Camera</string>
   <string name="aot_dialer">Dial</string>
@@ -1530,18 +1523,18 @@ definded shapes."</string>
   <string name="aot_old_pen">Sketch</string>
   <string name="aot_app_disable">Enable mini %s in System settings.</string>
   <string name="aot_old_note">Notepad</string>
-  <string name="usb_pc_mode_notification_title">Connected as a pc mode</string>
+  <string name="usb_pc_mode_notification_title">Подключен как установщик.</string>
   <string name="usb_pst_mode_notification_title">Connected as a PST mode</string>
   <string name="usb_sdcard_mode_notification_title">Connected as a sdcard mode(only SD card)</string>
-  <string name="restart">Restart</string>
-  <string name="reboot_confirm">Your phone will now shut down and restart.</string>
-  <string name="global_action_restart">Restart</string>
-  <string name="otg_host_cable_connected_notification_title">USB host cable connected</string>
-  <string name="otg_host_cable_disconnected_notification_title">USB host cable disconnected</string>
-  <string name="otg_dev_active_notification_title">USB device connected</string>
-  <string name="otg_dev_removed_notification_title">USB device removed</string>
-  <string name="otg_power_disconnected_notification_title">USB device connected Error</string>
-  <string name="otg_power_disconnected_notification_message">Please reconnect USB host cable and device together after releasing USB host cable.</string>
+  <string name="restart">Перезагрузить</string>
+  <string name="reboot_confirm">Телефон будет перезагружен.</string>
+  <string name="global_action_restart">Перезагрузить</string>
+  <string name="otg_host_cable_connected_notification_title">USB-хост кабель подключен</string>
+  <string name="otg_host_cable_disconnected_notification_title">USB-хост кабель отключен</string>
+  <string name="otg_dev_active_notification_title">USB-устройство подключено</string>
+  <string name="otg_dev_removed_notification_title">USB-устройство отключено</string>
+  <string name="otg_power_disconnected_notification_title">Отключиет USB-хост кабель, и подключите устройство заново</string>
+  <string name="otg_power_disconnected_notification_message"></string>
   <string name="airplane_mode_is_on">Airplane mode is ON</string>
   <string name="airplane_mode_is_off">Airplane mode is OFF</string>
   <string name="volume_icon_description_system">System volume</string>
