@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,25 +17,25 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий Факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <array name="preloaded_drawables">
         <item>@drawable/toast_frame_holo</item>
@@ -557,10 +557,10 @@
     </integer-array>
     <array name="common_nicknames" />
     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <array name="carrier_properties" />
 </resources>
