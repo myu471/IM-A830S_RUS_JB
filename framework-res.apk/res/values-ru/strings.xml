@@ -786,10 +786,10 @@
   <string name="lockscreen_pattern_wrong">Повторите попытку</string>
   <string name="lockscreen_password_wrong">Повторите попытку</string>
   <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
-  <string name="lockscreen_plugged_in">арядка батареи (%d%%</string>
+  <string name="lockscreen_plugged_in">Зарядка батареи (%d%%)</string>
   <string name="lockscreen_charged">Заряжено</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_low_battery">одключите зарядное устройство (%d%%</string>
+  <string name="lockscreen_low_battery">Подключите зарядное устройство (%d%%)</string>
   <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
   <string name="lockscreen_missing_sim_message">SIM-карта не установлена.</string>
   <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
@@ -1054,9 +1054,9 @@
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-  <string name="wifi_noncuncurrency_message">Start Wi-Fi Client. This will Disconnect Wi-Fi Direct.</string>
+  <string name="wifi_noncuncurrency_message">Начать соединение через Wi-Fi. Соединение Wi-Fi Direct будет отключено.</string>
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
-  <string name="wifi_p2p_noncuncurrency_message">Start Wi-Fi Direct. This will Disconnect Wi-Fi Connection.</string>
+  <string name="wifi_p2p_noncuncurrency_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
   <string name="wifi_p2p_failed_message">"Не удалось запустить Wi-Fi Direct."</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
   <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
@@ -1064,7 +1064,7 @@
   <string name="decline">Отклонить</string>
   <string name="wifi_p2p_invitation_sent_title">Приглашение отправлено</string>
   <string name="wifi_p2p_invitation_to_connect_title">Приглашение к подключению</string>
-  <string name=" wifi_p2p_noncuncurrency_invite_message">This will disconnect any existing Wi-Fi Connection</string>
+  <string name=" wifi_p2p_noncuncurrency_invite_message">Wi-Fi соединение будет отключено</string>
   <string name="wifi_p2p_from_message">От:</string>
   <string name="wifi_p2p_to_message">Кому:</string>
   <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
@@ -1319,8 +1319,8 @@
   <string name="usim_pin_input_renewpin">Введите новый пароль (PIN) еще раз</string>
   <string name="usim_pin_input_success">Пароль(PIN) успешно изменен</string>
   <string name="usim_pin_input_pin">PIN должен быть от 4 до 8 цифр</string>
-  <string name="usim_pin_input_new_pin">PIN should be from 4 to 8 digit</string>
-  <string name="usim_pin_reinput_new_pin">Reentered PIN should be from 4 to 8 digit</string>
+  <string name="usim_pin_input_new_pin">PIN должен быть от 4 до 8 цифр</string>
+  <string name="usim_pin_reinput_new_pin">Новый PIN должен быть от 4 до 8 цифр</string>
   <string name="usim_pin_input_pukinput">PUK должен быть 8 цифр</string>
   <string name="usim_pin_input_error_pintitle">Ошибка ввода PIN</string>
   <string name="usim_pin_input_error_pukinput">Ошибка ввода PIN. Неправильный пароль(PIN) введен 3 раза, введите код разблокироваки(PUK). Внимание! Рекомендуем обратиться к поставщику услуг, если вы неуверены, что знаете PUK</string>
@@ -1368,12 +1368,12 @@
   <string name="skt_service_center">Пожалуйста, свяжитесь с контакт центром(1599-0011).</string>
   <string name="skt_service_center_foreign_roam">Пожалуйста, свяжитесь с сервисным центром(+82-2-6343-9000).</string>
   <string name="skt_service_center_others">Пожалуйста, свяжитесь с сервисным центром.</string>
-  <string name="skt_managed_roaming_dialog_content">"Roaming service is not available now.
- Do you want to select a provider again?"</string>
+  <string name="skt_managed_roaming_dialog_content">"Роуминг недоступен.
+ Хотите ли вы выбрать роуминг-оператора снова?"</string>
   <string name="button_ok">Ок</string>
-  <string name="skt_roaming_current_network">Current Network Provider</string>
-  <string name="skt_roaming_reg_failure">Roaming service is not available.</string>
-  <string name="skt_roaming_reselect_network">Need to reselect a network provider.</string>
+  <string name="skt_roaming_current_network">Текущий роуминг-оператор</string>
+  <string name="skt_roaming_reg_failure">Роуминг недоступен.</string>
+  <string name="skt_roaming_reselect_network">Необходимо изменить роуминг-оператора.</string>
   <string name="alwayson_popup_dialog_title">Подключение к сети передачи данных</string>
   <string name="alwayson_popup_initial_title">Настройка сети передачи данных</string>
   <string name="alwayson_popup_dialog_content">"Передача данных просит разрешить доступ к беспроводным сетям, что может повлечь дополнительную плату за передачу.
@@ -1388,12 +1388,12 @@
   <string name="roaming_data_connection_toast_string">"При использовании передачи данных в роуминге, тарифный план не учитывается.
 Может быть снята дополнительная плата."</string>
   <string name="dlg_dataRoamingTitle">Настройки роуминга передачи данных</string>
-  <string name="dlg_dataRoamingMsgAllow">Agree(Allow)</string>
-  <string name="dlg_dataRoamingMsgBlock">Cancel(Block)</string>
-  <string name="data_roaming_msg_checked">Agree</string>
-  <string name="data_roaming_msg_agree1">I confirm that I have read the terms and conditions below, and agree on roaming data usage.</string>
+  <string name="dlg_dataRoamingMsgAllow">Согласен(Разрешить)</string>
+  <string name="dlg_dataRoamingMsgBlock">Отменить(Запретить)</string>
+  <string name="data_roaming_msg_checked">Согласен</string>
+  <string name="data_roaming_msg_agree1">Я подтверждаю, что ознакомился с нижеуказанными условиями и соглашаюсь на использование роуминга данных.</string>
   <string name="data_roaming_msg_agree2">
-    <font fgcolor="#ffff0000">Automatic synchronization</font> such as SNS or email or weather may incur additional charges in addition to your domestic flat rate plan. (Except One Pass plan)</string>
+    <font fgcolor="#ffff0000">Автоматическая синхронизация</font> например для электронной почты или погоды может вызвать дополнительные расходы помимо вашей основной абонентской платы.</string>
   <string name="data_connection_toast_string">Подключение к сети передачи данных</string>
   <string name="title_eap_notification">Успешная сертификация</string>
   <string name="toast_auth_timeout">Нет ответа от сети Wi-Fi</string>
@@ -1403,8 +1403,8 @@
 Выключить Wi-Fi?"</string>
   <string name="wificonnection_popup_dialog_ok_button">Да</string>
   <string name="wificonnection_popup_dialog_cancel_button">Нет</string>
-  <string name="wificonnection_popup_dialog_check_box">Do not show this again.</string>
-  <string name="wifi_psk_nego_fail">Check PASSWORD again.</string>
+  <string name="wificonnection_popup_dialog_check_box">Не показывать снова.</string>
+  <string name="wifi_psk_nego_fail">Проверьте ПАРОЛЬ снова.</string>
   <string name="msg_low_storage_view_title">Память заполнена</string>
   <string name="msg_low_storage_view_text">Не удается получить сообщение.</string>
   <string name="str_list_default_msg">Пожалуйста, позвоните.</string>
@@ -1412,10 +1412,10 @@
   <string name="str_locked_message">Заблокированное сообщение</string>
   <string name="wap_msg_title_lgt">[LG U+]</string>
   <string name="wap_msg_title_cp">[Служба передачи данных]</string>
-  <string name="wap_msg_title_corp">[3rd Party Site]</string>
-  <string name="web_msg_title_lgt">[WEB Site]</string>
-  <string name="web_msg_title_cp">[WEB Site]</string>
-  <string name="web_msg_title_corp">[3rd Party Site]</string>
+  <string name="wap_msg_title_corp">[Сторонний сайт]</string>
+  <string name="web_msg_title_lgt">[WEB-сайт]</string>
+  <string name="web_msg_title_cp">[WEB-сайт]</string>
+  <string name="web_msg_title_corp">[Сторонний сайт]</string>
   <string name="shared_msg_title">[OZ]</string>
   <string name="cbs_msg_title">[Общий канал]</string>
   <string name="ppt_msg_title">[Пейджинг]</string>
@@ -1437,9 +1437,9 @@
   <string name="sky_bgp_no_title">Музыка не найдена</string>
   <string name="sky_bgp_no_subinfo">Музыка</string>
   <string name="sky_skt_fota_title">Телефон службы обеспечения</string>
-  <string name="sky_usim_missing_contents">"Restart after inserting USIM. 
-Emergency calls can be enabled."</string>
-  <string name="keyguard_eas_reset_guide">"%d attempts remain before device's data is wiped out."</string>
+  <string name="sky_usim_missing_contents">"Перезапустить после того, как будет вставлена USIM. 
+Экстренные вызовы могут быть включены."</string>
+  <string name="keyguard_eas_reset_guide">"%d Попыток осталось до сброса настроек по умолчанию, что приведет к удалению всех пользовательских данных."</string>
   <string name="sky_unlock_service_notice">"SKY Cyber Pluszone
 www.skyservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' menu."</string>
   <string name="account_unlock_bakcup_pin_text">If you forget your Google sign-in details, you can enter your backup PIN to unlock.</string>
@@ -1464,23 +1464,23 @@ MMM dd"</string>
   <string name="sky_hold_gesture_slide_player">Плеер</string>
   <string name="sky_hold_gesture_slide_sns">SNS</string>
   <string name="sky_hold_gesture_slide_zero">"Добавить жест: Настройки &gt; Экран &gt; Локскрин &gt; Жесты &gt; Гид по жестам"</string>
-  <string name="sky_hold_gesture_slide_camera">Camera</string>
+  <string name="sky_hold_gesture_slide_camera">Камера</string>
   <string name="sky_hold_gesture_slide_smartvoice">Smart Voice</string>
-  <string name="sky_hold_gesture_slide_contacts">Contacts</string>
-  <string name="sky_hold_gesture_slide_browser">Web</string>
+  <string name="sky_hold_gesture_slide_contacts">Контакты</string>
+  <string name="sky_hold_gesture_slide_browser">Браузер</string>
   <string name="gesture_category_unlock">Разблокировать</string>
   <string name="gesture_category_applications">Приложения</string>
   <string name="string_6knob_full_charge_message_01">Зарядка завершена</string>
-  <string name="string_6knob_full_charge_message_02">Отключите зарядное</string>
+  <string name="string_6knob_full_charge_message_02">Отключите зарядное устройство</string>
   <string name="sky_6knob_hold_time_format">E, MMM dd</string>
-  <string name="sky_missed_comm_guide">Тащите значек сюда</string>
+  <string name="sky_missed_comm_guide">Перетащите иконку сюда</string>
   <string name="string_6knob_batt_percent">%</string>
-  <string name="string_6knob_batt_full_text">Полная</string>
+  <string name="string_6knob_batt_full_text">Полностью заряжен</string>
   <string name="string_6knob_batt_full_percent">100%</string>
-  <string name="sky_missed_comm_guide_unlock">Drag icon here to unlock</string>
-  <string name="sky_missed_comm_guide_excute">"Drag icon here to run
+  <string name="sky_missed_comm_guide_unlock">Перетащите иконку сюда чтобы разблокировать</string>
+  <string name="sky_missed_comm_guide_excute">"Перетащите иконку сюда для запуска
 "</string>
-  <string name="sky_unlock_guide">Drag icon into circle.</string>
+  <string name="sky_unlock_guide">Перетащите иконку в круг.</string>
   <string name="string_visual_default_shortcut_01">Телефон</string>
   <string name="string_visual_default_shortcut_02">Сообщения</string>
   <string name="string_visual_default_shortcut_03">Smart Voice</string>
@@ -1491,19 +1491,19 @@ MMM dd"</string>
   <string name="simple_unlock_guide">Включите, чтобы разблокировать экран</string>
   <string name="sky_simple_date_normal_format">E, MMM dd</string>
   <string name="sky_simple_date_roaming_format">MM.dd (E)</string>
-  <string name="sky_new_gesture_error_text">Retry after checking gesture</string>
-  <string name="sky_new_gesture_help_text">Draw a straight line to unlock</string>
+  <string name="sky_new_gesture_error_text">Повторите после проверки жеста</string>
+  <string name="sky_new_gesture_help_text">Проведите прямую линию чтобы разблокировать</string>
   <string name="sky_new_gesture_date_format">E, MMM dd</string>
-  <string name="keyguard_accessbility_guide1">drag to down</string>
-  <string name="keyguard_accessbility_guide2">drag to right</string>
-  <string name="keyguard_accessbility_guide3">drag to left</string>
-  <string name="keyguard_accessbility_guide4">drag to up</string>
-  <string name="keyguard_accessbility_visual_guide1">Left to</string>
-  <string name="keyguard_accessbility_visual_guide2">Left to Unlock</string>
-  <string name="keyguard_accessbility_visual_guide3">Right to vibrate on</string>
-  <string name="keyguard_accessbility_visual_guide4">Right to vibrate off</string>
+  <string name="keyguard_accessbility_guide1">тащите вниз</string>
+  <string name="keyguard_accessbility_guide2">тащите вправо</string>
+  <string name="keyguard_accessbility_guide3">тащите влево</string>
+  <string name="keyguard_accessbility_guide4">тащите вверх</string>
+  <string name="keyguard_accessbility_visual_guide1">Влово для</string>
+  <string name="keyguard_accessbility_visual_guide2">Влево для разблокировки</string>
+  <string name="keyguard_accessbility_visual_guide3">Вправо для включения вибрации</string>
+  <string name="keyguard_accessbility_visual_guide4">Вправо для отключения вибрации</string>
   <string name="permlab_bindAlwaysOnTop">поверх всех окон</string>
-  <string name="permdesc_bindAlwaysOnTop">Позволяет владельцу связываться с верхнего уровня интерфейса поверх всех окон. Не требуется для обычных приложений.</string>
+  <string name="permdesc_bindAlwaysOnTop">Позволяет оставить мини окно поверх интерфейса. Не используется обычными приложениями.</string>
   <string name="alwaysontop">Поверх всех окон</string>
   <string name="aot_on_the_phone">Не удалось запустить мини Окно во время звонка.</string>
   <string name="aot_music">Музыка</string>
@@ -1512,20 +1512,20 @@ MMM dd"</string>
   <string name="aot_note">Блокнот</string>
   <string name="aot_video">Видео</string>
   <string name="aot_pen">V note</string>
-  <string name="aot_camera">Camera</string>
-  <string name="aot_dialer">Dial</string>
-  <string name="aot_calculator">Calculator</string>
-  <string name="aot_folder">Folder</string>
+  <string name="aot_camera">Камера</string>
+  <string name="aot_dialer">Телефон</string>
+  <string name="aot_calculator">Калькулятор</string>
+  <string name="aot_folder">Папка</string>
   <string name="aot_text_action">Text Action</string>
   <string name="aot_smart_voice">Smart Voice</string>
-  <string name="aot_mini_window">mini Window</string>
+  <string name="aot_mini_window">мини Окно</string>
   <string name="aot_old_tdmb">T-DMB</string>
-  <string name="aot_old_pen">Sketch</string>
-  <string name="aot_app_disable">Enable mini %s in System settings.</string>
-  <string name="aot_old_note">Notepad</string>
-  <string name="usb_pc_mode_notification_title">Подключен как установщик.</string>
-  <string name="usb_pst_mode_notification_title">Connected as a PST mode</string>
-  <string name="usb_sdcard_mode_notification_title">Connected as a sdcard mode(only SD card)</string>
+  <string name="aot_old_pen">Набросок</string>
+  <string name="aot_app_disable">Включите мини %s в Системных настройках.</string>
+  <string name="aot_old_note">Блокнот</string>
+  <string name="usb_pc_mode_notification_title">Подключен в PC mode.</string>
+  <string name="usb_pst_mode_notification_title">Подключен в  PST mode</string>
+  <string name="usb_sdcard_mode_notification_title">Подключен как USB-накопитель(только SD карта)</string>
   <string name="restart">Перезагрузить</string>
   <string name="reboot_confirm">Телефон будет перезагружен.</string>
   <string name="global_action_restart">Перезагрузить</string>
@@ -1535,10 +1535,10 @@ MMM dd"</string>
   <string name="otg_dev_removed_notification_title">USB-устройство отключено</string>
   <string name="otg_power_disconnected_notification_title">Отключиет USB-хост кабель, и подключите устройство заново</string>
   <string name="otg_power_disconnected_notification_message"></string>
-  <string name="airplane_mode_is_on">Airplane mode is ON</string>
-  <string name="airplane_mode_is_off">Airplane mode is OFF</string>
-  <string name="volume_icon_description_system">System volume</string>
-  <string name="shortage_storage">Unable to screenshot due to exceeded memory capacity.</string>
+  <string name="airplane_mode_is_on">Режим самолета вкл.</string>
+  <string name="airplane_mode_is_off">Режим самолета выкл.</string>
+  <string name="volume_icon_description_system">Системная громкость</string>
+  <string name="shortage_storage">Невозможно создать скриншот из-за превышения емкости памяти.</string>
   <item type="string" name="APKTOOL_DUMMY_0575">false</item>
   <item type="string" name="APKTOOL_DUMMY_0576">false</item>
   <item type="string" name="APKTOOL_DUMMY_0577">false</item>
