@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
-        <item>America</item>
-        <item>Europe</item>
-        <item>Africa</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
     </string-array>
     <string-array name="date_format_values">
         <item></item>
@@ -16,13 +16,13 @@
         <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -34,14 +34,14 @@
         <item>1800000</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="dream_timeout_values">
         <item>0</item>
@@ -54,15 +54,15 @@
         <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>Сразу</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_values">
         <item>0</item>
@@ -76,10 +76,10 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>0.85</item>
@@ -88,11 +88,11 @@
         <item>1.30</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -102,11 +102,11 @@
         <item>200</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Very low</item>
-        <item>Low</item>
-        <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
     </string-array>
     <string-array name="tts_pitch_values">
         <item>50</item>
@@ -131,31 +131,31 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s...</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s...</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <array name="wifi_security">
         <item>@string/wifi_security_none</item>
@@ -180,38 +180,38 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push button</item>
-        <item>PIN from peer device</item>
-        <item>PIN from this device</item>
+        <item>Push-кнопка</item>
+        <item>PIN-код с обнаруженного устройства</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Connected</item>
-        <item>Invited</item>
-        <item>Unsuccessful</item>
-        <item>Available</item>
-        <item>Out-of-range</item>
+        <item>Подключено</item>
+        <item>Приглашено</item>
+        <item>Сбой</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>1 hour</item>
-        <item>Never time out</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>1 час</item>
+        <item>Без тайм-аута</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Good</item>
-        <item>Excellent</item>
+        <item>Слабый</item>
+        <item>Нормальный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never (increases data usage)</item>
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда (увеличивает расход трафика)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
         <item>2</item>
@@ -219,9 +219,9 @@
         <item>0</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Auto</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2,4 ГГц</item>
     </string-array>
     <string-array name="wifi_frequency_band_values">
         <item>0</item>
@@ -229,9 +229,9 @@
         <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Usage time</item>
-        <item>Launch count</item>
-        <item>App name</item>
+        <item>Время использования</item>
+        <item>Подсчитать</item>
+        <item>Название приложения</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -248,16 +248,16 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>Static</item>
+        <item>Пользовательские</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>None</item>
-        <item>Manual</item>
+        <item>Нет</item>
+        <item>Вручную</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Off</item>
-        <item>Alert</item>
-        <item>Vibrate</item>
+        <item>Выкл.</item>
+        <item>Оповещение</item>
+        <item>Виброзвонок</item>
     </string-array>
     <string-array name="emergency_tone_values">
         <item>0</item>
@@ -295,15 +295,15 @@
         <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>Unspecified</item>
+        <item>Не указано</item>
     </string-array>
     <string-array name="bearer_values">
         <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Internal device storage</item>
-        <item>Removable SD card</item>
-        <item>Let the system decide</item>
+        <item>Внутренняя память устройства</item>
+        <item>Съемная SD-карта</item>
+        <item>На усмотрение системы</item>
     </string-array>
     <string-array name="app_install_location_values">
         <item>device</item>
@@ -311,9 +311,9 @@
         <item>auto</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Небольшая</item>
+        <item>Средняя</item>
+        <item>Большая</item>
     </string-array>
     <string-array name="long_press_timeout_selector_values">
         <item>500</item>
