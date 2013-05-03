@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_screen_looping_items">
+        <item>Set both screens</item>
+        <item>Set Home screen only</item>
+        <item>Set Apps screen only</item>
+    </string-array>
+    <string-array name="home_screen_grid_style_items">
+        <item>4X4 layout</item>
+        <item>5X5 layout</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+</resources>
