@@ -1387,7 +1387,7 @@
   <string name="conn_fail_string">Ошибка сети. Попробуйте подключиться еще раз после отключения.</string>
   <string name="roaming_data_connection_toast_string">"При использовании передачи данных в роуминге, тарифный план не учитывается.
 Может быть снята дополнительная плата."</string>
-  <string name="dlg_dataRoamingTitle">Настройки роуминга передачи данных</string>
+  <string name="dlg_dataRoamingTitle">Настройки передачи данных в роуминге</string>
   <string name="dlg_dataRoamingMsgAllow">Согласен(Разрешить)</string>
   <string name="dlg_dataRoamingMsgBlock">Отменить(Запретить)</string>
   <string name="data_roaming_msg_checked">Согласен</string>
