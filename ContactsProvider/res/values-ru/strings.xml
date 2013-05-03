@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Contacts Storage</string>
+    <string name="provider_label">Contacts</string>
+    <string name="upgrade_msg">Upgrading contacts database.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
+    <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
+    <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
+    <string name="default_directory">Contacts</string>
+    <string name="local_invisible_directory">Other</string>
+    <string name="read_write_all_voicemail_label">Access all voicemails</string>
+    <string name="read_write_all_voicemail_description">Allows the app to store and retrieve all voicemails that this device can access.</string>
+    <string name="voicemail_from_column">"Voicemail from "</string>
+    <string name="full_storage_msg">Not enough storage space. Check the remaining space and try again.</string>
+    <string name="full_storage_syncing_msg">Contacts cannot be synchronized due to not enough storage space</string>
+</resources>

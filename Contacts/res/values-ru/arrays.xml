@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="sub_list">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="bell_items">
+        <item>No Bell</item>
+        <item>VEGA</item>
+        <item>Android Default</item>
+        <item>Memory</item>
+        <item>Download Bell</item>
+    </string-array>
+    <string-array name="bell_items_nodownload">
+        <item>No Bell</item>
+        <item>VEGA</item>
+        <item>Android Default</item>
+        <item>Memory</item>
+    </string-array>
+    <string-array name="silent">
+        <item>Mute</item>
+    </string-array>
+    <string-array name="sky">
+        <item>Beep Classic</item>
+        <item>Beep Dreamy</item>
+        <item>Beep Jazzy</item>
+        <item>Beep Simple</item>
+        <item>Before the Dawn</item>
+        <item>Beyond the Star</item>
+        <item>Catwalk</item>
+        <item>Confession</item>
+        <item>Default Ring</item>
+        <item>Emotional wave</item>
+        <item>Enigmatic</item>
+        <item>Feel better</item>
+        <item>Forest</item>
+        <item>Happy Sky Land</item>
+        <item>"Heaven's Morning"</item>
+        <item>Hello there</item>
+        <item>Let me out</item>
+        <item>Listen To Me</item>
+        <item>Maple Road</item>
+        <item>Marching Band</item>
+        <item>Melody Lake</item>
+        <item>Round World</item>
+        <item>Sunset Hill</item>
+        <item>Sweet Imagine</item>
+        <item>Tea Time</item>
+        <item>Toy Train</item>
+        <item>Traveling Butterfly</item>
+        <item>Walking in the clouds</item>
+        <item>Waltz with Birds</item>
+        <item>Welcome Party</item>
+        <item>World Of Network</item>
+    </string-array>
+    <string-array name="select_sns_item">
+        <item>Me2day</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+    </string-array>
+    <array name="pcu_dialer_image_skin1_number">
+        <item>@drawable/pcu_dialer_image_skin1_1</item>
+        <item>@drawable/pcu_dialer_image_skin1_2</item>
+        <item>@drawable/pcu_dialer_image_skin1_3</item>
+        <item>@drawable/pcu_dialer_image_skin1_4</item>
+        <item>@drawable/pcu_dialer_image_skin1_5</item>
+        <item>@drawable/pcu_dialer_image_skin1_6</item>
+        <item>@drawable/pcu_dialer_image_skin1_7</item>
+        <item>@drawable/pcu_dialer_image_skin1_8</item>
+        <item>@drawable/pcu_dialer_image_skin1_9</item>
+        <item>@drawable/pcu_dialer_image_skin1_star</item>
+        <item>@drawable/pcu_dialer_image_skin1_0</item>
+        <item>@drawable/pcu_dialer_image_skin1_pound</item>
+    </array>
+    <array name="pcu_dialer_image_skin2_number">
+        <item>@drawable/pcu_dialer_image_skin2_1</item>
+        <item>@drawable/pcu_dialer_image_skin2_2</item>
+        <item>@drawable/pcu_dialer_image_skin2_3</item>
+        <item>@drawable/pcu_dialer_image_skin2_4</item>
+        <item>@drawable/pcu_dialer_image_skin2_5</item>
+        <item>@drawable/pcu_dialer_image_skin2_6</item>
+        <item>@drawable/pcu_dialer_image_skin2_7</item>
+        <item>@drawable/pcu_dialer_image_skin2_8</item>
+        <item>@drawable/pcu_dialer_image_skin2_9</item>
+        <item>@drawable/pcu_dialer_image_skin2_star</item>
+        <item>@drawable/pcu_dialer_image_skin2_0</item>
+        <item>@drawable/pcu_dialer_image_skin2_pound</item>
+    </array>
+    <array name="pcu_dialer_image_skin3_number">
+        <item>@drawable/pcu_dialer_image_skin3_1</item>
+        <item>@drawable/pcu_dialer_image_skin3_2</item>
+        <item>@drawable/pcu_dialer_image_skin3_3</item>
+        <item>@drawable/pcu_dialer_image_skin3_4</item>
+        <item>@drawable/pcu_dialer_image_skin3_5</item>
+        <item>@drawable/pcu_dialer_image_skin3_6</item>
+        <item>@drawable/pcu_dialer_image_skin3_7</item>
+        <item>@drawable/pcu_dialer_image_skin3_8</item>
+        <item>@drawable/pcu_dialer_image_skin3_9</item>
+        <item>@drawable/pcu_dialer_image_skin3_star</item>
+        <item>@drawable/pcu_dialer_image_skin3_0</item>
+        <item>@drawable/pcu_dialer_image_skin3_pound</item>
+    </array>
+    <array name="pcu_dialer_image_skin4_number">
+        <item>@drawable/pcu_dialer_image_skin4_1</item>
+        <item>@drawable/pcu_dialer_image_skin4_2</item>
+        <item>@drawable/pcu_dialer_image_skin4_3</item>
+        <item>@drawable/pcu_dialer_image_skin4_4</item>
+        <item>@drawable/pcu_dialer_image_skin4_5</item>
+        <item>@drawable/pcu_dialer_image_skin4_6</item>
+        <item>@drawable/pcu_dialer_image_skin4_7</item>
+        <item>@drawable/pcu_dialer_image_skin4_8</item>
+        <item>@drawable/pcu_dialer_image_skin4_9</item>
+        <item>@drawable/pcu_dialer_image_skin4_star</item>
+        <item>@drawable/pcu_dialer_image_skin4_0</item>
+        <item>@drawable/pcu_dialer_image_skin4_pound</item>
+    </array>
+    <array name="pcu_dialer_image_skin5_number">
+        <item>@drawable/pcu_dialer_image_skin5_1</item>
+        <item>@drawable/pcu_dialer_image_skin5_2</item>
+        <item>@drawable/pcu_dialer_image_skin5_3</item>
+        <item>@drawable/pcu_dialer_image_skin5_4</item>
+        <item>@drawable/pcu_dialer_image_skin5_5</item>
+        <item>@drawable/pcu_dialer_image_skin5_6</item>
+        <item>@drawable/pcu_dialer_image_skin5_7</item>
+        <item>@drawable/pcu_dialer_image_skin5_8</item>
+        <item>@drawable/pcu_dialer_image_skin5_9</item>
+        <item>@drawable/pcu_dialer_image_skin5_star</item>
+        <item>@drawable/pcu_dialer_image_skin5_0</item>
+        <item>@drawable/pcu_dialer_image_skin5_pound</item>
+    </array>
+    <string-array name="pcu_dialer_kor">
+        <item>@string/pcu_dialer_1_kor</item>
+        <item>@string/pcu_dialer_2_kor</item>
+        <item>@string/pcu_dialer_3_kor</item>
+        <item>@string/pcu_dialer_4_kor</item>
+        <item>@string/pcu_dialer_5_kor</item>
+        <item>@string/pcu_dialer_6_kor</item>
+        <item>@string/pcu_dialer_7_kor</item>
+        <item>@string/pcu_dialer_8_kor</item>
+        <item>@string/pcu_dialer_9_kor</item>
+        <item>@string/pcu_dialer_star_kor</item>
+        <item>@string/pcu_dialer_0_kor</item>
+        <item>@string/pcu_dialer_pound_kor</item>
+    </string-array>
+    <string-array name="pcu_dialer_cj_kor">
+        <item>@string/pcu_dialer_1_cj_kor</item>
+        <item>@string/pcu_dialer_2_cj_kor</item>
+        <item>@string/pcu_dialer_3_cj_kor</item>
+        <item>@string/pcu_dialer_4_cj_kor</item>
+        <item>@string/pcu_dialer_5_cj_kor</item>
+        <item>@string/pcu_dialer_6_cj_kor</item>
+        <item>@string/pcu_dialer_7_cj_kor</item>
+        <item>@string/pcu_dialer_8_cj_kor</item>
+        <item>@string/pcu_dialer_9_cj_kor</item>
+        <item>@string/pcu_dialer_star_cj_kor</item>
+        <item>@string/pcu_dialer_0_cj_kor</item>
+        <item>@string/pcu_dialer_pound_cj_kor</item>
+    </string-array>
+    <string-array name="pcu_dialer_nr_kor">
+        <item>@string/pcu_dialer_1_nr_kor</item>
+        <item>@string/pcu_dialer_2_nr_kor</item>
+        <item>@string/pcu_dialer_3_nr_kor</item>
+        <item>@string/pcu_dialer_4_nr_kor</item>
+        <item>@string/pcu_dialer_5_nr_kor</item>
+        <item>@string/pcu_dialer_6_nr_kor</item>
+        <item>@string/pcu_dialer_7_nr_kor</item>
+        <item>@string/pcu_dialer_8_nr_kor</item>
+        <item>@string/pcu_dialer_9_nr_kor</item>
+        <item>@string/pcu_dialer_star_nr_kor</item>
+        <item>@string/pcu_dialer_0_nr_kor</item>
+        <item>@string/pcu_dialer_pound_nr_kor</item>
+    </string-array>
+    <string-array name="pcu_dialer_eng">
+        <item>@string/pcu_dialer_1_eng</item>
+        <item>@string/pcu_dialer_2_eng</item>
+        <item>@string/pcu_dialer_3_eng</item>
+        <item>@string/pcu_dialer_4_eng</item>
+        <item>@string/pcu_dialer_5_eng</item>
+        <item>@string/pcu_dialer_6_eng</item>
+        <item>@string/pcu_dialer_7_eng</item>
+        <item>@string/pcu_dialer_8_eng</item>
+        <item>@string/pcu_dialer_9_eng</item>
+    </string-array>
+    <string-array name="pcu_dialer_description_num">
+        <item>@string/pcu_dialer_description_one</item>
+        <item>@string/pcu_dialer_description_two</item>
+        <item>@string/pcu_dialer_description_three</item>
+        <item>@string/pcu_dialer_description_four</item>
+        <item>@string/pcu_dialer_description_five</item>
+        <item>@string/pcu_dialer_description_six</item>
+        <item>@string/pcu_dialer_description_seven</item>
+        <item>@string/pcu_dialer_description_eight</item>
+        <item>@string/pcu_dialer_description_nine</item>
+        <item>@string/pcu_dialer_description_star</item>
+        <item>@string/pcu_dialer_description_zero</item>
+        <item>@string/pcu_dialer_description_pound</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0007">false</item>
+</resources>

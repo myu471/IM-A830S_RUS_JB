@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unrestricted_packages">
+        <item>com.android.contacts</item>
+        <item>com.android.calendar</item>
+        <item>com.android.email</item>
+        <item>com.facebook.katana</item>
+        <item>com.pantech.app.FriendsWidgetPlatinum</item>
+        <item>com.pantech.app.FriendsWidgetSuprema</item>
+        <item>com.pantech.app.sns</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.phone</item>
+        <item>com.pantech.app.vt</item>
+        <item>com.pantech.app.livecanvas</item>
+        <item>android</item>
+    </string-array>
+</resources>

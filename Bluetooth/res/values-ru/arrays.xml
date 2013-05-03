@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup_2">
+        <item>One page per side</item>
+        <item>Two page per side</item>
+    </string-array>
+    <string-array name="numberup_val_2">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="numberup_4">
+        <item>One page per side</item>
+        <item>Two page per side</item>
+        <item>Four page per side</item>
+    </string-array>
+    <string-array name="numberup_val_4">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="numberup_6">
+        <item>One page per side</item>
+        <item>Two page per side</item>
+        <item>Four page per side</item>
+        <item>Six page per side</item>
+    </string-array>
+    <string-array name="numberup_val_6">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="numberup_9">
+        <item>One page per side</item>
+        <item>Two page per side</item>
+        <item>Four page per side</item>
+        <item>Six page per side</item>
+        <item>Nine page per side</item>
+    </string-array>
+    <string-array name="numberup_val_9">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="numberup_16">
+        <item>One page per side</item>
+        <item>Two page per side</item>
+        <item>Four page per side</item>
+        <item>Six page per side</item>
+        <item>Nine page per side</item>
+        <item>Sixteen page per side</item>
+    </string-array>
+    <string-array name="numberup_val_16">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Reverse Landscape</item>
+        <item>Reverse Portrait</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>reverse-landscape</item>
+        <item>reverse-portrait</item>
+    </string-array>
+    <string-array name="sides">
+        <item>One Sided</item>
+        <item>Two Sided Long Edge</item>
+        <item>Two Sided Short Edge</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>one-sided</item>
+        <item>two-sided-long-edge</item>
+        <item>two-sided-short-edge</item>
+    </string-array>
+    <string-array name="quality">
+        <item>Draft</item>
+        <item>Normal</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="quality_val">
+        <item>draft</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+</resources>
