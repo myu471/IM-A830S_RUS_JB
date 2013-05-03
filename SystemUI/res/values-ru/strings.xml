@@ -121,44 +121,44 @@
   <string name="gps_notification_searching_text">Поиск GPS</string>
   <string name="gps_notification_found_text">Местоположение установлено с помощью GPS</string>
   <string name="accessibility_clear_all">Удалить все уведомления</string>
-  <string name="dreams_dock_launcher">Activate screen saver</string>
-  <string name="status_bar_notification_inspect_item_title">App info</string>
-  <string name="notifications_off_title">Notifications off</string>
-  <string name="notifications_off_text">Tap here to turn notifications back on.</string>
-  <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
-  <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
-  <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
+  <string name="dreams_dock_launcher">Активировать скринсейвер</string>
+  <string name="status_bar_notification_inspect_item_title">О приложении</string>
+  <string name="notifications_off_title">Уведомления отключены</string>
+  <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления.</string>
+  <string name="accessibility_rotation_lock_off">Экран поворачивается автоматически.</string>
+  <string name="accessibility_rotation_lock_on_landscape">Экран заблокирован в горизонтальном положении.</string>
+  <string name="accessibility_rotation_lock_on_portrait">Экран заблокирован в вертикальном положении.</string>
   <string name="config_carrier">skt</string>
-  <string name="easy_setting">Quick Settings</string>
+  <string name="easy_setting">Быстр. настройки</string>
   <string name="easy_setting_wifi_setting">Wi-Fi</string>
   <string name="easy_setting_bt_setting">Bluetooth</string>
   <string name="easy_setting_gps_setting">GPS</string>
-  <string name="easy_setting_silent_setting">Vibrate</string>
-  <string name="easy_setting_3g_setting">Data</string>
-  <string name="easy_setting_rotation_setting">"Auto
-Rotate"</string>
-  <string name="easy_setting_aa_setting">"Auto
-Answer"</string>
+  <string name="easy_setting_silent_setting">Вибро</string>
+  <string name="easy_setting_3g_setting">Данные</string>
+  <string name="easy_setting_rotation_setting">"Авто
+поворот"</string>
+  <string name="easy_setting_aa_setting">"Авто
+ответ"</string>
   <string name="quick_setting_bt_link">Bluetooth</string>
   <string name="quick_setting_tethering_link">Tethering</string>
-  <string name="quick_setting_sound_link">Sound</string>
-  <string name="quick_setting_program_link">Mode/Apps</string>
+  <string name="quick_setting_sound_link">Звук</string>
+  <string name="quick_setting_program_link">Режим/Приложения</string>
   <string name="quick_setting_wifi_link">Wi-Fi</string>
-  <string name="quick_setting_brightness_link">Display</string>
-  <string name="quick_setting_battery_link">Battery</string>
-  <string name="quick_setting_lock_link">Lock</string>
+  <string name="quick_setting_brightness_link">Экран</string>
+  <string name="quick_setting_battery_link">Батарея</string>
+  <string name="quick_setting_lock_link">Заблокировать</string>
   <string name="quick_setting_qsound_link">QSound</string>
-  <string name="quick_setting_sync_link">Sync</string>
-  <string name="quick_setting">Settings Shortcuts</string>
+  <string name="quick_setting_sync_link">Синхронизация</string>
+  <string name="quick_setting">Быстр. настройки</string>
   <string name="easy_setting_veil_setting">SecretView</string>
-  <string name="no_music_to_play">No music found</string>
-  <string name="quicksetting_on_off_btn_open">Open</string>
-  <string name="quicksetting_on_off_btn_close">Close</string>
-  <string name="easy_setting_acra_exception">Terminates abnormally</string>
-  <string name="easy_setting_eco_setting">Power Saving</string>
-  <string name="easy_setting_motion_setting">"Motion
-Recognition"</string>
-  <string name="simple_easy_setting_auto_rotate">Auto Rotate</string>
+  <string name="no_music_to_play">Музыка не найдена</string>
+  <string name="quicksetting_on_off_btn_open">Открыть</string>
+  <string name="quicksetting_on_off_btn_close">Закрыть</string>
+  <string name="easy_setting_acra_exception">Завершилось аварийно</string>
+  <string name="easy_setting_eco_setting">Энергосбережение</string>
+  <string name="easy_setting_motion_setting">"Распознавание
+движения"</string>
+  <string name="simple_easy_setting_auto_rotate">Автоповорот</string>
   <string name="data_mode_enable_dialog_string">Data fee will be charged by accessing data network and overcharged if data usage is high.</string>
   <string name="data_mode_disable_dialog_string">When disconnect data network, available to use and access data in Wi-Fi acceptable area.</string>
   <string name="easy_setting_edit">Edit</string>
@@ -208,7 +208,7 @@ Roaming"</string>
   <string name="Fully_charged_title">Charging is completed.</string>
   <string name="Fully_charged_msg">Fully charged. Disconnect charger.</string>
   <string name="edit_screenshot">Edit</string>
-  <string name="title_aot">mini Window</string>
+  <string name="title_aot">мини Окно</string>
   <string name="title_textaction">Text Action</string>
   <string name="title_voice">Smart Voice</string>
   <string name="title_kt_genie">Genie</string>
@@ -224,10 +224,10 @@ Roaming"</string>
   <string name="recents_screen_describe">View recently used apps. Tap an app to view it.</string>
   <string name="recents_screen_swipe_describe_port">Swipe left or right on an app to remove it from the list and close it.</string>
   <string name="recents_screen_swipe_describe_land">Swipe up or down on an app to remove it from the list and close it.</string>
-  <string name="recent_tutorial_social_on">Music</string>
-  <string name="recent_tutorial_messaging">Messaging</string>
-  <string name="recent_no_install">App is not installed.</string>
-  <string name="google_search">Search</string>
+  <string name="recent_tutorial_social_on">Музыка</string>
+  <string name="recent_tutorial_messaging">Сообщения</string>
+  <string name="recent_no_install">Приложение не установлено.</string>
+  <string name="google_search">Поиск</string>
   <item type="string" name="APKTOOL_DUMMY_00dd">false</item>
   <item type="string" name="APKTOOL_DUMMY_00de">false</item>
 </resources>
