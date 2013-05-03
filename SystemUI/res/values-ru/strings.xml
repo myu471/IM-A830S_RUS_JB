@@ -129,7 +129,7 @@
   <string name="accessibility_rotation_lock_on_landscape">Экран заблокирован в горизонтальном положении.</string>
   <string name="accessibility_rotation_lock_on_portrait">Экран заблокирован в вертикальном положении.</string>
   <string name="config_carrier">skt</string>
-  <string name="easy_setting">Быстр. настройки</string>
+  <string name="easy_setting">Переключатели</string>
   <string name="easy_setting_wifi_setting">Wi-Fi</string>
   <string name="easy_setting_bt_setting">Bluetooth</string>
   <string name="easy_setting_gps_setting">GPS</string>
