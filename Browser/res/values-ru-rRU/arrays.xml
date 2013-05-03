@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>naver</item>
-        <item>daum</item>
-        <item>nate</item>
-    </string-array>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="search_engines" translatable="false">
+    <item>google</item>
+    <item>yandex_ru</item>
+    <item>mail_ru</item>
+    <item>tut</item>
+    <item>rambler</item>
+    <item>bing_ru_RU</item>
+  </string-array>
 </resources>
