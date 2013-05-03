@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="holiday_event">Holiday</string>
-  <string name="more_string">%1$s more...</string>
+  <string name="holiday_event">Выходные</string>
+  <string name="more_string">Еще %1$s...</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
   <string name="done">Return</string>
@@ -107,8 +107,8 @@
   <string name="quick_response_email_failed">Не удалось найти почтовый клиент.</string>
   <string name="quick_response_custom_msg">Свое сообщение…</string>
   <string name="event_info_organizer">Организатор:</string>
-  <string name="event_info_desc_more">More</string>
-  <string name="event_info_desc_less">Less</string>
+  <string name="event_info_desc_more">Больше</string>
+  <string name="event_info_desc_less">Меньше</string>
   <string name="event_info_reminders_label">Напоминания</string>
   <string name="agenda_today">СЕГОДНЯ, %1$s</string>
   <string name="agenda_yesterday">ВЧЕРА, %1$s</string>
@@ -165,13 +165,13 @@
   <string name="preferences_use_home_tz_title">Фикс. часовой пояс</string>
   <string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
   <string name="preferences_home_tz_title">Мой часовой пояс</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
+  <string name="preferences_home_tz_default">Europe/Moscow</string>
   <string name="preferences_show_week_num_title">Показать номер недели</string>
   <string name="preferences_about_title">О программе</string>
   <string name="preferences_build_version">Версия сборки</string>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
+  <string name="prefDefault_alerts_vibrate_true">всегда</string>
+  <string name="prefDefault_alerts_vibrate_false">никогда</string>
   <string name="prefDialogTitle_vibrateWhen">Вибросигнал</string>
   <string name="gadget_title">Календарь</string>
   <string name="gadget_no_events">В календаре нет предстоящих мероприятий</string>
@@ -200,16 +200,16 @@
   <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
   <string name="acessibility_selected_marker_description">Выбранное мероприятие</string>
   <string name="do_not_check">НЕ устанавливайте флажок &gt;</string>
-  <string name="lunar_string1">"Lunar "</string>
+  <string name="lunar_string1">"Лунный "</string>
   <string name="lunar_string2">"Leap "</string>
-  <string name="contact_event_birthday">Birthday</string>
-  <string name="contact_event_anniversary">Anniversary</string>
-  <string name="repeats_end_date_label">Repetition end date</string>
-  <string name="repeats_forever_label">Forever</string>
-  <string name="weekly_every2weeks">Every two weeks (on %s)</string>
-  <string name="search_hint">Search event</string>
-  <string name="preferences_display_contact_event_title">Display contacts events</string>
-  <string name="preferences_display_facebook_birthday_title">Display facebook birthday</string>
+  <string name="contact_event_birthday">День рождения</string>
+  <string name="contact_event_anniversary">Годовщина</string>
+  <string name="repeats_end_date_label">Дата оконочания повторов</string>
+  <string name="repeats_forever_label">Всегда</string>
+  <string name="weekly_every2weeks">Каждые две недели (с %s)</string>
+  <string name="search_hint">Найти мероприятие</string>
+  <string name="preferences_display_contact_event_title">Отобразить мероприятия контактов</string>
+  <string name="preferences_display_facebook_birthday_title">Отобразить дни рождения Facebook</string>
   <string name="parse_fail">The rules are wrong. More to go to the detail event screen.</string>
   <string name="parse_fail_not_save">"Event not created. Quick add doesn't recognize your entry."</string>
   <string name="quick_add_empty_event">Event not created. You must specify what and when the event is.</string>
@@ -247,8 +247,8 @@ day"</string>
   <string name="hint10">Tomorrow shopping</string>
   <string name="si">Hour</string>
   <string name="bun">Minute</string>
-  <string name="event_transfer_fail_message">Transfer failed.</string>
-  <string name="calendar_select_dialog_title">Select calendar to save</string>
+  <string name="event_transfer_fail_message">Сбой передачи</string>
+  <string name="calendar_select_dialog_title">Выберите календарь для сохранения</string>
   <string name="event_save_fail_message">Not saved.</string>
   <string name="event_support_fail_message">This file does not support.</string>
   <string name="event_saved_message">Event saved.</string>

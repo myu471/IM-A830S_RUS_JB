@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="application_name">SKY Home</string>
+  <string name="application_name">Рабочий стол</string>
   <string name="home">Главный экран</string>
   <string name="uid_name">Основные приложения</string>
-  <string name="folder_name"></string>
+  <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Установка обоев</string>
   <string name="wallpaper_instructions">Установить обои</string>
   <string name="pick_wallpaper">Обои</string>
@@ -16,7 +16,7 @@
   <string name="external_drop_widget_error">"Не удалось добавить элемент на главный экран."</string>
   <string name="external_drop_widget_pick_title">Выберите виджет</string>
   <string name="rename_folder_label">Название папки</string>
-  <string name="rename_folder_color_label">Color</string>
+  <string name="rename_folder_color_label">Цвет</string>
   <string name="rename_folder_title">Переименовать папку</string>
   <string name="rename_action">ОК</string>
   <string name="cancel_action">Отмена</string>
@@ -53,7 +53,7 @@
   <string name="menu_notifications">Уведомления</string>
   <string name="menu_settings">Настройки</string>
   <string name="menu_help">Справка</string>
-  <string name="help_url" />
+  <string name="help_url"></string>
   <string name="cab_menu_delete_app">Удалить</string>
   <string name="cab_menu_app_info">О приложении</string>
   <string name="cab_app_selection_text">Выбрано 1 приложение</string>
@@ -210,61 +210,61 @@
   <string name="transition_speed_2">Quick</string>
   <string name="transition_speed_3">Smooth</string>
   <string name="transition_speed_4">Custom</string>
-  <string name="apps_sort_group">Groups</string>
+  <string name="apps_sort_group">Группы</string>
   <string name="apps_sort_apps">Apps</string>
-  <string name="apps_sort_alphabetical">Alphabetical</string>
-  <string name="apps_sort_downloaded">Downloads</string>
-  <string name="apps_menu_search">Search</string>
-  <string name="apps_search_hint">Search apps</string>
-  <string name="apps_menu_hidden">View hidden apps</string>
-  <string name="apps_menu_edit">Edit</string>
+  <string name="apps_sort_alphabetical">По алфавиту</string>
+  <string name="apps_sort_downloaded">Загрузки</string>
+  <string name="apps_menu_search">Поиск</string>
+  <string name="apps_search_hint">Поиск приложений.</string>
+  <string name="apps_menu_hidden">Просмотр скрытых приложений</string>
+  <string name="apps_menu_edit">Редактировать</string>
   <string name="apps_menu_edit_button">EDIT</string>
   <string name="apps_menu_done_button">DONE</string>
-  <string name="apps_menu_edit_finished">Confirmed.</string>
-  <string name="apps_menu_manage_group">Manage groups</string>
-  <string name="apps_menu_playstore">Play Store</string>
-  <string name="apps_menu_share">Share</string>
-  <string name="apps_menu_bg">Change Background</string>
-  <string name="apps_menu_tutorial">Tips</string>
-  <string name="share_title">I recommend these applications.</string>
-  <string name="share_search_hint">Search apps</string>
-  <string name="share_search_toast">Select application to share.</string>
-  <string name="apps_search_denied">Unavailable to search while another mode is set.</string>
+  <string name="apps_menu_edit_finished">Подтверждено.</string>
+  <string name="apps_menu_manage_group">Управление группами</string>
+  <string name="apps_menu_playstore">Магазин</string>
+  <string name="apps_menu_share">Обмен</string>
+  <string name="apps_menu_bg">Изменить фон</string>
+  <string name="apps_menu_tutorial">Подсказки</string>
+  <string name="share_title">Я рекомендую эти приложения.</string>
+  <string name="share_search_hint">Поиск приложений.</string>
+  <string name="share_search_toast">Выберите приложение для публикации.</string>
+  <string name="apps_search_denied">Невозмонжно искать пока выбран другой режим.</string>
   <string name="apps_search_noresult">No results found</string>
-  <string name="share_popup_title">Send via</string>
-  <string name="share_max_selected">Select up to 5 apps.</string>
-  <string name="share_none_selected">Select application to share.</string>
-  <string name="apps_no_sharable">No sharable applications</string>
-  <string name="remove_not_permitted">Not allowed to uninstall application.</string>
-  <string name="apps_menu_theme">Change Icons</string>
-  <string name="no_downloaded_apps">No downloaded applications</string>
-  <string name="edit_mode_enter_group">Check info, move, uninstall or hide.</string>
-  <string name="edit_mode_enter">Touch an icon to check info, uninstall or hide.</string>
+  <string name="share_popup_title">Отправить через</string>
+  <string name="share_max_selected">Выберите до 5 приложений.</string>
+  <string name="share_none_selected">Выберите приложение для публикации.</string>
+  <string name="apps_no_sharable">Нет приложинй для обмена</string>
+  <string name="remove_not_permitted">Нельзя удалить приложение.</string>
+  <string name="apps_menu_theme">Изменить значки</string>
+  <string name="no_downloaded_apps">Нет загруженных приложений.</string>
+  <string name="edit_mode_enter_group">Посмотреть информацию, переместить, удалить или скрыть.</string>
+  <string name="edit_mode_enter">Нажмите на значок, чтобы посмотреть информацию, удалить или скрыть.</string>
   <string name="edit_mode_enter2">Check info, uninstall or hide.</string>
-  <string name="edit_mode_enter_land">"Tap
-or
-Drag"</string>
-  <string name="moved_to_menu">Stored applications moved out to menu.</string>
-  <string name="apps_movetohome">"Add to Homescreen.
-Long press an icon and drag here."</string>
-  <string name="apps_movetohome_click">Long press an icon and drag here.</string>
-  <string name="moved_not_permitted_on_menu">Unable to move applications sorted by name or on download pages</string>
-  <string name="only_download_app_movable">Only download applications can be moved.</string>
-  <string name="apps_isloading">Loading... Try later.</string>
-  <string name="download_title">Downloaded apps</string>
-  <string name="apps_edit_uninstall">Uninstall</string>
-  <string name="apps_edit_hide">Hide</string>
-  <string name="apps_edit_unhide">Unhide</string>
-  <string name="apps_edit_appinfo">Info</string>
-  <string name="apps_hiddeninfo">Touch an icon to check info, uninstall or unhide.</string>
+  <string name="edit_mode_enter_land">"Нажмите
+или
+Тащите"</string>
+  <string name="moved_to_menu">Сохраненные приложения перемещены в меню.</string>
+  <string name="apps_movetohome">"Добавить на Главный экран.
+Долго нажмите на значок и переместите сюда."</string>
+  <string name="apps_movetohome_click">Долго нажмите на значок и переместите сюда.</string>
+  <string name="moved_not_permitted_on_menu">Невозможно переместить приложения, отсортированные по имени страницы загрузки</string>
+  <string name="only_download_app_movable">Только загруженные приложения можно перемещать.</string>
+  <string name="apps_isloading">Загрузка... Попробуйте позже.</string>
+  <string name="download_title">Загруженные приложения</string>
+  <string name="apps_edit_uninstall">Удалить</string>
+  <string name="apps_edit_hide">Скрыть</string>
+  <string name="apps_edit_unhide">Показать</string>
+  <string name="apps_edit_appinfo">Информация</string>
+  <string name="apps_hiddeninfo">Нажмите на значок для просмотра информации, удаления или показа.</string>
   <string name="apps_hiddeninfo2">Choose application to unhide.</string>
   <string name="apps_folder_exceed">Add up to 12 apps.</string>
-  <string name="apps_hidden_done">Hide application.</string>
-  <string name="apps_unhidden_done">Unhide application.</string>
-  <string name="apps_hidden_title">Hidden apps</string>
-  <string name="apps_nohidden">No hidden applications</string>
-  <string name="apps_hidden_full">Hidden apps full.</string>
-  <string name="warning_apps_overload">Unable to show all applications. Too many applications installed. Delete some unused applications and try again.</string>
+  <string name="apps_hidden_done">Скрыть приложение.</string>
+  <string name="apps_unhidden_done">Показать приложение.</string>
+  <string name="apps_hidden_title">Скрытые приложения</string>
+  <string name="apps_nohidden">Нет скрытых приложений.</string>
+  <string name="apps_hidden_full">Все приложения скрыты.</string>
+  <string name="warning_apps_overload">Не могу отобразить все приложения. Удалите неиспользуемые и попробуйте еще.</string>
   <string name="apps_no_editable_app">No editable applications.</string>
   <string name="apps_screen_full">All screen full.</string>
   <string name="apps_multicheck_info">Choose application to add to folder</string>
@@ -280,57 +280,56 @@ Long press an icon and drag here."</string>
   <string name="apps_folder_tools">Tools</string>
   <string name="apps_folder_multimedia">Multimedia</string>
   <string name="apps_folder_manage">Manage</string>
-  <string name="theme_home_restart">Home Screen restarts soon</string>
-  <string name="hotseat_button_settings_label">Settings</string>
-  <string name="hotseat_button_wallpaper_label">Wallpapers</string>
-  <string name="hotseat_button_widget_label">Widgets</string>
+  <string name="theme_home_restart">Главный экран перезгрузится скоро</string>
+  <string name="hotseat_button_settings_label">Настройки</string>
+  <string name="hotseat_button_wallpaper_label">Обои</string>
+  <string name="hotseat_button_widget_label">Виджеты</string>
   <string name="hotseat_button_effects_label">Effects</string>
-  <string name="hotseat_button_home_theme_label">Home Theme</string>
-  <string name="hotseat_button_icon_theme_label">Icon theme</string>
-  <string name="hotseat_button_tutorial_label">Tips</string>
+  <string name="hotseat_button_home_theme_label">Тема Главного экрана</string>
+  <string name="hotseat_button_icon_theme_label">Тема значков</string>
+  <string name="hotseat_button_tutorial_label">Подсказки</string>
   <string name="hotseat_button_homesetting_label">Home settings</string>
-  <string name="hotseat_button_menu_label">Apps</string>
-  <string name="invalid_space">Unable to locate on this area.</string>
-  <string name="softmenu_full">Unable to add more content.</string>
+  <string name="hotseat_button_menu_label">Меню</string>
+  <string name="invalid_space">Не удалось найти на этой области меню.</string>
+  <string name="softmenu_full">Невозможно добавить содержимое.</string>
   <string name="all_apps_icon_can_not_be_placed_other_area">Apps icons can not be placed in other area.</string>
-  <string name="hotseat_info_btn_text">"Place shortcuts and 
-folders here."</string>
-  <string name="out_of_space_launcherbar">No more room on this Launcher bar.</string>
-  <string name="apps_tutorial_title">Choose apps</string>
-  <string name="apps_tutorial_1">"To add an app to your Home Screen,
-touch &amp; hold it."</string>
-  <string name="apps_tutorial_tab_title">Add groups</string>
-  <string name="apps_tutorial_tab_1">Create groups to organize your apps.</string>
+  <string name="hotseat_info_btn_text">"Поместить ярлыки и 
+папки здесь."</string>
+  <string name="out_of_space_launcherbar">Нет места на панели.</string>
+  <string name="apps_tutorial_title">Выберите несколько приложений</string>
+  <string name="apps_tutorial_1">"Чтобы добавить приложение на Главный экран,
+нажмите на него и держите."</string>
+  <string name="apps_tutorial_tab_title">Управление как группами</string>
+  <string name="apps_tutorial_tab_1">Классифицировать группы и управление приложениями.</string>
   <string name="apps_tutorial_menu_title">Menu</string>
-  <string name="apps_tutorial_menu_1">"Tap Menu key to see 
-options such as search, share etc."</string>
-  <string name="apps_tutorial_edit_title">Rearrange apps</string>
-  <string name="apps_tutorial_edit_1">Touch &amp; hold an app and drag it to a desired location.</string>
-  <string name="apps_tutorial_edit_title_2">Useful options</string>
-  <string name="apps_tutorial_edit_2">"Tap an app to view 
-additional options."</string>
-  <string name="cling_back">Back</string>
-  <string name="cling_next">Next</string>
+  <string name="apps_tutorial_menu_1">"Нажмите на кнопку Меню, чтобы
+посмотреть опции приложений, такие как Поиск, Обмен и т.д."</string>
+  <string name="apps_tutorial_edit_title">Перемещение значков</string>
+  <string name="apps_tutorial_edit_1">Удерживайте палец на значке и переместите его, чтобы изменить порядок.</string>
+  <string name="apps_tutorial_edit_title_2">Полезные опции</string>
+  <string name="apps_tutorial_edit_2">Нажмите на значок, чтобы посмотреть информацию, удалить или скрыть.</string>
+  <string name="cling_back">Назад</string>
+  <string name="cling_next">Далее</string>
   <string name="folder_cling_title1">Creating folder</string>
-  <string name="folder_cling_text1">To create a new folder, touch &amp; hold a shortcut icon and drag it on top of another icons.</string>
-  <string name="folder_cling_title2">More space for your shortcuts</string>
-  <string name="folder_cling_text2">Swipe the bar left or right to add more shortcuts.</string>
-  <string name="home_option_cling_title">Menu</string>
-  <string name="home_option_cling_text1">Touch Menu key to see Home Screen options and Settings.</string>
-  <string name="home_option_cling_menu_widget">"Add
-widget"</string>
-  <string name="home_option_cling_menu_wallpaper">"Change
-wallpaper"</string>
-  <string name="home_option_cling_menu_hometheme">"Change
-theme"</string>
+  <string name="folder_cling_text1">Для создания новой папки нажмите на ярлык и перетащите его на другой ярлык.</string>
+  <string name="folder_cling_title2">Найти свободное пространство</string>
+  <string name="folder_cling_text2">Переместиться влево или вправо для поиска необходимого пространства.</string>
+  <string name="home_option_cling_title">Главный экран</string>
+  <string name="home_option_cling_text1">Нажмите на кнопку Меню, чтобы увидеть основные настройки Главного экрана.</string>
+  <string name="home_option_cling_menu_widget">"Добавить
+виджет"</string>
+  <string name="home_option_cling_menu_wallpaper">"Сменить
+обои"</string>
+  <string name="home_option_cling_menu_hometheme">"Сменить
+тему"</string>
   <string name="home_option_cling_menu_effect">"Change
 effect"</string>
   <string name="home_option_cling_menu_homescreen">"Manage
 Homescreen"</string>
-  <string name="home_option_cling_menu_tutorial">"View Home
-Screen tips"</string>
-  <string name="home_option_cling_menu_settings">"Go to
-Settings"</string>
+  <string name="home_option_cling_menu_tutorial">"Посмотреть подсказки
+Главного экрана"</string>
+  <string name="home_option_cling_menu_settings">"Перейти к
+Настройкам"</string>
   <string name="vzw_cling_text_swipe_down">Swipe down</string>
   <string name="vzw_cling_text_swipe_down_details">"Swipe down to view notifications
 and Settings shortcuts."</string>
@@ -342,6 +341,6 @@ and Settings shortcuts."</string>
   <string name="deco">Deco</string>
   <string name="template_isloading">Loading...</string>
   <string name="template_apply">Changed.</string>
-  <string name="set_blind_home">Icons hidden.</string>
-  <string name="reset_blind_home">Icons displayed.</string>
+  <string name="set_blind_home">Значки скрыты.</string>
+  <string name="reset_blind_home">Значки показаны.</string>
 </resources>

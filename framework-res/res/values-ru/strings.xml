@@ -59,7 +59,6 @@
   <string name="month_long_standalone_october">октябрь</string>
   <string name="month_long_standalone_november">ноябрь</string>
   <string name="month_long_standalone_december">декабрь</string>
-  
   <string name="month_long_january">января</string>
   <string name="month_long_february">февраля</string>
   <string name="month_long_march">марта</string>
@@ -72,7 +71,6 @@
   <string name="month_long_october">октября</string>
   <string name="month_long_november">ноября</string>
   <string name="month_long_december">декабря</string>
-  
   <string name="month_medium_january">янв</string>
   <string name="month_medium_february">фев</string>
   <string name="month_medium_march">мар</string>
@@ -85,7 +83,6 @@
   <string name="month_medium_october">окт</string>
   <string name="month_medium_november">ноя</string>
   <string name="month_medium_december">дек</string>
-  
   <string name="month_shortest_january">Я</string>
   <string name="month_shortest_february">Ф</string>
   <string name="month_shortest_march">М</string>
@@ -98,7 +95,6 @@
   <string name="month_shortest_october">О</string>
   <string name="month_shortest_november">Н</string>
   <string name="month_shortest_december">Д</string>
-  
   <string name="day_of_week_long_sunday">воскресенье</string>
   <string name="day_of_week_long_monday">понедельник</string>
   <string name="day_of_week_long_tuesday">вторник</string>
@@ -106,7 +102,6 @@
   <string name="day_of_week_long_thursday">четверг</string>
   <string name="day_of_week_long_friday">пятница</string>
   <string name="day_of_week_long_saturday">суббота</string>
-  
   <string name="day_of_week_medium_sunday">вс</string>
   <string name="day_of_week_medium_monday">пн</string>
   <string name="day_of_week_medium_tuesday">вт</string>
@@ -114,7 +109,6 @@
   <string name="day_of_week_medium_thursday">чт</string>
   <string name="day_of_week_medium_friday">пт</string>
   <string name="day_of_week_medium_saturday">сб</string>
-  
   <string name="day_of_week_short_sunday">вс</string>
   <string name="day_of_week_short_monday">пн</string>
   <string name="day_of_week_short_tuesday">вт</string>
@@ -122,7 +116,6 @@
   <string name="day_of_week_short_thursday">чт</string>
   <string name="day_of_week_short_friday">пт</string>
   <string name="day_of_week_short_saturday">сб</string>
-  
   <string name="day_of_week_shortest_sunday">В</string>
   <string name="day_of_week_shortest_monday">П</string>
   <string name="day_of_week_shortest_tuesday">В</string>
@@ -135,62 +128,62 @@
   <string name="yesterday">Вчера</string>
   <string name="today">Сегодня</string>
   <string name="tomorrow">Завтра</string>
-  <string name="hour_minute_24" formatted="false">%H:%M</string>
-  <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
-  <string name="hour_minute_cap_ampm" formatted="false">%-l:%M%^p</string>
+  <string name="hour_minute_24" formatted="false">%-k:%M</string>
+  <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
+  <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
   <string name="twelve_hour_time_format">h:mm a</string>
-  <string name="twenty_four_hour_time_format">HH:mm</string>
-  <string name="numeric_date" formatted="false">%-m/%-e/%Y</string>
-  <string name="numeric_date_format">M/d/yyyy</string>
-  <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
-  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="twenty_four_hour_time_format">H:mm</string>
+  <string name="numeric_date" formatted="false">%d.%m.%Y</string>
+  <string name="numeric_date_format">dd.MM.yyyy</string>
+  <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
+  <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
+  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+  <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
+  <string name="date_time">%2$s, %1$s</string>
   <string name="time_date">%1$s, %3$s</string>
-  <string name="abbrev_month_day_year" formatted="false">%b %-e, %Y</string>
-  <string name="month_day" formatted="false">%B %-e</string>
+  <string name="abbrev_month_day_year" formatted="false">%d.%m.%Y</string>
+  <string name="month_day" formatted="false">%-e %B</string>
   <string name="month">%-B</string>
-  <string name="month_year" formatted="false">%B %Y</string>
-  <string name="abbrev_month_day" formatted="false">%b %-e</string>
+  <string name="month_year" formatted="false">%-B %Y</string>
+  <string name="abbrev_month_day" formatted="false">%-e %b</string>
   <string name="abbrev_month">%-b</string>
-  <string name="abbrev_month_year" formatted="false">%b %Y</string>
-  <string name="time1_time2">%1$s – %2$s</string>
-  <string name="date1_date2">%2$s – %5$s</string>
-  <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
-  <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
-  <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
-  <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
-  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
-  <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
-  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
-  <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
-  <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
-  <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
-  <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+  <string name="abbrev_month_year" formatted="false">%-b %Y</string>
+  <string name="time1_time2">%1$s - %2$s</string>
+  <string name="date1_date2">%2$s - %5$s</string>
+  <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
+  <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s – %6$s, %8$s.%7$s</string>
+  <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
+  <string name="numeric_wday1_mdy1_wday2_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
+  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s.%2$s.%4$s - %10$s, %6$s, %8$s.%7$s.%9$s</string>
+  <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
+  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s.%2$s - %10$s, %6$s, %8$s.%7$s</string>
+  <string name="numeric_mdy1_time1_mdy2_time2">%5$s, %3$s.%2$s.%4$s - %10$s, %8$s.%7$s.%9$s</string>
+  <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
+  <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
+  <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
   <string name="time_wday_date">%1$s, %2$s, %3$s</string>
   <string name="wday_date">%2$s, %3$s</string>
   <string name="time_wday">%1$s, %2$s</string>
-  <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
-  <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
-  <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
-  <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
-  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
-  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
-  <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
-  <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
-  <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
-  <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
-  <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
-  <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+  <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
+  <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
+  <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
+  <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
+  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
+  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
+  <string name="same_year_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
+  <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
+  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
+  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
+  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
+  <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
+  <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
+  <string name="same_year_mdy1_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
+  <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
+  <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
   <string name="short_format_month">%b</string>
-  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
-  <string name="abbrev_wday_month_day_no_year">EEE, MMMM d</string>
-  <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
+  <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
   <string name="common_name_prefixes"></string>
   <string name="common_name_suffixes"></string>
   <string name="common_last_name_prefixes"></string>
@@ -1132,8 +1125,8 @@
   <string name="hardware">Аппаратура</string>
   <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZАВДЕЖИКЛМНОПРСТУФХЧШЭЮЯ"</string>
+  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZАВДЕЖИКЛМНОПРСТУФХЧШЭЮЯ"</string>
   <string name="candidates_style">варианты</string>
   <string name="ext_media_checking_notification_title">Подготовка карты SD</string>
   <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
@@ -1432,7 +1425,7 @@
 
 Повторите через %d секунд."</string>
   <string name="sky_roaming_help">Помощь</string>
-  <string name="sky_roaming_title">T Roaming</string>
+  <string name="sky_roaming_title">T роуминг</string>
   <string name="sky_roaming_current">Текущий</string>
   <string name="sky_roaming_seoul">Сеул</string>
   <string name="sky_status_divider">/</string>
@@ -1448,7 +1441,7 @@
 Экстренные вызовы могут быть включены."</string>
   <string name="keyguard_eas_reset_guide">"%d Попыток осталось до сброса настроек по умолчанию, что приведет к удалению всех пользовательских данных."</string>
   <string name="sky_unlock_service_notice">"SKY Cyber Pluszone
-www.skyservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' menu."</string>
+домашняя страница www.skyservice.co.kr , услуга 'Анлок' может быть использована через меню 'Анлок'."</string>
   <string name="account_unlock_bakcup_pin_text">If you forget your Google sign-in details, you can enter your backup PIN to unlock.</string>
   <string name="account_unlock_bakcup_pin_hint_text">Enter PIN code</string>
   <string name="account_unlock_bakcup_pin_incorrect_text">Incorrect backup PIN.</string>
@@ -1466,7 +1459,7 @@ MMM dd"</string>
   <string name="sky_hold_gesture_help_emergency_text">Экстренный вызов</string>
   <string name="sky_hold_gesture_slide_home">Разблокировать</string>
   <string name="sky_hold_gesture_slide_call">Звонок</string>
-  <string name="sky_hold_gesture_slide_message">SMS</string>
+  <string name="sky_hold_gesture_slide_message">Сообщение</string>
   <string name="sky_hold_gesture_slide_email">Эл. почта</string>
   <string name="sky_hold_gesture_slide_player">Плеер</string>
   <string name="sky_hold_gesture_slide_sns">SNS</string>

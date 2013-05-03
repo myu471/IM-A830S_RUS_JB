@@ -12,55 +12,55 @@
   <string name="pcu_phone_star">*</string>
   <string name="pcu_phone_0">0</string>
   <string name="pcu_phone_pound">\#</string>
-  <string name="pcu_phone_album_call_record">통화 녹음</string>
-  <string name="pcu_phone_album_autoanswer_record">자동응답</string>
-  <string name="pcu_phone_autoanswer_elapsed_time">%1d/30 sec</string>
-  <string name="pcu_phone_autoanswer_guide">Press home long key for Auto answer.</string>
-  <string name="pcu_phone_autoanswer_recording">Recording is in progress.</string>
-  <string name="pcu_phone_autoanswer_transfering">Auto answer is in progress.</string>
-  <string name="pcu_phone_auto_answer_disabled_while_roaming">Auto answer will be disabled while roaming</string>
+  <string name="pcu_phone_album_call_record">Запись разговоров</string>
+  <string name="pcu_phone_album_autoanswer_record">Автоматический ответ</string>
+  <string name="pcu_phone_autoanswer_elapsed_time">%1d/30 сек</string>
+  <string name="pcu_phone_autoanswer_guide">Нажмите Press home long key for Auto answer.</string>
+  <string name="pcu_phone_autoanswer_recording">Идет запись.</string>
+  <string name="pcu_phone_autoanswer_transfering">Автоответ выполнен.</string>
+  <string name="pcu_phone_auto_answer_disabled_while_roaming">Автоответ будет отключен в роуминге</string>
   <string name="pcu_phone_bluetooth">Bluetooth</string>
-  <string name="pcu_phone_call">Voice call</string>
-  <string name="pcu_phone_cannot_send_a_message_with_this_number">Cannot send a message with this number.</string>
-  <string name="pcu_phone_conference_call">Conference call</string>
-  <string name="pcu_phone_contact">Contact</string>
-  <string name="pcu_phone_dial">Dial</string>
-  <string name="pcu_phone_dual_number">Dual number</string>
-  <string name="pcu_phone_end">End</string>
-  <string name="pcu_phone_endcall">End call</string>
-  <string name="pcu_phone_end_current_call">End current call</string>
-  <string name="pcu_phone_failed_to_record">failed to record. Try later.</string>
-  <string name="pcu_phone_failure">failure</string>
-  <string name="pcu_phone_incoming_call">Incoming call</string>
-  <string name="pcu_phone_message">Message</string>
-  <string name="pcu_phone_no_network_response">Hang up call.</string>
-  <string name="pcu_phone_no_number_info">No number info.</string>
-  <string name="pcu_phone_notification_autoanswerTitle">Auto answer</string>
-  <string name="pcu_phone_notification_autoanswerRecordingMsg">Auto answer message from %s.</string>
-  <string name="pcu_phone_notification_autoanswerRecordingTicker">Auto answer message from %s</string>
-  <string name="pcu_phone_out_of_service">Not in service area.</string>
+  <string name="pcu_phone_call">Вызов</string>
+  <string name="pcu_phone_cannot_send_a_message_with_this_number">Не удалось отправить сообщение по этому номеру.</string>
+  <string name="pcu_phone_conference_call">Конференция</string>
+  <string name="pcu_phone_contact">Контакт</string>
+  <string name="pcu_phone_dial">Набрать</string>
+  <string name="pcu_phone_dual_number">Двойной номер</string>
+  <string name="pcu_phone_end">Завершить</string>
+  <string name="pcu_phone_endcall">Завершить звонок</string>
+  <string name="pcu_phone_end_current_call">Завершить текущий звонок</string>
+  <string name="pcu_phone_failed_to_record">Ошибка записи. Попробуйте позже.</string>
+  <string name="pcu_phone_failure">отказ</string>
+  <string name="pcu_phone_incoming_call">Входящий звонок</string>
+  <string name="pcu_phone_message">Сообщение</string>
+  <string name="pcu_phone_no_network_response">Отбой звонка.</string>
+  <string name="pcu_phone_no_number_info">Нет информации о номере.</string>
+  <string name="pcu_phone_notification_autoanswerTitle">Автоответ</string>
+  <string name="pcu_phone_notification_autoanswerRecordingMsg">Сообщение на автоответчик от %s.</string>
+  <string name="pcu_phone_notification_autoanswerRecordingTicker">Сообшение на автоответчик от %s</string>
+  <string name="pcu_phone_out_of_service">Сервис недоступен.</string>
   <string name="pcu_phone_put_the_below_button_here">Put the below button here.</string>
-  <string name="pcu_phone_record_start">Record</string>
-  <string name="pcu_phone_record_stop">Stop</string>
-  <string name="pcu_phone_recording_guide">Recording will be stopped when call screen lost focus.</string>
-  <string name="pcu_phone_reject_guide">Send message after reject current call.</string>
-  <string name="pcu_phone_reject_message">Reject message</string>
-  <string name="pcu_phone_rejected_number">Rejected number</string>
-  <string name="pcu_phone_save">Save</string>
-  <string name="pcu_phone_sdcard_is_full">SD card is full.</string>
-  <string name="pcu_phone_sdcard_is_not_detected">SD card is not detected.</string>
-  <string name="pcu_phone_sdcard_is_removed">SD card is removed.</string>
-  <string name="pcu_phone_send">Send</string>
-  <string name="pcu_phone_close">Close</string>
-  <string name="pcu_phone_send_location">Send location</string>
-  <string name="pcu_phone_stop_recording">Stop recording.</string>
+  <string name="pcu_phone_record_start">Запись</string>
+  <string name="pcu_phone_record_stop">Стоп</string>
+  <string name="pcu_phone_recording_guide">Запись будет остановлена, когда окно звонка утрати фокус.</string>
+  <string name="pcu_phone_reject_guide">Отправить сообщение после отклонения текущего вызова.</string>
+  <string name="pcu_phone_reject_message">Отклонить сообщение</string>
+  <string name="pcu_phone_rejected_number">Отклоненный номер</string>
+  <string name="pcu_phone_save">Сохранить</string>
+  <string name="pcu_phone_sdcard_is_full">SD-карта заполнена.</string>
+  <string name="pcu_phone_sdcard_is_not_detected">SD-карта не определена.</string>
+  <string name="pcu_phone_sdcard_is_removed">SD-карта была удалена..</string>
+  <string name="pcu_phone_send">Отправить</string>
+  <string name="pcu_phone_close">Закрыть</string>
+  <string name="pcu_phone_send_location">Отправить местоположение</string>
+  <string name="pcu_phone_stop_recording">Остановить запись.</string>
   <string name="pcu_phone_success">success</string>
-  <string name="pcu_phone_cdma_lock_auth_fail">Not Authentication.</string>
-  <string name="pcu_phone_cdma_lock_maintenance_required">Unregistered Phone.</string>
-  <string name="pcu_phone_cannot_place_call_on_data_only_mode">Cannot place call on EVDO or LTE only mode.</string>
-  <string name="pcu_phone_anniv_0" formatted="false">"Today is %s's %s."</string>
-  <string name="pcu_phone_anniv_1" formatted="false">"Tomorrow is %s's %s."</string>
-  <string name="pcu_phone_reject_msg_title">Reject message/Auto answer</string>
+  <string name="pcu_phone_cdma_lock_auth_fail">Не авторизовано.</string>
+  <string name="pcu_phone_cdma_lock_maintenance_required">Незарегистированный телефон.</string>
+  <string name="pcu_phone_cannot_place_call_on_data_only_mode">Не удалось совершить звонок в режиме только EVDO или LTE.</string>
+  <string name="pcu_phone_anniv_0" formatted="false">"Сегодня %s's %s."</string>
+  <string name="pcu_phone_anniv_1" formatted="false">"Завтра %s's %s."</string>
+  <string name="pcu_phone_reject_msg_title">Отклонить сообщение/Автоответ</string>
   <string name="pcu_phone_dialer_num_1">1</string>
   <string name="pcu_phone_dialer_num_2">2</string>
   <string name="pcu_phone_dialer_num_3">3</string>
@@ -73,87 +73,87 @@
   <string name="pcu_phone_dialer_num_0">0</string>
   <string name="pcu_phone_dialer_num_pound">\#</string>
   <string name="pcu_phone_dialer_num_star">*</string>
-  <string name="pcu_phone_dialer_cancel">Close</string>
-  <string name="pcu_phone_dialer_call">Call</string>
-  <string name="pcu_phone_in_call_touch_vc">Video call</string>
-  <string name="pcu_phone_call_vt_available">Voice call is connecting. Press OK button to connect video call.</string>
-  <string name="pcu_phone_cannot_place_a_call_with_own_number">Cannot place a call with own number.</string>
-  <string name="pcu_phone_call_HDLiveShare">HD V.Call</string>
-  <string name="pcu_phone_btn_indicator_call_end">End call</string>
-  <string name="pcu_phone_autoanswer_invalid_number_to_sent">Invalid number.</string>
-  <string name="pcu_phone_auto_answer_unavailable_during_call">Auto answer is unavailable during call</string>
-  <string name="pcu_phone_IncomingCall">"Incoming call
+  <string name="pcu_phone_dialer_cancel">Закрыть</string>
+  <string name="pcu_phone_dialer_call">Вызвать</string>
+  <string name="pcu_phone_in_call_touch_vc">Видео вызов</string>
+  <string name="pcu_phone_call_vt_available">Голосовой вызов подключен. Нажмите Ок для подключения видеовызова.</string>
+  <string name="pcu_phone_cannot_place_a_call_with_own_number">Не удается совершить вызов с собственным номером.</string>
+  <string name="pcu_phone_call_HDLiveShare">Видеозвонок высокой четкости</string>
+  <string name="pcu_phone_btn_indicator_call_end">Завершить звонок</string>
+  <string name="pcu_phone_autoanswer_invalid_number_to_sent">Неверный номер.</string>
+  <string name="pcu_phone_auto_answer_unavailable_during_call">Автоответ недоступен во время звонка</string>
+  <string name="pcu_phone_IncomingCall">"Входящий звонок
 "</string>
-  <string name="pcu_phone_roaming_auto_dial">Roaming auto dial</string>
-  <string name="pcu_phone_notValidSdial">Invalid speed dial</string>
-  <string name="pcu_phone_notValid060Call">060, 700 Outgoing call service is not available</string>
-  <string name="pcu_phone_notValidInternationCall">The international Outgoing call service is not available</string>
-  <string name="pcu_phone_notValidOutgoing">Cannot send anymore</string>
-  <string name="pcu_phone_not_valid_call_while_other_call_in_use">Cannot place call.</string>
-  <string name="pcu_phone_Caller">Caller</string>
-  <string name="pcu_phone_CalledNumber">Called No.</string>
-  <string name="pcu_phone_NoCNIP">No Number Info</string>
-  <string name="pcu_phone_TRoaming">T 로밍고객센터</string>
-  <string name="pcu_phone_ForeignMinistry">외교통상부 콜센터</string>
-  <string name="pcu_phone_rad_dialog_title">T Roaming</string>
-  <string name="pcu_phone_roaming_auto_dial_guide">Roaming auto dial guide</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_1">What is RAD?</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_1">"[RAD] is available for international roaming. After selecting the number from address call history or entering the number as usual, select Calling to Korea to create the intl call connecting number 
-and country code (82) automatically for user convenience. 
-ㅇRefer to the following for further details. 
-ㅇCalling to Korea 
-ㅇCalling to Others(Local/Overseas) 
-ㅇCalling to T-Roaming Customer Service 
-ㅇCalling to MFAT Call Center 
-ㅇRAD SET and CANCEL"</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_2">Calling to Korea</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_2">"It is the same as calling in Korea, Enter the number or select the number from the address/call history. Select Calling to Korea. 
-(Ex) Calling to 010-1234-5678 in Korea from Beijing, China: Enter 010-1234-5678 or select the number from the address or call history -&gt; select Calling to Korea"</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_3">Calling to Others</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_3">"▶Calling to Local: It is the local call to the country where the user is located. Enter the number or select the number from the call history -&gt; Select Calling to Others(Ex) Calling to 133-1234-5678 in Beijing from Beijing, China: Enter 133-1234-5678 -&gt; Select Calling to Others 
-▶Calling to Overseas: It is the overseas call excluded Korea and visited country. Enter the intl call connecting number and country code. Select Calling to Others. [Intl call connecting no.(press 0 for a certain time to be converted as +)-country code-receiver phone number(the first digit 0 excluded)-select Calling to Others] (Ex) Calling to 06-1234-5678 in Osaka, Japan from Beijing, China: Enter +81-6-1234-5678, Select Calling to Others"</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_4">Calling to T-Roaming CS</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_4">Contact to T-Roaming Customer Service for the further information. Enter 114 on the keypad, select Calling to Korea to connect to T-Roaming CS (+82-2-6343-9011) automatically.</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_5">Calling to MFAT Call Center</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_5">"This service is provided by the cooperation of Ministry of Foreign Affairs and Trade, which offers the consulate supporting services as follows. 
-◈Stolen/Lost Accident 
--contact number/report system to competent police office 
--reissuing passport/travel certificates, etc. 
-◈Injury/Death 
--Hospital and Interpretation Guide 
-◈Arrest/Detention 
--Contact to consul of Korea Embassy abroad 
--Attorney/Interpretation Guide, etc. 
-Enter 112,113 or 119. Select Calling to Korea 
-to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_6">RAD Set and Cancel</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_6">"It can set/cancel RAD function. 
-▶ Set: Set RAD function 
-▶ Cancel: Cancel RAD function"</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_title_7">Roaming Local Time Guide Service Setting</string>
-  <string name="pcu_phone_roaming_auto_dial_guide_item_content_7">[Roaming Local Time Guide Service] is the free service guiding the local time if the user calls to the party who uses intl roaming service. Contact to T-Roaming Customer Service for setup. Enter 114 on the keypad. Select Calling to Korea to connect to T Roaming CS (+82-2-6343-9011) automatically.</string>
-  <string name="pcu_phone_rad_setting_preferences">Roaming auto dial</string>
-  <string name="pcu_phone_title_rad_setting_list_preference">RAD set</string>
-  <string name="pcu_phone_dialog_title_rad_setting_list_preference">Choose one</string>
-  <string name="pcu_phone_title_rad_setting_guide_preference">Roaming auto dial guide</string>
-  <string name="pcu_phone_option_answerAndHoldCallEnd">Hold current call &amp; answer</string>
-  <string name="pcu_phone_emerency_confirm">"Call %s by pressing 'OK' button. Call now?"</string>
-  <string name="pcu_phone_user_dial">Input</string>
-  <string name="pcu_phone_police_call">Police</string>
-  <string name="pcu_phone_ambulance_call">Ambulance</string>
-  <string name="pcu_phone_fire_call">Fire station</string>
-  <string name="pcu_phone_coast_call">Sea Rescue</string>
-  <string name="pcu_phone_mountain_call">Mountain Rescue</string>
-  <string name="pcu_phone_spy_call">Spy</string>
-  <string name="pcu_phone_customs_call">Report Contraband</string>
-  <string name="pcu_phone_drug_call">Report Narcotic</string>
-  <string name="pcu_phone_nis_call">Report Spy</string>
-  <string name="pcu_phone_ktnis_call">Report Spy</string>
-  <string name="pcu_phone_cyberterror_call">Cyberterror</string>
-  <string name="pcu_phone_emerency_service">Emergency Service</string>
-  <string name="pcu_phone_customer_call">Customer service</string>
-  <string name="pcu_phone_roaming_call">Roaming customer service</string>
-  <string name="pcu_phone_ministry_call">Ministry of Foreign Affairs and Trade</string>
+  <string name="pcu_phone_roaming_auto_dial">Автонабор в роуминге</string>
+  <string name="pcu_phone_notValidSdial">Неверный быстрый набор</string>
+  <string name="pcu_phone_notValid060Call">060, 700 сервис исходящих звонков недоступен</string>
+  <string name="pcu_phone_notValidInternationCall">Международный сервис исходящих звонков недоступен</string>
+  <string name="pcu_phone_notValidOutgoing">Не удалось ничего отправить</string>
+  <string name="pcu_phone_not_valid_call_while_other_call_in_use">Не удалось совершить звонок.</string>
+  <string name="pcu_phone_Caller">Абонент</string>
+  <string name="pcu_phone_CalledNumber">Номер абонента</string>
+  <string name="pcu_phone_NoCNIP">Нет информации о номере</string>
+  <string name="pcu_phone_TRoaming">Роуминг обслуживания клиентов</string>
+  <string name="pcu_phone_ForeignMinistry">Позвоните в Министерство иностранных дел и внешней торговли</string>
+  <string name="pcu_phone_rad_dialog_title">Роуминг</string>
+  <string name="pcu_phone_roaming_auto_dial_guide">Руководство автонабора в роуминге [RAD]</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_1">Что такое RAD?</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_1">"[RAD] доступен для международного роуминга. После выбора номера из истории звонков или ввода номера телефона как обычно, выберите Звонить в Корею, чтобы создать международный звонок,
+и номер страны (82) будет добавлен автоматически для удобства. 
+• Обратитесь для получения дополнительной информации. 
+• Звонок в Корею 
+• Другие звонки (Местные/зарубежные) 
+• Вызов для обслуживания клиентов в роуминге
+• Вызов в МИД
+• RAD НАСТРОИТЬ и ОТМЕНИТЬ"</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_2">Вызов в Корею</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_2">"Это так же, как вызов в Корее, введите номер или выберите номер из списка или истории вызовов. Выберите Звонок в Корею. 
+(Пример) Звонок на  010-1234-5678 в Корею из Пекина, Китай: Введите 010-1234-5678 или выберите номер из списка или истории звонков -&gt; Выберите Звонок в Корею"</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_3">Другие вызовы</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_3">"▶Местный звонок: Это местный звонок по стране, в которой находится абонент. Введите номер или выберите его из истории звонков -&gt; Выберите Другие вызовы.(Пример) Звонок на 133-1234-5678 из Пекина в Пекин, Китай: Введите 133-1234-5678 -&gt; Выберите Другие вызовы 
+▶Международный вызов: Это международный звонок, исключая Корею или страну пребывания. Введите международный номер и код страны. Выберите Другие звонки. [Международный номер(нажмите 0 на некоторое время, чтобы ввести +)-код страны-номер абонента(первая цифра не 0)-Выберите Дргуие звонки] (Пример) Звонок на 06-1234-5678 из Осаки, Япония в Пекин, Китай: Введите +81-6-1234-5678, Выберите Другие вызовы"</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_4">Звонок в call-центр роуминга</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_4">Свяжитесь с call-центром роуминга для дополнительной информацией. Наберите 114, выберите Звонок в Корею, чтобы соединиться call-центром роуминга (+82-2-6343-9011 наберется атоматически).</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_5">Звонок в call-центр МИДа</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_5">"Сервис позволяет позвонить в Министерство Иностранных Дел (корейский походу) по вопросам
+◈Утеря/кража 
+-номер телефона компетентных органов
+-переоформление паспорта/сертификата путешествия и т.д. 
+◈Увечье/смерть 
+-Больницы 
+◈Арест/задержание 
+-связь с консулом Кореи зарубежом 
+-адвокат и т.д. 
+Наберите 112,113 или 119. Выберите Звонок в Корею, 
+чтобы соединиться с call-центром МИДа (+82-2-3210-0404 автоматически наберется)."</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_6">RAD Установить или Отменить</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_6">"Функция установки/отмены RAD. 
+▶ Установить: Функция уставки RAD 
+▶ Отменить: Функция отмены RAD"</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_title_7">Как настроить часовой пояс в роуминге</string>
+  <string name="pcu_phone_roaming_auto_dial_guide_item_content_7">[Руководство по настройке] Бесплатный сервис по настройке времени в роуминге. Свяжитесь с call-центром обслуживания клиентов в роуминге для настройки. Наберите 114. Выберите Вызов в Корею, чтобы соединится с call-центром (+82-2-6343-9011 наберестя автоматически).</string>
+  <string name="pcu_phone_rad_setting_preferences">Автонабор в роуминге</string>
+  <string name="pcu_phone_title_rad_setting_list_preference">RAD установлен</string>
+  <string name="pcu_phone_dialog_title_rad_setting_list_preference">Выберите один</string>
+  <string name="pcu_phone_title_rad_setting_guide_preference">Руководство по автонабору в роуминге</string>
+  <string name="pcu_phone_option_answerAndHoldCallEnd">Удержать текущий звонок и ответить</string>
+  <string name="pcu_phone_emerency_confirm">"Совершите вызов %s нажатием 'Ок'. Вызвать сейчас?"</string>
+  <string name="pcu_phone_user_dial">Ввод</string>
+  <string name="pcu_phone_police_call">Полиция</string>
+  <string name="pcu_phone_ambulance_call">Реанимация</string>
+  <string name="pcu_phone_fire_call">Пожарная</string>
+  <string name="pcu_phone_coast_call">Морская помощь</string>
+  <string name="pcu_phone_mountain_call">Помощь в горах</string>
+  <string name="pcu_phone_spy_call">Шпион</string>
+  <string name="pcu_phone_customs_call">Доложить о контрабанде</string>
+  <string name="pcu_phone_drug_call">Доложить о наркотиках</string>
+  <string name="pcu_phone_nis_call">Доложить о шпионе</string>
+  <string name="pcu_phone_ktnis_call">Доложить о шпионе</string>
+  <string name="pcu_phone_cyberterror_call">Доложить о кибертероре</string>
+  <string name="pcu_phone_emerency_service">Аварийная служба</string>
+  <string name="pcu_phone_customer_call">Обслуживание клиентов</string>
+  <string name="pcu_phone_roaming_call">Обслуживание клиентов в роуминге</string>
+  <string name="pcu_phone_ministry_call">Министерство иностранных дел</string>
   <string name="pcu_phone_btn_canvas">Canvas Talk</string>
   <string name="pcu_phone_btn_note">Memo</string>
   <string name="pcu_phone_bluetooth_on">Bluetooth On</string>
@@ -187,9 +187,9 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="callFailed_simError">Ошибка SIM-карты или SIM-карта не установлена</string>
   <string name="callFailed_outOfService">Вне зоны действия сети</string>
   <string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров.</string>
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToUssd">Вызов преобразован в USSD запрос.</string>
+  <string name="callFailed_dialToSs">Вызов преобразован в SS запрос.</string>
+  <string name="callFailed_dialToDial">Вызов преобразован в вызов другого номера.</string>
   <string name="callFailed_cb_enabled">"Исходящие звонки невозможны, если включен запрет вызовов."</string>
   <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа.</string>
   <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа.</string>
@@ -197,7 +197,7 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="callFailed_unobtainable_number">Неверный номер</string>
   <string name="confCall">Конференц-вызов</string>
   <string name="call_lost">Вызов был утрачен.</string>
-  <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
+  <string name="callUnanswered_forwarded">Звонок неотвечен или переадресован</string>
   <string name="ok">ОК</string>
   <string name="mmiStarted">Код MMI запущен</string>
   <string name="ussdRunning">Выполняется запрос USSD…</string>
@@ -219,7 +219,7 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="add_vm_number_str">Добавить номер</string>
   <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
   <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
-  <string name="label_nsdp">SIM network subset unlock PIN</string>
+  <string name="label_nsdp">PIN для разблокировки подсети сети SIM-карты</string>
   <string name="label_cdp">SIM corporate unlock PIN</string>
   <string name="label_spdp">SIM service provider unlock PIN</string>
   <string name="label_sdp">SIM SIM unlock PIN</string>
@@ -232,7 +232,7 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="label_puk">Enter PUK</string>
   <string name="sim_ndp_unlock_text">Разблокировать</string>
   <string name="sim_ndp_dismiss_text">Закрыть</string>
-  <string name="requesting_nw_unlock">Requesting SIM network unlock…</string>
+  <string name="requesting_nw_unlock">Запрос разблокировки сети…</string>
   <string name="requesting_nw_subset_unlock">Requesting SIM network subset unlock…</string>
   <string name="requesting_sp_unlock">Requesting SIM service provider unlock…</string>
   <string name="requesting_corporate_unlock">Requesting SIM corporate unlock…</string>
@@ -244,7 +244,7 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="requesting_rc_unlock">Requesting RUIM corporate unlock…</string>
   <string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock…</string>
   <string name="requesting_puk_unlock">Requesting PUK unlock…</string>
-  <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
+  <string name="nw_unlock_failed">Ошибка разблокировки сети</string>
   <string name="nw_subset_unlock_failed">SIM Network Subset unlock request unsuccessful.</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
@@ -256,7 +256,7 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
-  <string name="nw_unlock_success">SIM Network unlock successful.</string>
+  <string name="nw_unlock_success">Сеть разблокирована успешно.</string>
   <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
@@ -319,9 +319,9 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="reverting_settings">Возврат к предыдущим настройкам…</string>
   <string name="response_error">Неожиданный отклик сети.</string>
   <string name="exception_error">Ошибка сети или SIM-карты.</string>
-  <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
-  <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
-  <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
+  <string name="stk_cc_ss_to_dial_error">SS-запрос преобразован в набор номера.</string>
+  <string name="stk_cc_ss_to_ussd_error">SS-запрос преобразован в USSD-запрос.</string>
+  <string name="stk_cc_ss_to_ss_error">SS-запрос преобразован в новый SS-запрос.</string>
   <string name="fdn_check_failure">"Разрешенные номера в приложении \"Телефон\" включены. В результате некоторые функции вызовов недоступны."</string>
   <string name="radio_off_error">Чтобы увидеть настройки, включите приемопередатчик.</string>
   <string name="close_dialog">ОК</string>
@@ -361,12 +361,12 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>
   <string name="preferred_network_mode_evdo_only_summary">Предпочтительная сеть: только EvDo</string>
-  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferred network mode: CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_summary">Preferred network mode: LTE</string>
-  <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferred network mode: GSM/WCDMA/LTE</string>
-  <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferred network mode: CDMA+LTE/EVDO</string>
-  <string name="preferred_network_mode_global_summary">Preferred network mode: Global</string>
-  <string name="preferred_network_mode_lte_wcdma_summary">Preferred network mode: LTE / WCDMA</string>
+  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_lte_summary">Предпочтительно LTE</string>
+  <string name="preferred_network_mode_lte_gsm_wcdma_summary">Предпочтительно GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_lte_cdma_evdo_summary">Предпочтительно CDMA+LTE/EVDO</string>
+  <string name="preferred_network_mode_global_summary">Global</string>
+  <string name="preferred_network_mode_lte_wcdma_summary">Предпочтительно LTE / WCDMA</string>
   <string name="data_enabled">Передача данных</string>
   <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
   <string name="roaming">Интернет-роуминг</string>
@@ -376,11 +376,11 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
   <string name="gsm_umts_options">Параметры GSM/UMTS</string>
   <string name="cdma_options">Параметры CDMA</string>
-  <string name="mobile_network_setting">Mobile Network Settings</string>
-  <string name="network_settings_sel_sub">Select Subscription</string>
-  <string name="network_manage_settings">Network Settings</string>
-  <string name="title_data_settings">Data Settings</string>
-  <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+  <string name="mobile_network_setting">Настройки мобильной сети</string>
+  <string name="network_settings_sel_sub">Выбрать подписку</string>
+  <string name="network_manage_settings">Настройка сети</string>
+  <string name="title_data_settings">Настройка данных</string>
+  <string name="summary_manage_subscriptions">Управление настройками сети каждой подписки</string>
   <string name="throttle_data_usage">Передача данных</string>
   <string name="throttle_current_usage">Передача данных в текущем периоде</string>
   <string name="throttle_time_frame">Время передачи данных</string>
@@ -389,8 +389,8 @@ to connect to MFAT call center (+82-2-3210-0404) automatically."</string>
   <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)"\n"Следующий период начнется в течение %4$d дн. (%5$s)"</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
   <string name="throttle_data_rate_reduced_subtext">"Превышен лимит в %1$s."\n"Скорость передачи данных снижена до %2$d кбит/с."</string>
-  <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)"</string>
+  <string name="throttle_time_frame_subtext">"%1$d٪ циклов прошло.
+Cледующий период начинается через %2$d дней (%3$s)"</string>
   <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
   <string name="throttle_help_subtext">"Подробнее о политике передачи данных вашего оператора мобильной связи..."</string>
   <string name="cell_broadcast_sms">Широковещательные SMS-службы</string>
@@ -467,18 +467,18 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="cdma_system_select_title">Выбор системы</string>
   <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
   <string name="cdma_system_select_dialogtitle">Выбор системы</string>
-  <string name="cdma_subscription_title">CDMA subscription</string>
+  <string name="cdma_subscription_title">CDMA Подписка</string>
   <string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
   <string name="cdma_subscription_dialogtitle">подписка</string>
   <string name="cdma_activate_device">Активировать устройство</string>
   <string name="cdma_lte_data_service">Настроить передачу данных</string>
-  <string name="call_ind_services">Call Independent Services</string>
-  <string name="callind_multi_sim">Select Subscription</string>
-  <string name="callind">Call Feature Settings</string>
-  <string name="subone">Subscription 1</string>
-  <string name="sub_one">Manage Subscription 1</string>
-  <string name="subtwo">Subscription 2</string>
-  <string name="sub_two">Manage Subscription 2</string>
+  <string name="call_ind_services">Независимые услуги</string>
+  <string name="callind_multi_sim">Выберите подписку</string>
+  <string name="callind">Настройка функций вызова</string>
+  <string name="subone">Подписка 1</string>
+  <string name="sub_one">Управление подпиской 1</string>
+  <string name="subtwo">Подписка 2</string>
+  <string name="sub_two">Управление подпиской 2</string>
   <string name="prompt">Prompt</string>
   <string name="prompt_user">Prompt User</string>
   <string name="fdn">Разрешенные номера</string>
@@ -491,7 +491,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="change_pin2">Изменить PIN2</string>
   <string name="enable_fdn_ok">Откл. разреш. номера</string>
   <string name="disable_fdn_ok">Вкл. разреш. номера</string>
-  <string name="fdn_unavailable">FDN Service is not available</string>
+  <string name="fdn_unavailable">Сервис разрешенных номеров недоступен</string>
   <string name="sum_fdn">Управление списком разрешенных номеров</string>
   <string name="sum_fdn_change_pin">Изменить PIN для доступа к списку разрешенных номеров</string>
   <string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
@@ -542,7 +542,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="disable_pin_ok">Запрос PIN-кода SIM-карты отключен.</string>
   <string name="pin_failed">PIN-код указан неверно.</string>
   <string name="pin_changed">PIN-код изменен.</string>
-  <string name="pin2_unblocked">PIN2 Unblocked!</string>
+  <string name="pin2_unblocked">PIN2 Разблокирован!</string>
   <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="oldPin2Label">Прежний PIN2</string>
@@ -557,37 +557,37 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="label_puk2_code">Введите код PUK2</string>
   <string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку.</string>
   <string name="puk2_requested">Неверный пароль, SIM-карта заблокирована. Введите код PUK2.</string>
-  <string name="puk2_blocked">PUK2 is permanently blocked.</string>
+  <string name="puk2_blocked">PUK2 заблокирован навсегда.</string>
   <string name="pin2_attempts">"
-Attempts Remaining :"</string>
+Попыток осталось :"</string>
   <string name="doneButton">Готово</string>
   <string name="caller_manage_header">Конференц-вызов: %s</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-  <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
-  <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
+  <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
+  <string name="fake_phone_activity_placeCall_text">Поддельный вызов</string>
   <string name="voicemail_settings_number_label">Номер голосовой почты</string>
   <string name="card_title_dialing">Набор номера</string>
   <string name="card_title_redialing">Повторная попытка</string>
-  <string name="card_title_unconditionalCF">Call Forward Unconditional is enabled</string>
-  <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
-  <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
-  <string name="card_title_calliswaiting">Call Waiting</string>
-  <string name="card_title_cugcall">CUG Call</string>
-  <string name="card_title_outgoing_barred">Outgoing Calls Barred</string>
-  <string name="card_title_incoming_barred">Incoming Calls Barred</string>
+  <string name="card_title_unconditionalCF">Безусловная переадресация включена</string>
+  <string name="card_title_conditionalCF">Переадресация с условиями включена</string>
+  <string name="card_title_MOcall_forwarding">Исходящий переадресованный вызов</string>
+  <string name="card_title_calliswaiting">Ожидание вызова</string>
+  <string name="card_title_cugcall">CUG вызов</string>
+  <string name="card_title_outgoing_barred">Запрет исходящих вызовов</string>
+  <string name="card_title_incoming_barred">Запрет входящих вызовов</string>
   <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
-  <string name="card_title_call_deflected">Call Deflected</string>
-  <string name="card_title_MTcall_forwarding">Incoming Call is Forwarded</string>
-  <string name="card_title_forwarded_MTcall">Forwarded Incoming Call</string>
-  <string name="card_title_callonhold">Put on Hold</string>
-  <string name="card_title_callretrieved">Call Retreived</string>
-  <string name="card_title_multipartycall">MultiParty Call</string>
-  <string name="card_title_callonhold_released">Call Released</string>
-  <string name="card_title_forwardcheckreceived">Forward Check Received</string>
-  <string name="card_title_callconnectingect">Call Connecting ECT</string>
-  <string name="card_title_callconnectedect">Call Connected ECT</string>
-  <string name="card_title_deflectedcall">Deflected Call</string>
-  <string name="card_title_in_progress">Current call</string>
+  <string name="card_title_call_deflected">Вызов отклонен</string>
+  <string name="card_title_MTcall_forwarding">Входящий вызов переадресован</string>
+  <string name="card_title_forwarded_MTcall">Переадресованный входящий вызов</string>
+  <string name="card_title_callonhold">Поставить на удержание</string>
+  <string name="card_title_callretrieved">Возобновление звонка</string>
+  <string name="card_title_multipartycall">Многосторонний вызов</string>
+  <string name="card_title_callonhold_released">Звонок завершен</string>
+  <string name="card_title_forwardcheckreceived">Произошла переадресация</string>
+  <string name="card_title_callconnectingect">Подключение ECT</string>
+  <string name="card_title_callconnectedect">Подключено ECT</string>
+  <string name="card_title_deflectedcall">Отклоненный вызов</string>
+  <string name="card_title_in_progress">Текущий вызов</string>
   <string name="card_title_conf_call">Конференц-вызов</string>
   <string name="card_title_incoming_call">Входящий вызов</string>
   <string name="card_title_call_ended">Вызов завершен</string>
@@ -650,22 +650,22 @@ Attempts Remaining :"</string>
   <string name="dtmf_tones_title">DTMF-сигналы</string>
   <string name="dtmf_tones_summary">Настроить длительность тональных сигналов DTMF</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="xdivert_summary">CFNRc Settings</string>
-  <string name="phone_numbers">Enter Phone Numbers</string>
-  <string name="sub1LineNumber">Sub1 Number :</string>
-  <string name="sub2LineNumber">Sub2 Number :</string>
-  <string name="proceed">Proceed</string>
-  <string name="xdivert_button">X-Divert Setting</string>
-  <string name="xdivert_setting">X-Divert Setting</string>
-  <string name="sum_xdivert_enabled">X-Divert Enabled</string>
-  <string name="sum_xdivert_disabled">X-Divert Disabled</string>
-  <string name="xdivert_not_supported">X-Divert Not supported for CDMA</string>
-  <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
-  <string name="xdivert_partial_set">XDivert has been set only for 1st subscription</string>
-  <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
-  <string name="xdivert_status">X-Divert Status</string>
-  <string name="xdivert_active">Active</string>
-  <string name="xdivert_not_active">Not Active</string>
+  <string name="xdivert_summary">Настройки CFNRc</string>
+  <string name="phone_numbers">Введите номера телефонов</string>
+  <string name="sub1LineNumber">Sub1 номер :</string>
+  <string name="sub2LineNumber">Sub2 номер :</string>
+  <string name="proceed">Продолжить</string>
+  <string name="xdivert_button">Настройки X-Divert</string>
+  <string name="xdivert_setting">Настройки X-Divert</string>
+  <string name="sum_xdivert_enabled">X-Divert включен</string>
+  <string name="sum_xdivert_disabled">X-Divert отключен</string>
+  <string name="xdivert_not_supported">X-Divert не поддерживается в CDMA</string>
+  <string name="xdivert_enternumber_error">Введите номер для обоих подписок</string>
+  <string name="xdivert_partial_set">XDivert был установлен только для одной подписки</string>
+  <string name="xdivert_sub_absent">Для X-Divert должны быть активированы обе подписки</string>
+  <string name="xdivert_status">Состояние X-Divert</string>
+  <string name="xdivert_active">Активен</string>
+  <string name="xdivert_not_active">Неактивен</string>
   <string name="xdivert_imsi_not_read">Sim Initialization happening.Please try after some time.</string>
   <string name="network_message">Сообщение сети</string>
   <string name="ota_title_activate">Активировать телефон</string>
@@ -695,7 +695,7 @@ Attempts Remaining :"</string>
   <string name="alert_dialog_yes">Да</string>
   <string name="alert_dialog_no">Нет</string>
   <string name="alert_dialog_dismiss">Закрыть</string>
-  <string name="absent_num">ABSENT NUMBER</string>
+  <string name="absent_num">ОТСУТСТВУЕТ НОМЕР</string>
   <string name="voicemail_provider">Служба</string>
   <string name="voicemail_settings">Настройка</string>
   <string name="voicemail_number_not_set">&lt;Не задано&gt;</string>
@@ -815,7 +815,7 @@ Attempts Remaining :"</string>
   <string name="description_image_button_star">звездочка</string>
   <string name="description_image_button_zero">ноль</string>
   <string name="description_image_button_pound">решетка</string>
-  <string name="description_search_button">search</string>
+  <string name="description_search_button">поиск</string>
   <string name="description_dial_button">набор номера</string>
   <string name="description_delete_button">возврат</string>
   <string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
@@ -831,33 +831,33 @@ Attempts Remaining :"</string>
   <string name="vibrate_on_ring_title">Вибросигнал и рингтон</string>
   <string name="dtmf_tone_enable_title">Звук клавиш</string>
   <string name="preference_category_ringtone">Рингтон и вибросигнал</string>
-  <string name="set_subscription">Select subscriptions</string>
-  <string name="card_01">Card 1</string>
-  <string name="card_02">Card 2</string>
-  <string name="place_a_call1">Subscription 1</string>
-  <string name="place_a_call2">Subscription 2</string>
-  <string name="count_down">Seconds:</string>
-  <string name="call_number">To:</string>
-  <string name="cancel_call">Cancel</string>
-  <string name="set_subscription_error_atleast_one">Select atleast one subscription</string>
+  <string name="set_subscription">Выберите подписку</string>
+  <string name="card_01">Карта 1</string>
+  <string name="card_02">Карта 2</string>
+  <string name="place_a_call1">Подписка 1</string>
+  <string name="place_a_call2">Подписка 2</string>
+  <string name="count_down">Секунд:</string>
+  <string name="call_number">Кому:</string>
+  <string name="cancel_call">Отмена</string>
+  <string name="set_subscription_error_atleast_one">Выберите хотя бы одну подписку</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
-  <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
-  <string name="set_sub_success">Set subscription success</string>
-  <string name="set_sub_failed">Set subscription failed</string>
-  <string name="set_sub_1">Subscription 1:</string>
-  <string name="set_sub_2">Subscription 2:</string>
-  <string name="set_sub_activate_success">Activate success</string>
-  <string name="set_sub_deactivate_success">Deactivate success</string>
-  <string name="set_sub_activate_failed">Activate failed</string>
-  <string name="set_sub_deactivate_failed">Deactivate failed</string>
-  <string name="set_sub_activate_not_supported">Activate not supported</string>
-  <string name="set_sub_deactivate_not_supported">Deactivate not supported</string>
-  <string name="set_sub_no_change">No change in Subscription</string>
-  <string name="new_cards_available">New card available. Please configure subscriptions.</string>
-  <string name="config_sub_title">Configure Subscriptions</string>
-  <string name="deact_all_sub_not_supported">Deactivation of both the subscriptions is not supported.</string>
-  <string name="label_subscription">for Subscription</string>
+  <string name="set_uicc_subscription_progress">Выполняется установка подписки…</string>
+  <string name="set_sub_success">Подписки установлена успешно</string>
+  <string name="set_sub_failed">Ошибка установки подписки</string>
+  <string name="set_sub_1">Подписка 1:</string>
+  <string name="set_sub_2">Подписка 2:</string>
+  <string name="set_sub_activate_success">Активация успешна</string>
+  <string name="set_sub_deactivate_success">Деактивация успешна</string>
+  <string name="set_sub_activate_failed">Ошибка активации</string>
+  <string name="set_sub_deactivate_failed">Ошибка деактивации</string>
+  <string name="set_sub_activate_not_supported">Активация не поддерживается</string>
+  <string name="set_sub_deactivate_not_supported">Деактивация не поддерживается</string>
+  <string name="set_sub_no_change">Нет изменений в подписке</string>
+  <string name="new_cards_available">Доступна новая карта. Настройте подписку</string>
+  <string name="config_sub_title">Настройки подписки</string>
+  <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
+  <string name="label_subscription">для подписки</string>
   <string name="ContactScreen">Add/Edit SIM Contact</string>
   <string name="ExportContactScreen">Export phone contacts to sim</string>
   <string name="addSimEntries">Add SIM Contact</string>
@@ -880,75 +880,75 @@ Attempts Remaining :"</string>
   <string name="exportAllcontatsSuccess">Succesfully exported all contacts to SIM</string>
   <string name="exportAllcontatsFailed">Failed to export all contacts to SIM !!!</string>
   <string name="cursorError">Cursor is not having proper data !!!</string>
-  <string name="Reboot">"Reboot is in progress....
- wait please"</string>
-  <string name="RebootTitle">Phone Reboot</string>
-  <string name="sky_card_removed">USIM card removed. Restart.</string>
-  <string name="network_name_display">Network Name Display</string>
-  <string name="network_name_display_summary">Dislay network name (On/Off)</string>
-  <string name="skt_subs_app_name">USIM download</string>
-  <string name="skt_subs_title">USIM download</string>
-  <string name="skt_subs_ongoing_title">USIM is downloading</string>
-  <string name="skt_subs_confirm_yes">Yes</string>
-  <string name="skt_subs_confirm_no">No</string>
-  <string name="skt_subs_start_noti">Do you want to start downloading USIM ?</string>
-  <string name="usim_dl_ongoing_msg">"Please Wait.
-You must not use the phone until complete.
-After Automatically Restart"</string>
-  <string name="usim_dl_success">SUCCESS</string>
-  <string name="usim_dl_success_msg">"Automatically Restarting
-after You can use a service.
-Thanks"</string>
-  <string name="usim_dl_fail">RETRY</string>
-  <string name="usim_dl_fail_msg">Please try again later</string>
-  <string name="usim_dl_after_reboot_title">Confirm USIM</string>
+  <string name="Reboot">"Выполняется перезагрузка....
+ Подождите пожалуйста"</string>
+  <string name="RebootTitle">Перезагрузка телефона</string>
+  <string name="sky_card_removed">USIM-карта извлечена. Перезапустите.</string>
+  <string name="network_name_display">Отображение названия сети</string>
+  <string name="network_name_display_summary">Отображение названия сети (Вкл/Выкл)</string>
+  <string name="skt_subs_app_name">USIM загрузка</string>
+  <string name="skt_subs_title">USIM загрузка</string>
+  <string name="skt_subs_ongoing_title">USIM загружается</string>
+  <string name="skt_subs_confirm_yes">Да</string>
+  <string name="skt_subs_confirm_no">Нет</string>
+  <string name="skt_subs_start_noti">Вы действительно хотите начать загрузку USIM ?</string>
+  <string name="usim_dl_ongoing_msg">" Подождите.
+Вы не должны использовать телефон до завершения.
+После автоматически перезапустится"</string>
+  <string name="usim_dl_success">УСПЕШНО</string>
+  <string name="usim_dl_success_msg">"Автоматическая перезагрузка
+После вы можете использовать сервис.
+Спасибо"</string>
+  <string name="usim_dl_fail">ПОВТОР</string>
+  <string name="usim_dl_fail_msg">Пожалуйста, повторите попытку позже</string>
+  <string name="usim_dl_after_reboot_title">Подтвердить USIM</string>
   <string name="usim_dl_after_reboot_msg">"
-It will be shut down to confirm USIM
+Телефон выключится для подтверждения USIM
 "</string>
-  <string name="usim_dl_kt_ota_fail_msg">"Fail KT USIM Download !
- Retry again ?"</string>
-  <string name="usim_dl_kt_ota_retry">Retry</string>
-  <string name="usim_dl_kt_ota_cancel">Cancel</string>
-  <string name="lte_flag_change_network_mode">Data Network Connection Mode is changed.</string>
-  <string name="nws_notice">Notice</string>
-  <string name="need_network_setting_message">"Roaming area is not detected
-Select network manually."</string>
-  <string name="nw_manual_selection">Network Manual Selection</string>
+  <string name="usim_dl_kt_ota_fail_msg">"Ошибка загрузки KT USIM  !
+ Повторить ?"</string>
+  <string name="usim_dl_kt_ota_retry">Повторить</string>
+  <string name="usim_dl_kt_ota_cancel">Отмена</string>
+  <string name="lte_flag_change_network_mode">Изменен режим подключения передачи данных.</string>
+  <string name="nws_notice">Обратите внимание</string>
+  <string name="need_network_setting_message">"Роуминг не обнаружен
+Выберите сеть вручную."</string>
+  <string name="nw_manual_selection">Ручной выбор сети</string>
   <string name="sky_fa_changed">FA changed. Restart.</string>
-  <string name="skt_data_network_mode">Network Mode</string>
-  <string name="roaming_setting_yes">Allow</string>
-  <string name="romaing_setting_no">Block</string>
-  <string name="dataRoamingContent">"Data roaming service is originally blocked outside of country to prevent unnecessary charge by auto updates of applications and e-mail.
+  <string name="skt_data_network_mode">Режим сети</string>
+  <string name="roaming_setting_yes">Разрешить</string>
+  <string name="romaing_setting_no">Блокировать</string>
+  <string name="dataRoamingContent">"Роуминг данных первоначально заблокирован за пределами страны для предотвращения ненужных автоматических обновлений приложений и электронной почты.
 
-If you want data roaming service, please select ’Allow’.
+Если вы хотите включить передачу данных в роуминге, пожалуйста выберите 'Разрешить'.
 
-Auto update applications: Google account sync, Messenger, Games etc."</string>
-  <string name="dataRoamingContent_emphasis">Data roaming service is <font fgcolor="#ffff0000">originally blocked outside of country to prevent unnecessary charge by auto updates</font>" of applications and e-mail.
+Автообнолвение приложений: Синхронизация Google аккаунта, Обмен сообщениями, Игры и т.д."</string>
+  <string name="dataRoamingContent_emphasis">Передача данных в роуминге первоначально заблокирована во избежания лишних трат " за автообновление приложений и эл.почты.
 
-If you want data roaming service, please select ’Allow’.
+Если вы хотите включить передачу данных в роуминге, пожалуйста выберите 'Разрешить'.
 
-Auto update applications: Google account sync, Messenger, Games etc."</string>
-  <string name="dataRoamingTitle">Data Roaming Setting</string>
-  <string name="dataRoamingBlock">Block(Recom.)</string>
-  <string name="dataRoamingAllow">Allow</string>
-  <string name="dataRoamingConfirm">Confirm</string>
-  <string name="sky_roam_warnning">Selecting wrong roaming carrier may result in your being unable to make and receive phone calls and use data service.</string>
-  <string name="sky_not_support_in_domestic">Only use in foreign areas.</string>
-  <string name="plmn_automatic_selection">Automatic Selection</string>
-  <string name="plmn_automatic_selection_summary">Automatically select preferred carrier</string>
-  <string name="plmn_manual_selection">Manual Selection</string>
-  <string name="plmn_manual_selection_summary">Scan for all available carriers and select one</string>
-  <string name="curr_network_info">Current network status</string>
-  <string name="skt_carrier_select">Select roaming carrier</string>
-  <string name="sum_skt_carrier_select">Automatic/Manual selection</string>
+Автообнолвение приложений: Синхронизация Google аккаунта, Обмен сообщениями, Игры и т.д."</string>
+  <string name="dataRoamingTitle">Настройка передачи данных в роуминге</string>
+  <string name="dataRoamingBlock">Заблокировать(рекомендовано)</string>
+  <string name="dataRoamingAllow">Разрешить</string>
+  <string name="dataRoamingConfirm">Подтвердить</string>
+  <string name="sky_roam_warnning">Выбор неправильной области, вы не можете подключиться к сети.</string>
+  <string name="sky_not_support_in_domestic">Использовать только в иностранных областях.</string>
+  <string name="plmn_automatic_selection">Автовыбор</string>
+  <string name="plmn_automatic_selection_summary">Автоматически выбирать предпочтительную сеть</string>
+  <string name="plmn_manual_selection">Ручной выбор</string>
+  <string name="plmn_manual_selection_summary">Поиск и ручная установка для доступных сетей</string>
+  <string name="curr_network_info">Текущий статус сети</string>
+  <string name="skt_carrier_select">Поиск сетей</string>
+  <string name="sum_skt_carrier_select">Авто/Ручной выбор</string>
   <string name="skt_network_settings">Select roaming carrier</string>
   <string name="skt_search_roaming_carrier">Search roaming carrier</string>
   <string name="skt_search_roaming_carrier_summary">Scan for all available carriers</string>
-  <string name="skt_data_network_select_title">Data network type</string>
-  <string name="skt_data_network_select_summary">Select LTE/3G network</string>
-  <string name="skt_data_network_select_lte_selected">Connect data network by LTE mode first</string>
-  <string name="skt_data_network_select_3g_selected">Connect data by using 3G network. Customer with LTE only plan can use fast data network service by LTE Preferred mode.</string>
-  <string name="skt_t_roaming">T roaming</string>
+  <string name="skt_data_network_select_title">Тип сети</string>
+  <string name="skt_data_network_select_summary">Выбрать LTE/3G сеть</string>
+  <string name="skt_data_network_select_lte_selected">Подключить сначала режим передачи данных через LTE</string>
+  <string name="skt_data_network_select_3g_selected">Передача данных через 3G. Клиент с режимом только LTE может использовать быструю передачу данных.</string>
+  <string name="skt_t_roaming">T роуминг</string>
   <string name="skt_scanning_carrier_title">Searching</string>
   <string name="skt_scanning_carrier_msg">"Searching for carrier…Please wait.
 (Max 2 minutes)"</string>
