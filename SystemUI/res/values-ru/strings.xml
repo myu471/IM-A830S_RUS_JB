@@ -156,15 +156,14 @@
   <string name="quicksetting_on_off_btn_close">Закрыть</string>
   <string name="easy_setting_acra_exception">Завершилось аварийно</string>
   <string name="easy_setting_eco_setting">Энергосбережение</string>
-  <string name="easy_setting_motion_setting">"Распознавание
-движения"</string>
+  <string name="easy_setting_motion_setting">"Жесты"</string>
   <string name="simple_easy_setting_auto_rotate">Автоповорот</string>
   <string name="data_mode_enable_dialog_string">Data fee will be charged by accessing data network and overcharged if data usage is high.</string>
   <string name="data_mode_disable_dialog_string">When disconnect data network, available to use and access data in Wi-Fi acceptable area.</string>
-  <string name="easy_setting_edit">Edit</string>
+  <string name="easy_setting_edit">Изменить</string>
   <string name="easy_setting_edit_end">Finish</string>
   <string name="easy_setting_bigfont_setting">Large Font</string>
-  <string name="quick_setting_font_link">Font</string>
+  <string name="quick_setting_font_link">Шрифт</string>
   <string name="quick_setting_nfc_link">NFC</string>
   <string name="easy_setting_nfc_setting">"R&amp;W/
 P2P"</string>
@@ -172,22 +171,21 @@ P2P"</string>
   <string name="xpen_turning_on">Turning on V Pen.</string>
   <string name="xpen_available">V Pen is available.</string>
   <string name="xpen_mic_blocked">Blocking mic may slow down the performance of V Pen.</string>
-  <string name="easy_setting_sync_setting">Sync</string>
+  <string name="easy_setting_sync_setting">Синхронизация</string>
   <string name="quick_setting_wi_fi_direct_link">"Wi-Fi
 Direct"</string>
-  <string name="wifi_hotspot_dialog_title">Attention</string>
+  <string name="wifi_hotspot_dialog_title">Внимание</string>
   <string name="wifi_hotspot_dialog_msg">Turning on Wi-Fi will disable Portable Wi-Fi hotspot. Continue?</string>
-  <string name="wifi_error">Error</string>
+  <string name="wifi_error">Ошибка</string>
   <string name="nfc_rw_p2p_disable_message">Smart phone acts like a credit card or a transportation card.</string>
   <string name="status_bar_notification_title">Notifications</string>
   <string name="twelve_hour_time_format_forced">a h:mm</string>
   <string name="easy_setting_backtouch_setting">Back Track</string>
   <string name="quick_setting_backtouch_link">Back Track</string>
-  <string name="easy_setting_silent_sound">Sound</string>
-  <string name="easy_setting_silent_vibrate">Vibrate</string>
-  <string name="easy_setting_silent_mute">Mute</string>
-  <string name="easy_setting_roaming_data">"Data
-Roaming"</string>
+  <string name="easy_setting_silent_sound">Звук</string>
+  <string name="easy_setting_silent_vibrate">Вибро</string>
+  <string name="easy_setting_silent_mute">Тишина</string>
+  <string name="easy_setting_roaming_data">"Роуминг данных"</string>
   <string name="easy_setting_roaming_data_popup_title">Roaming data agreement</string>
   <string name="easy_setting_roaming_data_popup_title_lgu">Data roaming settings</string>
   <string name="easy_setting_roaming_data_popup_content_1">I confirm that I have read the terms and conditions below, and agree on roaming data usage.</string>
@@ -207,7 +205,7 @@ Roaming"</string>
   <string name="Charging_error_msg_volt">Charging is not available. Please use a valid or genuine charger.</string>
   <string name="Fully_charged_title">Charging is completed.</string>
   <string name="Fully_charged_msg">Fully charged. Disconnect charger.</string>
-  <string name="edit_screenshot">Edit</string>
+  <string name="edit_screenshot">Изменить</string>
   <string name="title_aot">мини Окно</string>
   <string name="title_textaction">Text Action</string>
   <string name="title_voice">Smart Voice</string>
