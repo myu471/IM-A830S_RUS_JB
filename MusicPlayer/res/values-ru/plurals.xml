@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="count_of_songs">
+        <item quantity="other">%1dSongs</item>
+        <item quantity="zero">%1dSong</item>
+        <item quantity="one">%1dSong</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+</resources>

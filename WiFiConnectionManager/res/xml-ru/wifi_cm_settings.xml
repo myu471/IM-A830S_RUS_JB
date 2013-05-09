@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/limit_rssi_entries" android:title="@string/wifi_scan_rssi_limit_title" android:key="scan_rssi_limit" android:summary="@string/wifi_scan_rssi_limit_summary" android:entryValues="@array/limit_rssi_values" />
+    <PreferenceScreen android:title="@string/title_search_list_exclud" android:key="search_list_exclud" android:summary="@string/summary_search_list_exclud" />
+    <Preference android:title="@string/wifi_advanced_favorites_title" android:key="show_favorites" android:summary="@string/wifi_advanced_favorites_summary" />
+    <Preference android:title="@string/wifi_advanced_time_title" android:key="show_time" android:summary="@string/wifi_advanced_time_summary" />
+</PreferenceScreen>

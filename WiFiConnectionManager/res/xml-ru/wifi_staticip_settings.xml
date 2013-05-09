@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="false" android:layout="@layout/checkbox_preference" android:title="@string/wifi_use_static_ip" android:key="use_static_ip" />
+    <EditTextPreference android:persistent="false" android:layout="@layout/edittext_preference" android:singleLine="true" android:title="@string/wifi_ip_address" android:key="ip_address" android:dependency="use_static_ip" />
+    <EditTextPreference android:persistent="false" android:layout="@layout/edittext_preference" android:singleLine="true" android:title="@string/wifi_gateway" android:key="gateway" android:dependency="use_static_ip" />
+    <EditTextPreference android:persistent="false" android:layout="@layout/edittext_preference" android:singleLine="true" android:title="@string/wifi_netmask" android:key="netmask" android:dependency="use_static_ip" />
+    <EditTextPreference android:persistent="false" android:layout="@layout/edittext_preference" android:singleLine="true" android:title="@string/wifi_dns1" android:key="dns1" android:dependency="use_static_ip" />
+    <EditTextPreference android:persistent="false" android:layout="@layout/edittext_preference" android:singleLine="true" android:title="@string/wifi_dns2" android:key="dns2" android:dependency="use_static_ip" />
+</PreferenceScreen>

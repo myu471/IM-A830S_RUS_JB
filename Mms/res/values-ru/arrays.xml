@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+    </string-array>
+    <string-array name="array_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting_in_call">
+        <item>Mute</item>
+        <item>Low volume</item>
+        <item>Vibration</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting">
+        <item>Mute</item>
+        <item>1 time</item>
+        <item>Reminders</item>
+    </string-array>
+    <string-array name="chetting_style">
+        <item>Basic</item>
+        <item>Diary</item>
+        <item>Fancy</item>
+        <item>Paper</item>
+        <item>Popart</item>
+    </string-array>
+    <string-array name="popup_menu_background_setting">
+        <item>Gallery</item>
+        <item>Color</item>
+        <item>Pattern</item>
+    </string-array>
+    <string-array name="popup_menu_pattern_setting">
+        <item>Graph paper</item>
+        <item>Grey polka dots</item>
+        <item>Navy cellophan</item>
+        <item>Yellow scarf</item>
+        <item>Blue heart</item>
+        <item>Mono vandana</item>
+        <item>Sweet-candy</item>
+        <item>Basswood</item>
+        <item>Choco-felt</item>
+        <item>Brown fabric</item>
+        <item>Green daisy</item>
+        <item>Check brownie</item>
+        <item>Oakwood</item>
+    </string-array>
+    <string-array name="popup_menu_gradation_setting">
+        <item>None</item>
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>Diagonal</item>
+    </string-array>
+    <string-array name="gallery_style">
+        <item>Center</item>
+        <item>Check</item>
+        <item>Lengthen</item>
+    </string-array>
+    <string-array name="msg_lock_menu_setting">
+        <item>None</item>
+        <item>Pattern</item>
+        <item>Password</item>
+    </string-array>
+    <string-array name="auto_retrieval_setting">
+        <item>Domestic auto retrieve</item>
+        <item>Manual retrieve</item>
+        <item>Auto retrieve</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>All</item>
+        <item>Contents</item>
+        <item>Address</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_thread">
+        <item>Move to saved box</item>
+        <item>Move to USIM</item>
+        <item>Copy to USIM</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_perm">
+        <item>Move to dialog box</item>
+        <item>Move to USIM</item>
+        <item>Copy to USIM</item>
+    </string-array>
+    <string-array name="popup_menu_save_in_usim">
+        <item>Move to dialog box</item>
+        <item>Copy to dialog box</item>
+        <item>Move to saved box</item>
+    </string-array>
+    <string-array name="popup_menu_register_spam">
+        <item>Register number to spam</item>
+        <item>Register word to spam</item>
+    </string-array>
+    <string-array name="link_popup_menu_web_url">
+        <item>Save URL</item>
+        <item>Connect URL</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Save email</item>
+        <item>Send email</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Voice call</item>
+        <item>Send message</item>
+        <item>Save contact</item>
+    </string-array>
+    <string-array name="email_domain">
+        <item>hanmail.net</item>
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+        <item>naver.com</item>
+        <item>nate.com</item>
+        <item>empal.com</item>
+        <item>yahoo.com</item>
+        <item>daum.net</item>
+        <item>dreamwiz.com</item>
+        <item>paran.com</item>
+        <item>lycos.com</item>
+        <item>freecal.com</item>
+        <item>korea.com</item>
+    </string-array>
+    <string-array name="filename_prefix">
+        <item>음성녹음_</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>
