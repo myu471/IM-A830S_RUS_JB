@@ -5,14 +5,14 @@
         <item>PropertyValue</item>
     </string-array>
     <string-array name="select_dialog_autostop">
-        <item>No setting</item>
-        <item>10 minutes later</item>
-        <item>20 minutes later</item>
-        <item>30 minutes later</item>
-        <item>1 hour later</item>
+        <item>Не задано</item>
+        <item>10 минут назад</item>
+        <item>20 минут назад</item>
+        <item>30 минут назад</item>
+        <item>1 час назад</item>
     </string-array>
     <string-array name="drmserverlist">
-        <item>OnlineStore server</item>
+        <item>Сервер OnlineStore</item>
         <item>Test server</item>
         <item>Tally server</item>
     </string-array>
