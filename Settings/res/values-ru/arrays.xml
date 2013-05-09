@@ -391,7 +391,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
     <item>Стандартное ограничение</item>
-    <item>Без фоновых процессов"/item>
+    <item>Без фоновых процессов</item>
     <item>Не более одного процесса</item>
     <item>Не более 2 процессов</item>
     <item>Не более 3 процессов</item>
