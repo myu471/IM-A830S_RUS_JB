@@ -86,7 +86,7 @@
   <string name="slide_duration_edit_title">Установить продолжительность</string>
   <string name="slide_duration_set">Установить</string>
   <string name="slide_duration_cancel">Отмена</string>
-  <string name="app_label">Сообщение</string>
+  <string name="app_label">SMS/MMS</string>
   <string name="new_message">Новое сообщение</string>
   <string name="create_new_message">Создать новое сообщение</string>
   <string name="menu_call_back">Вызов: %s</string>
