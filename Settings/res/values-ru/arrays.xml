@@ -336,13 +336,13 @@
         <item>Always use HDCP checking</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+    <item>Отключение анимации</item>
+    <item>Анимация (масштаб: 0,5x)</item>
+    <item>Анимация (масштаб: 1x)</item>
+    <item>Анимация (масштаб: 1,5x)</item>
+    <item>Анимация (масштаб: 2x)</item>
+    <item>Анимация (масштаб: 5x)</item>
+    <item>Анимация (масштаб: 10x)</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -354,13 +354,13 @@
         <item>10</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+    <item>Отключение анимации</item>
+    <item>Анимация (масштаб: 0,5x)</item>
+    <item>Анимация (масштаб: 1x)</item>
+    <item>Анимация (масштаб: 1,5x)</item>
+    <item>Анимация (масштаб: 2x)</item>
+    <item>Анимация (масштаб: 5x)</item>
+    <item>Анимация (масштаб: 10x)</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -372,13 +372,13 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+    <item>Без анимации</item>
+    <item>Скорость 0,5x</item>
+    <item>Скорость 1x</item>
+    <item>Скорость 1,5x</item>
+    <item>Скорость 2x</item>
+    <item>Скорость 5x</item>
+    <item>Скорость 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -390,12 +390,12 @@
         <item>10</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+    <item>Стандартное ограничение</item>
+    <item>Без фоновых процессов"/item>
+    <item>Не более одного процесса</item>
+    <item>Не более 2 процессов</item>
+    <item>Не более 3 процессов</item>
+    <item>Не более 4 процессов</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -414,20 +414,20 @@
         <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+    <item>VPN-соединение по протоколу PPTP</item>
+    <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
+    <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
+    <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
+    <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
+    <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Disconnected</item>
-        <item>Initializing…</item>
-        <item>Connecting…</item>
-        <item>Connected</item>
-        <item>Timeout</item>
-        <item>Unsuccessful</item>
+    <item>Отключена</item>
+    <item>Инициализация...</item>
+    <item>Подключение...</item>
+    <item>Подключена</item>
+    <item>Время ожидания истекло</item>
+    <item>Сбой</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Ascended being</item>
@@ -489,14 +489,14 @@
         <item>@string/input_method_selector_always_hide_value</item>
     </array>
     <string-array name="silent_mode_entries">
-        <item>Off</item>
-        <item>Vibrate</item>
-        <item>Mute</item>
+        <item>Выкл.</item>
+    <item>Вибросигнал</item>
+    <item>Вкл.</item>
     </string-array>
     <string-array name="silent_mode_values">
-        <item>off</item>
-        <item>vibrate</item>
-        <item>mute</item>
+        <item>Выкл.</item>
+    <item>Вибросигнал</item>
+    <item>Вкл.</item>
     </string-array>
     <string-array name="alwayson_settings_entries">
         <item>Access allowed</item>
@@ -507,7 +507,7 @@
         <item>1</item>
     </string-array>
     <string-array name="alwayson_settings_popup_entries">
-        <item>Ask at power-on</item>
+        <item>Спросить при запуске</item>
     </string-array>
     <string-array name="alwayson_settings_popup_values">
         <item>0</item>

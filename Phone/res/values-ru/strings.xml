@@ -15,7 +15,7 @@
   <string name="pcu_phone_album_call_record">Запись разговоров</string>
   <string name="pcu_phone_album_autoanswer_record">Автоматический ответ</string>
   <string name="pcu_phone_autoanswer_elapsed_time">%1d/30 сек</string>
-  <string name="pcu_phone_autoanswer_guide">Нажмите Press home long key for Auto answer.</string>
+  <string name="pcu_phone_autoanswer_guide">Удерживайте кнопку "Домой" для автоматического ответа.</string>
   <string name="pcu_phone_autoanswer_recording">Идет запись.</string>
   <string name="pcu_phone_autoanswer_transfering">Автоответ выполнен.</string>
   <string name="pcu_phone_auto_answer_disabled_while_roaming">Автоответ будет отключен в роуминге</string>
@@ -33,7 +33,7 @@
   <string name="pcu_phone_failure">отказ</string>
   <string name="pcu_phone_incoming_call">Входящий звонок</string>
   <string name="pcu_phone_message">Сообщение</string>
-  <string name="pcu_phone_no_network_response">Отбой звонка.</string>
+  <string name="pcu_phone_no_network_response">Сеть не отвечает.</string>
   <string name="pcu_phone_no_number_info">Нет информации о номере.</string>
   <string name="pcu_phone_notification_autoanswerTitle">Автоответ</string>
   <string name="pcu_phone_notification_autoanswerRecordingMsg">Сообщение на автоответчик от %s.</string>
@@ -155,7 +155,7 @@
   <string name="pcu_phone_roaming_call">Обслуживание клиентов в роуминге</string>
   <string name="pcu_phone_ministry_call">Министерство иностранных дел</string>
   <string name="pcu_phone_btn_canvas">Canvas Talk</string>
-  <string name="pcu_phone_btn_note">Memo</string>
+  <string name="pcu_phone_btn_note">Заметка</string>
   <string name="pcu_phone_bluetooth_on">Bluetooth On</string>
   <string name="pcu_phone_bluetooth_off">Bluetooth Off</string>
   <string name="pcu_phone_mute_on">Mute On</string>
@@ -163,7 +163,7 @@
   <string name="pcu_phone_option_menu">More</string>
   <string name="pcu_card_title_alerting">Connecting</string>
   <string name="pcu_onscreenUnholdText">Unhold</string>
-  <string name="pcu_onscreenSpeakerText">Громк. связь</string>
+  <string name="pcu_onscreenSpeakerText">Динамик</string>
   <string name="pcu_onscreenBluetoothText">Bluetooth</string>
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Экстренный вызов</string>
@@ -631,7 +631,7 @@ Cледующий период начинается через %2$d дней (%3
   <string name="dial_emergency_error">Вызов не выполнен. %s – не номер экстренной службы.</string>
   <string name="dial_emergency_empty_error">Вызов не выполнен. Наберите номер.</string>
   <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
-  <string name="onscreenHoldText">Удерживать</string>
+  <string name="onscreenHoldText">Удержание</string>
   <string name="onscreenEndCallText">Завершить</string>
   <string name="onscreenShowDialpadText">Кнопки</string>
   <string name="onscreenMuteText">Откл. звук</string>

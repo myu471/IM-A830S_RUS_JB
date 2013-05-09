@@ -183,7 +183,7 @@ Direct"</string>
   <string name="twelve_hour_time_format_forced">a h:mm</string>
   <string name="easy_setting_backtouch_setting">Back Track</string>
   <string name="quick_setting_backtouch_link">Back Track</string>
-  <string name="easy_setting_silent_sound">Звук</string>
+  <string name="easy_setting_silent_sound">Звонок</string>
   <string name="easy_setting_silent_vibrate">Вибро</string>
   <string name="easy_setting_silent_mute">Тишина</string>
   <string name="easy_setting_roaming_data">"Роуминг данных"</string>
