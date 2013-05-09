@@ -858,17 +858,17 @@ Cледующий период начинается через %2$d дней (%3
   <string name="config_sub_title">Настройки подписки</string>
   <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
   <string name="label_subscription">для подписки</string>
-  <string name="ContactScreen">Add/Edit SIM Contact</string>
-  <string name="ExportContactScreen">Export phone contacts to sim</string>
+  <string name="ContactScreen">Добавить/изменить контакт SIM-карты</string>
+  <string name="ExportContactScreen">Сохранить контакты на SIM-карту</string>
   <string name="addSimEntries">Add SIM Contact</string>
-  <string name="deleteAllSimEntries">Delete All SIM Contacts</string>
-  <string name="deleteSimContacts">Deleting SIM contacts</string>
-  <string name="editContact">Edit</string>
-  <string name="sendSms">Send SMS</string>
-  <string name="delete">Delete</string>
-  <string name="dial">Dial</string>
-  <string name="enterName">Enter Name:</string>
-  <string name="enterNumber">Enter Phone Number:</string>
+  <string name="deleteAllSimEntries">Удалить все контакты с SIM-карты</string>
+  <string name="deleteSimContacts">Удаление контактов SIM-карты</string>
+  <string name="editContact">Редактировать</string>
+  <string name="sendSms">Отправить SMS</string>
+  <string name="delete">Удалить</string>
+  <string name="dial">Телефон</string>
+  <string name="enterName">Введите имя:</string>
+  <string name="enterNumber">Введите номер телефона:</string>
   <string name="contactAddSuccess">Succesfully added contact to SIM</string>
   <string name="contactAddFailed">Failed to add contact to SIM !!!</string>
   <string name="contactUpdateSuccess">Succesfully updated contact in SIM</string>
@@ -923,7 +923,7 @@ Cледующий период начинается через %2$d дней (%3
 Если вы хотите включить передачу данных в роуминге, пожалуйста выберите 'Разрешить'.
 
 Автообнолвение приложений: Синхронизация Google аккаунта, Обмен сообщениями, Игры и т.д."</string>
-  <string name="dataRoamingContent_emphasis">Передача данных в роуминге первоначально заблокирована во избежания лишних трат " за автообновление приложений и эл.почты.
+  <string name="dataRoamingContent_emphasis">Передача данных в роуминге первоначально заблокирована во избежания лишних трат за автообновление приложений и эл.почты.
 
 Если вы хотите включить передачу данных в роуминге, пожалуйста выберите 'Разрешить'.
 

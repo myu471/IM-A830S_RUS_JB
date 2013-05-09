@@ -275,7 +275,7 @@
   <string name="display_ungrouped">Все контакты</string>
   <string name="display_all_contacts">Все контакты</string>
   <string name="display_warn_remove_ungrouped">"Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы."</string>
-  <string name="account_unsynced">unsynced</string>
+  <string name="account_unsynced">не синхронизировано</string>
   <string name="account_phone">Только телефон, без синхронизации</string>
   <string name="call_custom">Позвонить (%s)</string>
   <string name="call_home">Домашний тел.</string>
@@ -703,28 +703,28 @@ Select contact to join through Join contact button."</string>
   <string name="pcu_calllog_launcher_title">Call log</string>
   <string name="pcu_calllog_recentCalls_empty">История звонков пуста.</string>
   <string name="pcu_calllog_recentCalls_deleteAll">Очистить историю звонков</string>
-  <string name="pcu_calllog_All">Все</string>
-  <string name="pcu_calllog_Missed_Calls">Пропущенные звонки</string>
-  <string name="pcu_calllog_Received_Voice_Calls">Получен голосовой вызов</string>
-  <string name="pcu_calllog_Dialed_Voice_Calls">Набран голосовой вызов</string>
-  <string name="pcu_calllog_Video_Calls">Видеозвонки</string>
+  <string name="pcu_calllog_All">Все вызовы</string>
+  <string name="pcu_calllog_Missed_Calls">Пропущенные вызовы</string>
+  <string name="pcu_calllog_Received_Voice_Calls">Принятые вызовы</string>
+  <string name="pcu_calllog_Dialed_Voice_Calls">Набранные вызовы</string>
+  <string name="pcu_calllog_Video_Calls">Видеовызовы</string>
   <string name="pcu_calllog_Messages">Сообщения</string>
   <string name="pcu_calllog_Delete">Удалить</string>
-  <string name="pcu_calllog_Call_Reject">Звонок блокирован</string>
-  <string name="pcu_calllog_Call_UnReject">Звонок разблокирован</string>
+  <string name="pcu_calllog_Call_Reject">Вызов блокирован</string>
+  <string name="pcu_calllog_Call_UnReject">Вызов разблокирован</string>
   <string name="pcu_calllog_Report_Spam">Сообщить о спаме</string>
   <string name="pcu_calllog_Report_Spam_Ask">Следующая информация будет передана в KISA spam center. Уведомить о спаме?</string>
   <string name="pcu_calllog_Save_Contact">Сохранить контакт</string>
   <string name="pcu_calllog_View_Contact">Просмотреть контакт</string>
   <string name="pcu_calllog_Unknown_number">Неизвестный номер</string>
   <string name="pcu_calllog_Deleted">Удален.</string>
-  <string name="pcu_calllog_Confirm_Reject_Info">"Этот номер будет отключен.
+  <string name="pcu_calllog_Confirm_Reject_Info">"Этот номер будет заблокирован.
 
 Продолжить?"</string>
-  <string name="pcu_calllog_Confirm_Unreject_Info">"Этот номер будет подключен.
+  <string name="pcu_calllog_Confirm_Unreject_Info">"Этот номер будет разблокирован.
 
 Продолжить?"</string>
-  <string name="pcu_calllog_Confirm_Spam_Info">"Этот номер будет сообщен как спам.
+  <string name="pcu_calllog_Confirm_Spam_Info">"Этот номер будет помечен как спам.
 
 Продолжить?"</string>
   <string name="pcu_calllog_confirm_add_to_contact">Добавить к контактам?</string>
@@ -777,11 +777,11 @@ Select contact to join through Join contact button."</string>
   <string name="pcu_calllog_MINISTRY_FOREIGN_AFFAIRS_TRADE">Министерство иностранных дел и внешней торговли</string>
   <string name="pcu_calllog_TRoaming_Center">Роуминг обслуживания клиентов</string>
   <string name="pcu_calllog_No_content_mms">[Нет темы]</string>
-  <string name="pcu_dialer_launcher_title">Phone</string>
-  <string name="pcu_dialer_title">Dial</string>
-  <string name="pcu_calllog_title">Call log</string>
-  <string name="pcu_favorites_title">Favorites</string>
-  <string name="pcu_contacts_title">Contacts</string>
+  <string name="pcu_dialer_launcher_title">Телефон</string>
+  <string name="pcu_dialer_title">Телефон</string>
+  <string name="pcu_calllog_title">Журнал вызовов</string>
+  <string name="pcu_favorites_title">Избранные</string>
+  <string name="pcu_contacts_title">Контакты</string>
   <string name="pcu_dialer_1_eng">.QZ</string>
   <string name="pcu_dialer_1_kor">ㄱㅋ</string>
   <string name="pcu_dialer_1_cj_kor">ㅣ</string>
@@ -827,9 +827,9 @@ Select contact to join through Join contact button."</string>
   <string name="pcu_dialer_pound_kor">ㅜㅠ</string>
   <string name="pcu_dialer_pound_cj_kor">\#</string>
   <string name="pcu_dialer_pound_nr_kor">" "</string>
-  <string name="pcu_dialer_save_to_contacts">Save to contacts</string>
-  <string name="pcu_dialer_search_contact">Search contact</string>
-  <string name="pcu_dialer_speeddial_setting">Speed dial setting</string>
+  <string name="pcu_dialer_save_to_contacts">Сохранить контакт</string>
+  <string name="pcu_dialer_search_contact">Искать контакт</string>
+  <string name="pcu_dialer_speeddial_setting">Настройки быстрого набора</string>
   <string name="pcu_dialer_skin_setting">Dial type setting</string>
   <string name="pcu_dialer_call_settings">Call settings</string>
   <string name="pcu_dialer_msg_call">Message call</string>

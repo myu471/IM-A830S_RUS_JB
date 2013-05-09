@@ -1376,8 +1376,8 @@
   <string name="skt_roaming_reselect_network">Необходимо изменить роуминг-оператора.</string>
   <string name="alwayson_popup_dialog_title">Подключение к сети передачи данных</string>
   <string name="alwayson_popup_initial_title">Настройка сети передачи данных</string>
-  <string name="alwayson_popup_dialog_content">"Передача данных просит разрешить доступ к беспроводным сетям, что может повлечь дополнительную плату за передачу.
-Разрешить доступ к передаче данных?"</string>
+  <string name="alwayson_popup_dialog_content">"Передача данных запрашивает доступ к беспроводныой сети. Это может вызвать дополнительные расходы. 
+  Разрешить передачу данных?"</string>
   <string name="alwayson_popup_dialog_ok_button">Да</string>
   <string name="alwayson_popup_dialog_cancel_button">Нет</string>
   <string name="alwayson_reject_popup_initial_title">Ошибка подключения к сети передачи данных</string>

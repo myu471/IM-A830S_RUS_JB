@@ -2142,10 +2142,10 @@ You can tether your Android device to your computer via a Bluetooth connection, 
   <string name="dialog_ok">Yes</string>
   <string name="dialog_cancel">No</string>
   <string name="dialog_time_valid_check_msg">Set Time?</string>
-  <string name="dialog_set_auto_time">There is a network-provided time zone. Do you want to use network-provided date and time automatically?</string>
-  <string name="dialog_set_auto_time_zone">There is a network-provided time zone. Do you want to use network-provided time zone automatically?</string>
-  <string name="dialog_set_auto_time_and_auto_timezone">There is a network-provided time zone. Do you want to use network-provided date, time and time zone automatically?</string>
-  <string name="dialog_move_time_date_settings">Unable to get time information through the network. Set your date and time manually.</string>
+  <string name="dialog_set_auto_time">Доступно определение часового пояса по сети. Хотите установить дату и время, предоставленные оператором связи?</string>
+  <string name="dialog_set_auto_time_zone">Доступно определение часового пояса по сети. Хотите установить часовой пояс, предоставленный оператором связи?</string>
+  <string name="dialog_set_auto_time_and_auto_timezone">Доступно определение часового пояса по сети. Хотите установить дату, время и часовой пояс, предоставленные оператором связи?</string>
+  <string name="dialog_move_time_date_settings">Невозможно определить время по сети. Установите значение вручную.</string>
   <string name="usb_connection_summary">Выбранный режим подключения будет использован при последующих USB подключениях</string>
   <string name="usb_sdcard_title">Внешняя память (Только SD-карта)</string>
   <string name="usb_sdcard_summary">Определить SD-карту как внешняя память и передать файлы на/с ПК.</string>
