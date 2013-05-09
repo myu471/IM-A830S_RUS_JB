@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Delete selected items?</item>
-        <item quantity="one">Delete selected item?</item>
+        <item quantity="other">Удалить выбранный файлы?</item>
+        <item quantity="one">Удалить выбранный файл?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d элементов выбрано</item>
+        <item quantity="zero">Ничего не выбрано</item>
+        <item quantity="one">Один элемент выбран</item>
     </plurals>
     <plurals name="number_of_albums_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">Альбомов выбрано: %1$d</item>
+        <item quantity="zero">Альбомы не выбраны</item>
+        <item quantity="one">Выбран один альбом</item>
     </plurals>
     <plurals name="number_of_groups_selected">
         <item quantity="other">%1$d selected</item>
