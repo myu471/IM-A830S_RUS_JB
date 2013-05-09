@@ -1976,7 +1976,7 @@
   <string name="iwlan_title">Настройки I-WLAN</string>
   <string name="iwlan_summary">Настроить и управлять I-WLAN (I-WLAN can provide secure KT Data Services on Wi-Fi networks)</string>
   <string name="wifi_tethering_invalid_word_error_msg">Возможно использовать символы.</string>
-  <string name="wifi_tethering_ssid_valid_check_error_msg">"HotSpot SSID на может содержать символы ',' или '='."</string>
+  <string name="wifi_tethering_ssid_valid_check_error_msg">"SSID точки доступа на может содержать символы ',' или '='."</string>
   <string name="wifi_ssid_lenth_check_error_msg">SSID не должен быть длиннее 32.</string>
   <string name="wifi_wep_password_lenth_check_error_msg">Введен неправильный пароль. Введите строку из 5 букв или 10 16-ных чисел при 64-битном шифровании и 13 букв или 26 16-ных чисел при 128-битном шифровании.</string>
   <string name="wifi_psk_password_lenth_check_error_msg">Введен неправильный пароль. Write to the 8~63 character string or 64 16 digits.</string>
@@ -1986,12 +1986,12 @@
   <string name="wifi_anonymous_identity_valid_check_error_msg">Могут быть использованы только буквы или цифры</string>
   <string name="wifi_same_network_exist_error_msg">Сеть уже существует.</string>
   <string name="nfc_settings_title">Настройки NFC</string>
-  <string name="nfc_settings_title_summary">Set up NFC/Android Beam</string>
+  <string name="nfc_settings_title_summary">Настроить NFC/Android Beam</string>
   <string name="nfc_on_off">NFC</string>
-  <string name="nfc_on_off_summary">NFC is available. You can use payment function for transportation and credit.</string>
+  <string name="nfc_on_off_summary">NFC доступен. Можно использовать функцию платежной карты.</string>
   <string name="nfc_use_rw_p2p">Использование P2P</string>
   <string name="nfc_use_rw_p2p_summary">Чтение или обмен метками через NFC</string>
-  <string name="nfc_android_beam_on_off">Android Beam/P2P transmission</string>
+  <string name="nfc_android_beam_on_off">Android Beam/P2P передача</string>
   <string name="nfc_disable_dialog_message">Если вы не используете NFC, вы не можете использовать функцию оплаты</string>
   <string name="icc_pin_input_error_title">Пароль(PIN) Ошибка ввода</string>
   <string name="icc_pin_input_error_format">Неправильный PIN. Осталось:%d Введите PIN еще раз.</string>
