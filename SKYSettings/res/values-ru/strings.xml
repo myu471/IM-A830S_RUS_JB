@@ -138,7 +138,7 @@
   <string name="qsound_setting_title3">QRumble</string>
   <string name="qsound_setting_title4">QSound Equalizer</string>
   <string name="qsound_setting_guide1">Стереозвук при использовании наушников</string>
-  <string name="qsound_setting_guide2">Естественный звук достигается настройкой средних-высоких частот</string>
+  <string name="qsound_setting_guide2">Натуральный звук достигается настройкой средних-высоких частот</string>
   <string name="qsound_setting_guide3">Мощный звук достигается настройкой нижнего диапазона частот</string>
   <string name="qsound_setting_guide4">"Различные настройки эквалайзера.
 QSizzle и QRumble работают только в нормальном режиме."</string>
@@ -160,13 +160,11 @@ QSizzle и QRumble работают только в нормальном реж�
   <string name="app_name">Настройки</string>
   <string name="current_version">0.0.0.1</string>
   <string name="sky_setting_title">Настройки</string>
-  <string name="sky_setting_menu_text1">"  Мелодии
-Громкость"</string>
-  <string name="sky_setting_menu_text2">Звуки</string>
+  <string name="sky_setting_menu_text1">"Громк./Рингтоны"</string>
+  <string name="sky_setting_menu_text2">Звук</string>
   <string name="sky_setting_menu_text3">Экран</string>
-  <string name="sky_setting_menu_text4">" Настройка
-приложений"</string>
-  <string name="sky_setting_menu_text5">Приложения</string>
+  <string name="sky_setting_menu_text4">"Настр. прилож."</string>
+  <string name="sky_setting_menu_text5">Режим/Прилож.</string>
   <string name="sky_setting_menu_text6">Системные</string>
   <string name="sky_setting_menu_not_installed">Пожалуйста, используйте после установки</string>
   <string name="lock_title">Блокировать</string>
