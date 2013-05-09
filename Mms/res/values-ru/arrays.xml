@@ -20,42 +20,46 @@
         <item>o_O</item>
     </string-array>
     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
-        <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
+    <item>Радость</item>
+    <item>Грустный</item>
+    <item>Подмигивает</item>
+    <item>Показывает язык</item>
+    <item>Удивлен</item>
+    <item>Поцелуй</item>
+    <item>Кричит</item>
+    <item>Крутой</item>
+    <item>Не болтай попусту</item>
+    <item>В замешательстве</item>
+    <item>Смущение</item>
+    <item>Ангел</item>
+    <item>Нерешительный</item>
+    <item>Плачет</item>
+    <item>Не скажу</item>
+    <item>Смех</item>
+    <item>Озадаченный</item>
+    <item>Сердце</item>
+    <item>Злой</item>
+    <item>Ухмылка</item>
+    <itemНевозмутимость</item>
     </string-array>
     <string-array name="array_week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
     <string-array name="popup_menu_alert_setting_in_call">
-        <item>Mute</item>
-        <item>Low volume</item>
-        <item>Vibration</item>
+        <item>Без звука</item>
+        <item>Тихо</item>
+        <item>Бибро</item>
     </string-array>
     <string-array name="popup_menu_alert_setting">
-        <item>Mute</item>
-        <item>1 time</item>
-        <item>Reminders</item>
+        <item>Без звука</item>
+        <item>1 раз</item>
+        <item>Напоминания</item>
     </string-array>
     <string-array name="chetting_style">
         <item>Basic</item>
