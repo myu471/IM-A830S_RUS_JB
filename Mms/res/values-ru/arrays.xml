@@ -40,7 +40,7 @@
     <item>Сердце</item>
     <item>Злой</item>
     <item>Ухмылка</item>
-    <itemНевозмутимость</item>
+    <item>Невозмутимость</item>
     </string-array>
     <string-array name="array_week">
         <item>Воскресенье</item>
