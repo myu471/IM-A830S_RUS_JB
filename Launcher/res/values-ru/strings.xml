@@ -218,8 +218,8 @@
   <string name="apps_search_hint">Поиск приложений.</string>
   <string name="apps_menu_hidden">Просмотр скрытых приложений</string>
   <string name="apps_menu_edit">Редактировать</string>
-  <string name="apps_menu_edit_button">ИЗМЕНИТЬ</string>
-  <string name="apps_menu_done_button">ГОТОВО</string>
+  <string name="apps_menu_edit_button">ИЗМ.</string>
+  <string name="apps_menu_done_button">OK</string>
   <string name="apps_menu_edit_finished">Подтверждено.</string>
   <string name="apps_menu_manage_group">Управление группами</string>
   <string name="apps_menu_playstore">Магазин</string>
@@ -288,7 +288,7 @@
   <string name="hotseat_button_home_theme_label">Тема Главного экрана</string>
   <string name="hotseat_button_icon_theme_label">Тема значков</string>
   <string name="hotseat_button_tutorial_label">Подсказки</string>
-  <string name="hotseat_button_homesetting_label">Настройка домашнего экрана</string>
+  <string name="hotseat_button_homesetting_label">Настройки лаунчера</string>
   <string name="hotseat_button_menu_label">Меню</string>
   <string name="invalid_space">Не удалось найти на этой области меню.</string>
   <string name="softmenu_full">Невозможно добавить содержимое.</string>
