@@ -12,7 +12,7 @@
     <dimen name="status_bar_recents_right_glow_margin">100.0dip</dimen>
     <dimen name="peek_window_y_offset">-12.0dip</dimen>
     <dimen name="navigation_bar_size">@android:dimen/navigation_bar_height</dimen>
-    <dimen name="navigation_bar_deadzone_size">12.0dip</dimen>
+    <dimen name="navigation_bar_deadzone_size">2.0dip</dimen>
     <dimen name="status_bar_icon_size">@android:dimen/status_bar_icon_size</dimen>
     <dimen name="notification_min_height">64.0dip</dimen>
     <dimen name="notification_max_height">256.0dip</dimen>
