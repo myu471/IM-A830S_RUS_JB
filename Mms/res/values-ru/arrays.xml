@@ -54,7 +54,7 @@
     <string-array name="popup_menu_alert_setting_in_call">
         <item>Без звука</item>
         <item>Тихо</item>
-        <item>Бибро</item>
+        <item>Вибро</item>
     </string-array>
     <string-array name="popup_menu_alert_setting">
         <item>Без звука</item>

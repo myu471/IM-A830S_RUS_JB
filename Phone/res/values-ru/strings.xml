@@ -42,7 +42,7 @@
   <string name="pcu_phone_put_the_below_button_here">Put the below button here.</string>
   <string name="pcu_phone_record_start">Запись</string>
   <string name="pcu_phone_record_stop">Стоп</string>
-  <string name="pcu_phone_recording_guide">Запись будет остановлена, когда окно звонка утрати фокус.</string>
+  <string name="pcu_phone_recording_guide">Запись будет остановлена, когда окно звонка утратит фокус.</string>
   <string name="pcu_phone_reject_guide">Отправить сообщение после отклонения текущего вызова.</string>
   <string name="pcu_phone_reject_message">Отклонить сообщение</string>
   <string name="pcu_phone_rejected_number">Отклоненный номер</string>
@@ -75,7 +75,7 @@
   <string name="pcu_phone_dialer_num_star">*</string>
   <string name="pcu_phone_dialer_cancel">Закрыть</string>
   <string name="pcu_phone_dialer_call">Вызвать</string>
-  <string name="pcu_phone_in_call_touch_vc">Видео вызов</string>
+  <string name="pcu_phone_in_call_touch_vc">Видео</string>
   <string name="pcu_phone_call_vt_available">Голосовой вызов подключен. Нажмите Ок для подключения видеовызова.</string>
   <string name="pcu_phone_cannot_place_a_call_with_own_number">Не удается совершить вызов с собственным номером.</string>
   <string name="pcu_phone_call_HDLiveShare">Видеозвонок высокой четкости</string>
@@ -160,9 +160,9 @@
   <string name="pcu_phone_bluetooth_off">Bluetooth Off</string>
   <string name="pcu_phone_mute_on">Mute On</string>
   <string name="pcu_phone_mute_off">Mute Off</string>
-  <string name="pcu_phone_option_menu">More</string>
-  <string name="pcu_card_title_alerting">Connecting</string>
-  <string name="pcu_onscreenUnholdText">Unhold</string>
+  <string name="pcu_phone_option_menu">Больше</string>
+  <string name="pcu_card_title_alerting">Идет вызов...</string>
+  <string name="pcu_onscreenUnholdText">Возобн.</string>
   <string name="pcu_onscreenSpeakerText">Динамик</string>
   <string name="pcu_onscreenBluetoothText">Bluetooth</string>
   <string name="phoneAppLabel">Телефон</string>
@@ -172,7 +172,7 @@
   <string name="unknown">Неизвестный абонент</string>
   <string name="private_num">Скрытый номер</string>
   <string name="payphone">Телефон-автомат</string>
-  <string name="onHold">Ждет ответа</string>
+  <string name="onHold">Ожидает</string>
   <string name="callFailed_userBusy">Линия занята</string>
   <string name="callFailed_congestion">Сеть занята</string>
   <string name="callFailed_timedOut">Нет ответа, время ожидания истекло</string>
@@ -634,7 +634,7 @@ Cледующий период начинается через %2$d дней (%3
   <string name="onscreenHoldText">Удержание</string>
   <string name="onscreenEndCallText">Завершить</string>
   <string name="onscreenShowDialpadText">Кнопки</string>
-  <string name="onscreenMuteText">Откл. звук</string>
+  <string name="onscreenMuteText">Откл. микр.</string>
   <string name="onscreenAddCallText">+ вызов</string>
   <string name="onscreenMergeCallsText">Соединить</string>
   <string name="onscreenSwapCallsText">Перевод звонка</string>
@@ -677,7 +677,7 @@ Cледующий период начинается через %2$d дней (%3
   <string name="ota_title_activate_success">Телефон активирован.</string>
   <string name="ota_title_problem_with_activation">Неполадки при активации</string>
   <string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена.</string>
-  <string name="ota_speaker">Динамик</string>
+  <string name="ota_speaker">Громк. связь</string>
   <string name="ota_progress">Дождитесь завершения программирования.</string>
   <string name="ota_failure">Сбой при программировании</string>
   <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>

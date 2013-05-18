@@ -651,11 +651,11 @@ Select contact to join through Join contact button."</string>
   <string name="joined_contact_do_separate_all_title">Separate all</string>
   <string name="joined_contact_do_separate_all">Are you sure you want to separate this single contact into multiple contacts: one for each set of contact information that was joined into it?</string>
   <string name="contact_detail_account_entry_type">Account Info.</string>
-  <string name="joined_contact_popup_join">Joining</string>
-  <string name="joined_contact_popup_seperate">Seperating</string>
-  <string name="joined_contact_popup_change_photo">Changing photo</string>
-  <string name="cancel_changes_dialog_title">Cancel changes</string>
-  <string name="cancel_changes_dialog_message">Do you want to cancel your changes?</string>
+  <string name="joined_contact_popup_join">Объединение...</string>
+  <string name="joined_contact_popup_seperate">Разделение...</string>
+  <string name="joined_contact_popup_change_photo">Изменение Фото...</string>
+  <string name="cancel_changes_dialog_title">Отменить изменения</string>
+  <string name="cancel_changes_dialog_message">Отменить изменения?</string>
   <string name="no_data">No data.</string>
   <string name="date_setting">Date setting</string>
   <string name="solar_date">Solar : %s</string>
