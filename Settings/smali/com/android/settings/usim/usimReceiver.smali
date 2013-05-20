@@ -556,7 +556,6 @@
     .line 428
     const-string v5, "ko_KR"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
     :try_end_73
     .catch Landroid/os/RemoteException; {:try_start_22 .. :try_end_73} :catch_74
 
@@ -600,8 +599,7 @@
     .line 434
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto :goto_15
 
     .line 422
@@ -690,8 +688,7 @@
     .line 460
     const-string v5, "ko_KR"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 463
@@ -714,8 +711,7 @@
     .line 466
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 454
@@ -744,8 +740,7 @@
     .line 485
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 491
@@ -835,8 +830,7 @@
     .line 501
     const-string v5, "ko_KR"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 504
@@ -859,8 +853,7 @@
     .line 507
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 495
@@ -933,8 +926,7 @@
     .line 530
     const-string v5, "ko_KR"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 533
@@ -953,8 +945,7 @@
     .line 536
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 526
@@ -983,8 +974,7 @@
     .line 555
     const-string v5, "en_US"
 
-    invoke-direct {v12, v5, v13}, Lcom/android/settings/usim/usimReceiver;->changeLanguage(Ljava/lang/String;Landroid/content/Context;)V
-
+    
     goto/16 :goto_15
 
     .line 561
