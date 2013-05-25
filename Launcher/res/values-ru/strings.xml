@@ -129,7 +129,7 @@
   <string name="shortcut_duplicated_item">Невозможно поместить одинаковые ярлыки в одной папке.</string>
   <string name="folder_space_full">Макс. количество папок превышено.</string>
   <string name="title_add_shortcut">Добавить</string>
-  <string name="folder_exceed">Добавить до 12 приложений</string>
+  <string name="folder_exceed">Превышен лимит в 12 приложений в папке</string>
   <string name="custom_workspace_cling_title_1"></string>
   <string name="custom_workspace_cling_description_1"></string>
   <string name="custom_workspace_cling_title_2"></string>
@@ -293,9 +293,9 @@
   <string name="invalid_space">Не удалось найти на этой области меню.</string>
   <string name="softmenu_full">Невозможно добавить содержимое.</string>
   <string name="all_apps_icon_can_not_be_placed_other_area">Apps icons can not be placed in other area.</string>
-  <string name="hotseat_info_btn_text">"Поместить ярлыки и 
-папки здесь."</string>
-  <string name="out_of_space_launcherbar">Нет места на панели.</string>
+  <string name="hotseat_info_btn_text">"Разместите здесь
+ярлыки и папки."</string>
+  <string name="out_of_space_launcherbar">Не хватает места.</string>
   <string name="apps_tutorial_title">Выберите несколько приложений</string>
   <string name="apps_tutorial_1">"Чтобы добавить приложение на Главный экран,
 нажмите на него и держите."</string>
@@ -330,17 +330,17 @@ Homescreen"</string>
 Главного экрана"</string>
   <string name="home_option_cling_menu_settings">"Перейти к
 Настройкам"</string>
-  <string name="vzw_cling_text_swipe_down">Swipe down</string>
-  <string name="vzw_cling_text_swipe_down_details">"Swipe down to view notifications
-and Settings shortcuts."</string>
-  <string name="vzw_cling_text_open_all_apps">To see all your apps, touch the circle.</string>
+  <string name="vzw_cling_text_swipe_down">Проведите вниз</string>
+  <string name="vzw_cling_text_swipe_down_details">"Проведите вниз для просмотра уведомлений
+и быстрых настроек."</string>
+  <string name="vzw_cling_text_open_all_apps">Коснитесь круга для просмотра всех приложений.</string>
   <string name="vzw_cling_text_more_space">More space for your shortcuts</string>
-  <string name="vzw_cling_text_more_space_details">Swipe the bar left or right to add more shortcuts.</string>
-  <string name="vzw_cling_text_menu_details">Touch Menu key to see Home Screen options and device settings.</string>
-  <string name="change">Change</string>
+  <string name="vzw_cling_text_more_space_details">Проведите по бару влево или вправо чтобы добавить больше ярлыков.</string>
+  <string name="vzw_cling_text_menu_details">Нажмите Менюдля просмотра опция главного экрана и настроек устройства.</string>
+  <string name="change">Изменить</string>
   <string name="deco">Deco</string>
-  <string name="template_isloading">Loading...</string>
-  <string name="template_apply">Changed.</string>
+  <string name="template_isloading">Загрузка...</string>
+  <string name="template_apply">Изменено.</string>
   <string name="set_blind_home">Значки скрыты.</string>
   <string name="reset_blind_home">Значки показаны.</string>
 </resources>
