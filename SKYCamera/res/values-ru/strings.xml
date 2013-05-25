@@ -388,7 +388,7 @@
   <string name="polaroid_hint_text">Enter less than 15 letters.</string>
   <string name="set_disable">Anti shake and photometry are only available in normal mode.</string>
   <string name="set_disable_front">Anti shake is not available with front camera.</string>
-  <string name="help_menu_context">Drag icons to screen from settings to add shortcuts.</string>
+  <string name="help_menu_context">Перетащите значки параметров для создания ярлыков.</string>
   <string name="fail_to_save_jpeg">Unable to save. End camera.</string>
   <string name="panorama_start">Move horizontally to start capture.</string>
   <string name="zoom_unavailable">Zoom is unavailable.</string>
@@ -887,7 +887,7 @@ to change the face"</string>
   <string name="port_best_cling_content">"Make your best
  time by using Best Face"</string>
   <string name="save">Save</string>
-  <string name="processing">Saving HDR image.</string>
+  <string name="processing">Сохраняется HDR фото.</string>
   <string name="zsl_max_width" />
   <string name="zsl_max_height" />
   <string name="focus_lock">"Focus is locked. 
