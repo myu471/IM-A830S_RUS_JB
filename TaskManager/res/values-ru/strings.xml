@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Task Manager</string>
-    <string name="title_main">Task Manager</string>
-    <string name="title_widget">Task Manager</string>
-    <string name="title_widget_main1">TASK</string>
-    <string name="title_widget_main2">MANAGER</string>
-    <string name="title_running">Running</string>
-    <string name="title_system">Systems</string>
-    <string name="title_tip">Tips</string>
+    <string name="app_name">Диспетчер задач</string>
+    <string name="title_main">Диспетчер задач</string>
+    <string name="title_widget">Диспетчер задач</string>
+    <string name="title_widget_main1">ДИСП.</string>
+    <string name="title_widget_main2">ЗАДАЧ</string>
+    <string name="title_running">Выполняются</string>
+    <string name="title_system">Система</string>
+    <string name="title_tip">Подсказки</string>
     <string name="close_app">End</string>
     <string name="close_all_app">End All</string>
     <string name="close_forced">Shutdown</string>
     <string name="close_normal">End</string>
     <string name="ram">RAM</string>
     <string name="cpu">CPU</string>
-    <string name="internal_memory">Internal Memory</string>
-    <string name="sd_card">SD Card</string>
-    <string name="insert_external_disk">Please insert a SD Card</string>
-    <string name="option_protect_list">Protection ended</string>
-    <string name="option_view_type">View type</string>
-    <string name="total_program">Total %1$d apps</string>
-    <string name="mb">MB</string>
-    <string name="nothing_running_program">There are no programs running.</string>
-    <string name="nothing_running_program_except_protect">Except a protection item and there are no programs running.</string>
-    <string name="use_tip1">"Running Apps
+    <string name="internal_memory">Память телефона</string>
+    <string name="sd_card">SD-карта</string>
+    <string name="insert_external_disk">Пожалуйста вставьте SD-карту</string>
+    <string name="option_protect_list">Защита закончилась</string>
+    <string name="option_view_type">Вид</string>
+    <string name="total_program">Всего %1$d приложений</string>
+    <string name="mb">МБ</string>
+    <string name="nothing_running_program">Нет запущенных приложений.</string>
+    <string name="nothing_running_program_except_protect">Нет запущенных приложений кроме защищенного элемента.</string>
+    <string name="use_tip1">"Зупещнные приложения
 "</string>
-    <string name="use_tip2"><li>"Minimize system load by closing programs with high CPU’s sharing.
+    <string name="use_tip2"><li>"Свести к минимуму нагрузку на систему путем закрытия программ с высокой загрузкой процессора.
 
 "</li><li>"Arrange programs by closing individual or all.
 
