@@ -600,13 +600,13 @@ RIL сокет недоступен."</string>
   <string name="str_no_media_to_save">Нет медиа-файла для сохранения.</string>
   <string name="str_no_message">Нет сообщения.</string>
   <string name="str_not_selected_file">Ничего не выбрано.</string>
-  <string name="str_noti_in_recv">Использовать оповещения</string>
+  <string name="str_noti_in_recv">Исп. оповещения</string>
   <string name="str_open">Открыть</string>
   <string name="str_opening">Открытие сообщений.</string>
   <string name="str_phone_email">E-mail</string>
   <string name="str_phone_num">Контакт</string>
   <string name="str_please_check_item">Нет выбранных объектов.</string>
-  <string name="str_popup_display">Показывать уведомление</string>
+  <string name="str_popup_display">Показ. уведомление</string>
   <string name="str_qmenu_view_link_url">Посмотреть URL</string>
   <string name="str_not_link_url">URL не найден.</string>
   <string name="str_recv_confirm">Подтверждение получения</string>
@@ -631,7 +631,7 @@ RIL сокет недоступен."</string>
   <string name="str_send">Отправить</string>
   <string name="str_send_error_memoryfull">Не удается отправить сообщение из-за превышения объема памяти.</string>
   <string name="str_sending_message">Отправка сообщения.</string>
-  <string name="str_set_msg_lock">Закрытие сообщений</string>
+  <string name="str_set_msg_lock">Защита сообщений</string>
   <string name="str_set_reserve_msg">Сообщение зарезервировано.</string>
   <string name="str_sms_only_mode">MMS отключены. Только SMS могут быть отправлены.</string>
   <string name="str_sorting_message">Упорядочивание сообщений.</string>
