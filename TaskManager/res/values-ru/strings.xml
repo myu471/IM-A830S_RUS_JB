@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="title_main">Task Manager</string>
+    <string name="title_widget">Task Manager</string>
+    <string name="title_widget_main1">TASK</string>
+    <string name="title_widget_main2">MANAGER</string>
+    <string name="title_running">Running</string>
+    <string name="title_system">Systems</string>
+    <string name="title_tip">Tips</string>
+    <string name="close_app">End</string>
+    <string name="close_all_app">End All</string>
+    <string name="close_forced">Shutdown</string>
+    <string name="close_normal">End</string>
+    <string name="ram">RAM</string>
+    <string name="cpu">CPU</string>
+    <string name="internal_memory">Internal Memory</string>
+    <string name="sd_card">SD Card</string>
+    <string name="insert_external_disk">Please insert a SD Card</string>
+    <string name="option_protect_list">Protection ended</string>
+    <string name="option_view_type">View type</string>
+    <string name="total_program">Total %1$d apps</string>
+    <string name="mb">MB</string>
+    <string name="nothing_running_program">There are no programs running.</string>
+    <string name="nothing_running_program_except_protect">Except a protection item and there are no programs running.</string>
+    <string name="use_tip1">"Running Apps
+"</string>
+    <string name="use_tip2"><li>"Minimize system load by closing programs with high CPU’s sharing.
+
+"</li><li>"Arrange programs by closing individual or all.
+
+"</li><li>"Regular updating programs such as news/weather/ fee info. can be protected from closing.
+
+"</li><li>"Protected programs are managed on separate lists.
+
+"</li><li>"Some programs may not be shown on lists while running.
+"</li></string>
+    <string name="use_tip3">"Systems
+"</string>
+    <string name="use_tip4">"1. CPU
+
+"<li>"High CPU’s Sharing will increase the usage of battery and system load.
+
+"</li><li>"Download programs from unclear sources may increase CPU’s sharing.
+
+"</li>"2. Internal/External memory
+
+"<li>"The graphs are showing internal and external usage, which can be used as managing the data.
+
+"</li>"3. Network
+
+"<li>"Show current network status.
+
+"</li><li>"Massive network usage requires high battery consumption. It is not recommended to use regular updating programs such as Wi-Fi connection and automatic sync.
+
+"</li><li>Show data usage status while using network.</li></string>
+    <string name="zero">0</string>
+    <string name="protect_end">Protection ended</string>
+    <string name="protect_end_detail">Avoiding force close</string>
+    <string name="status">Status</string>
+    <string name="unprotect">Protection expired</string>
+    <string name="cancel">cancel</string>
+    <string name="done">done</string>
+    <string name="network">Network</string>
+    <string name="network_up">Send</string>
+    <string name="network_down">Receive</string>
+    <string name="option_select_all">Select all</string>
+    <string name="option_deselect_all">Deselect all</string>
+    <string name="sky_recent_title">Recent</string>
+    <string name="sky_recent_no_recent_tasks">No recent applications</string>
+    <string name="sky_recent_task_manager">Task Manager</string>
+    <string name="widget_total_program1">Total</string>
+    <string name="widget_total_program2">Running applications</string>
+    <string name="running_item">running</string>
+    <string name="no_item_selected">No item selected.</string>
+    <string name="widget_kill_no_tasks">No application to end</string>
+    <string name="widget_kill_all_tasks">Terminate all except for protected programs</string>
+    <string name="widget_kill_all_tasks_except_protected_item">All programs terminated except for protected ones.</string>
+    <string name="number_of_item_selected">%1$d selected</string>
+</resources>
