@@ -1518,7 +1518,7 @@ MMM dd"</string>
   <string name="aot_folder">Папка</string>
   <string name="aot_text_action">Text Action</string>
   <string name="aot_smart_voice">Smart Voice</string>
-  <string name="aot_mini_window">мини Окно</string>
+  <string name="aot_mini_window">мини Окна</string>
   <string name="aot_old_tdmb">T-DMB</string>
   <string name="aot_old_pen">Набросок</string>
   <string name="aot_app_disable">Включите мини %s в Системных настройках.</string>
@@ -1533,7 +1533,7 @@ MMM dd"</string>
   <string name="otg_host_cable_disconnected_notification_title">USB-хост кабель отключен</string>
   <string name="otg_dev_active_notification_title">USB-устройство подключено</string>
   <string name="otg_dev_removed_notification_title">USB-устройство отключено</string>
-  <string name="otg_power_disconnected_notification_title">Отключиет USB-хост кабель, и подключите устройство заново</string>
+  <string name="otg_power_disconnected_notification_title">Отключите USB-хост кабель и подключите устройство заново</string>
   <string name="otg_power_disconnected_notification_message"></string>
   <string name="airplane_mode_is_on">Режим самолета вкл.</string>
   <string name="airplane_mode_is_off">Режим самолета выкл.</string>
