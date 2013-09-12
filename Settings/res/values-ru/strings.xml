@@ -1719,7 +1719,7 @@
   <string name="speaker_high_volume_mode">Maximize speaker volume</string>
   <string name="speaker_high_volume_mode_summary">When using media, maximize the speaker maximum volume.</string>
   <string name="battery_level_in_number_title">Отображение оставшегося заряда(%)</string>
-  <string name="battery_level_in_number_summary">Отображать оставшийся заряд в процентах в верху экрана</string>
+  <string name="battery_level_in_number_summary">Отображать оставшийся заряд в процентах в строке состояния</string>
   <string name="easy_up_title">Обновление версии</string>
   <string name="silent_mode_title">Режим без звука</string>
   <string name="SystemBarType_title">Панель кнопок</string>
