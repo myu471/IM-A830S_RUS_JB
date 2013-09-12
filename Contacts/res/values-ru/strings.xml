@@ -8,9 +8,9 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_extensions_to_consider"></string>
   <string name="config_prohibited_phone_number_regexp"></string>
-  <string name="help_url_people_main" />
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
+  <string name="help_url_people_main"></string>
+  <string name="help_url_people_add"></string>
+  <string name="help_url_people_edit"></string>
   <string name="config_sd_export_dir">/mnt/external_sd</string>
   <string name="launcherDialer">Телефон</string>
   <string name="people">Контакты</string>
@@ -688,6 +688,14 @@ Select contact to join through Join contact button."</string>
   <string name="ringtone_subtext">Same as default ringtone set in sound setting</string>
   <string name="no_ringtone">No contents</string>
   <string name="enable_app_setting">Enable Gmail in System settings</string>
+  <string name="setingvcard_text_coding_title">vCard text code setting</string>
+  <string name="setingvcard_text_coding_help_header">vCard text code setting guide</string>
+  <string name="setingvcard_text_coding_help_summary">In order to prevent distortion of Korean letters during transferring, you can adjust code type in code setting.</string>
+  <string name="setingvcard_text_coding_dialog_title">vCard text coding type</string>
+  <string name="setingvcard_text_coding_utf8">UTF-8</string>
+  <string name="setingvcard_text_coding_euckr">EUC-KR</string>
+  <string name="confirmYes">Yes</string>
+  <string name="confirmNo">No</string>
   <string name="export_to_sim_copy">Копировать на SIM-карту</string>
   <string name="export_to_sim_move">Переместить на SIM-карту</string>
   <string name="Contacts_empty">Нет контактов.</string>

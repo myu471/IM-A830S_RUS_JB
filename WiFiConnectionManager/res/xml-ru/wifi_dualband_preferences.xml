@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ListPreference android:entries="@array/dual_band_entiries" android:title="@string/wifi_advanced_dual_title" android:key="dual_band_priority" android:summary="@string/wifi_advanced_dual_summary" android:entryValues="@array/dual_band_values" />
-</PreferenceScreen>

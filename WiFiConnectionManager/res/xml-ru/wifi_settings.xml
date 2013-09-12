@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:id="@id/main_preference" android:title="@string/wifi_settings"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.skt.network.wificm.OA00091307.ProgressCategory android:persistent="false" android:layout="@layout/my_preference" android:key="access_points" />
-</PreferenceScreen>

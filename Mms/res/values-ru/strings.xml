@@ -459,6 +459,8 @@
   <string name="str_send_confirm">Отчеты о доставке</string>
   <string name="str_slide_editor">Использование слайдов</string>
   <string name="str_sms_center">SMS-центр</string>
+  <string name="str_KPAS_popup_display">Recv Setting</string>
+  <string name="str_KPAS_help_display">Emergency alert guide</string>
   <string name="str_sms_center_address">Адрес SMS-Центра</string>
   <string name="str_scsmsaddr_sim_read_error">"SIM-карта отсутствует или
 RIL сокет недоступен."</string>
@@ -476,6 +478,7 @@ RIL сокет недоступен."</string>
   <string name="str_title_normal_setting">Основные настройки</string>
   <string name="str_title_send_setting">Настройки отправки</string>
   <string name="str_title_recv_setting">Настройки получения</string>
+  <string name="str_title_KPAS_setting">Emergency alert settings</string>
   <string name="str_title_else_setting">Другие настройки</string>
   <string name="str_msg_sty_sample">Пример стиля сообщений</string>
   <string name="str_do_net_exist_file">Файл не существует.</string>
@@ -808,6 +811,15 @@ RIL сокет недоступен."</string>
   <string name="str_msg_lock_setting_toast">Сообщение блокируется при завершении приложения с помощью клавиши возврата.</string>
   <string name="str_google_account_yes">да</string>
   <string name="str_google_account_no">нет</string>
+  <string name="str_kpas_title_name">Emergency alert</string>
+  <string name="str_help_kpas_view">"Emergency alert is public service providing emergency disaster information to mobile phone user when the nature disaster occurs.
+
+※ This message is providing by National Emergency Management Agency with service provider and manufacturers. It may not be received according to the status of mobile phone and network."</string>
+  <string name="str_kpas_notification_multiple">%s unread emergency messages.</string>
+  <string name="notification_multiple_including_kpas">%s unread messages including unread emergency messages.</string>
+  <string name="str_test_kpas_message_id">Message Identifier</string>
+  <string name="str_test_kpas_range_message_id">Message ID Range [40960~45055]</string>
+  <string name="str_test_kpas_message_view">KPAS Message View</string>
   <string name="str_no_spamnum">Нет спам-номера.</string>
   <string name="str_no_spamtext">Нет спам-слова.</string>
   <string name="str_register_spam_num_question">Добавить спам-номер?</string>
@@ -988,5 +1000,5 @@ data establishment screen for a reception?"</string>
   <string name="str_making_message_list">Список сообщений упрядочен.</string>
   <item type="string" name="APKTOOL_DUMMY_0053">false</item>
   <item type="string" name="APKTOOL_DUMMY_0054">false</item>
-  <item type="string" name="APKTOOL_DUMMY_031d">false</item>
+  <item type="string" name="APKTOOL_DUMMY_0327">false</item>
 </resources>

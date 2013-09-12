@@ -836,6 +836,7 @@
   <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
   <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
+  <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="password_keyboard_label_alpha_key">АБВ</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="granularity_label_character">символ</string>
@@ -1392,8 +1393,7 @@
   <string name="dlg_dataRoamingMsgBlock">Отменить(Запретить)</string>
   <string name="data_roaming_msg_checked">Согласен</string>
   <string name="data_roaming_msg_agree1">Я подтверждаю, что ознакомился с нижеуказанными условиями и соглашаюсь на использование роуминга данных.</string>
-  <string name="data_roaming_msg_agree2">
-    <font fgcolor="#ffff0000">Автоматическая синхронизация</font> например для электронной почты или погоды может вызвать дополнительные расходы помимо вашей основной абонентской платы.</string>
+  <string name="data_roaming_msg_agree2">Автоматическая синхронизация например для электронной почты или погоды может вызвать дополнительные расходы помимо вашей основной абонентской платы.</string>
   <string name="data_connection_toast_string">Подключение к сети передачи данных</string>
   <string name="title_eap_notification">Успешная сертификация</string>
   <string name="toast_auth_timeout">Нет ответа от сети Wi-Fi</string>
@@ -1502,6 +1502,14 @@ MMM dd"</string>
   <string name="keyguard_accessbility_visual_guide2">Влево для разблокировки</string>
   <string name="keyguard_accessbility_visual_guide3">Вправо для включения вибрации</string>
   <string name="keyguard_accessbility_visual_guide4">Вправо для отключения вибрации</string>
+  <string name="lockscreen_tray_no_album_string">Music player</string>
+  <string name="lockscreen_tray_no_title_string">No contents to play</string>
+  <string name="lockscreen_tray_string_divider">/</string>
+  <string name="lockscreen_tray_unknown">&lt;Unknown&gt;</string>
+  <string name="lockscreen_tray_unlock_guide_string1">Unlock screen to run app</string>
+  <string name="lockscreen_tray_unlock_guide_string2">Unlock screen to run app. (When using data network, additional charges may be incurred by rate plan for running YouTube.)</string>
+  <string name="lockscreen_tray_unlock_guide_string3">Move to Music Player when unlock screen.</string>
+  <string name="lockscreen_tray_user_guide_string">Useful apps for earphone connection are suggested. Select app to run.</string>
   <string name="permlab_bindAlwaysOnTop">поверх всех окон</string>
   <string name="permdesc_bindAlwaysOnTop">Позволяет оставить мини окно поверх интерфейса. Не используется обычными приложениями.</string>
   <string name="alwaysontop">Поверх всех окон</string>
@@ -1538,7 +1546,7 @@ MMM dd"</string>
   <string name="airplane_mode_is_on">Режим самолета вкл.</string>
   <string name="airplane_mode_is_off">Режим самолета выкл.</string>
   <string name="volume_icon_description_system">Системная громкость</string>
-  <string name="shortage_storage">Невозможно создать скриншот из-за превышения емкости памяти.</string>
+  <string name="screenshot_storage_low_failed_text">"Couldn't save screenshot for low storage."</string>
   <item type="string" name="APKTOOL_DUMMY_0575">false</item>
   <item type="string" name="APKTOOL_DUMMY_0576">false</item>
   <item type="string" name="APKTOOL_DUMMY_0577">false</item>

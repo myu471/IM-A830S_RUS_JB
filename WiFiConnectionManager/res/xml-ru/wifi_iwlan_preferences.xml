@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceCategory android:persistent="false" android:title="@string/iwlan" android:key="iwlan_enabled_category">
-        <CheckBoxPreference android:persistent="false" android:enabled="false" android:title="@string/iwlan" android:key="iwlan_enabled" android:summary="@string/iwlan_ready" />
-    </PreferenceCategory>
-    <PreferenceCategory android:persistent="false" android:title="@string/iwlan_network" android:key="iwlan_networks" />
-    <Preference android:persistent="false" android:title="@string/iwlan_add_network" android:key="add_other_iwlan" android:dependency="iwlan_enabled" />
-</PreferenceScreen>

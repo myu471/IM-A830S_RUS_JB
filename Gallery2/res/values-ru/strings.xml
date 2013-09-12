@@ -538,7 +538,7 @@ Step out of view for a moment."</string>
   <string name="folder_imported">Импортированные</string>
   <string name="folder_screenshot">Скриншоты</string>
   <string name="help">Справка</string>
-  <string name="help_url_gallery_main" />
+  <string name="help_url_gallery_main"></string>
   <string name="cannot_attach">Не удалось присоединить DRM-файл.</string>
   <string name="protection_info">Защита информации</string>
   <string name="protection_status">Состояние защиты (Не может быть направлено)</string>

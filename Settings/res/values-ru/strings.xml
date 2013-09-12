@@ -1696,17 +1696,17 @@
   <string name="user_confirm_remove_message">Действительно удалить с устройства аккаунт пользователя и все его данные?</string>
   <string name="app_notifications_switch_label">Включить уведомления</string>
   <string name="help_label">Справка</string>
-  <string name="help_url_wifi" />
-  <string name="help_url_bluetooth" />
-  <string name="help_url_data_usage" />
-  <string name="help_url_more_networks" />
-  <string name="help_url_vpn" />
-  <string name="help_url_sound" />
-  <string name="help_url_battery" />
-  <string name="help_url_accounts" />
-  <string name="help_url_choose_lockscreen" />
-  <string name="help_url_backup_reset" />
-  <string name="help_url_tether" />
+  <string name="help_url_wifi"></string>
+  <string name="help_url_bluetooth"></string>
+  <string name="help_url_data_usage"></string>
+  <string name="help_url_more_networks"></string>
+  <string name="help_url_vpn"></string>
+  <string name="help_url_sound"></string>
+  <string name="help_url_battery"></string>
+  <string name="help_url_accounts"></string>
+  <string name="help_url_choose_lockscreen"></string>
+  <string name="help_url_backup_reset"></string>
+  <string name="help_url_tether"></string>
   <string name="cell_broadcast_settings">Широковещательная передача сообщений</string>
   <string name="cell_broadcast_settings_summary">Выберите типы экстренных оповещений на экране.</string>
   <string name="GPS_GpsSimpleTest_app_name">Простой тест GPS</string>
@@ -1743,8 +1743,24 @@
   <string name="skt_t_roaming_dual_clock_summary">Only use in foreign areas</string>
   <string name="skt_t_roaming_dual_clock_enabled">Roaming Dual Clock is enabled</string>
   <string name="skt_t_roaming_dual_clock_disabled">Roaming Dual Clock is disabled</string>
+  <string name="Normal_Mode">Basic type</string>
+  <string name="Simple_Mode">Simple normal type</string>
+  <string name="Simple_Ex_Mode">Simple expandable type</string>
+  <string name="Simple_Mo_Mode">Simple movable type</string>
+  <string name="Simple_Sl_Mode">Simple slim type</string>
+  <string name="Theme_name">Navigation bar style</string>
+  <string name="Theme1">Modern black</string>
+  <string name="Theme2">Leather black</string>
+  <string name="Theme3">Metal gray</string>
+  <string name="Theme4">Classic white</string>
   <string name="musicfx_summary">Select sound effect for downloaded players</string>
   <string name="message_cancel_disabled_soud_effect_app">Please cancel disabled sound effect in system settings</string>
+  <string name="space">" "</string>
+  <string name="slash">/</string>
+  <string name="Done">Done</string>
+  <string name="screenCapture_settings">Screen capture area</string>
+  <string name="screenCaptureFull_desc">Capture full screen</string>
+  <string name="screenCapturePartial_desc">Capture partial screen</string>
   <string name="warning_for_using_agps">Плата за передачу мобильного трафика может взыматься даже если Wi-Fi включен</string>
   <string name="button_for_using_agps">Ок</string>
   <string name="bluetooth_not_printer">Пожалуйста, выберите устройство печати.</string>
@@ -2063,6 +2079,7 @@
   <string name="icc_menu_enter_enable_cancel_btn">Нет</string>
   <string name="icc_menu_enter_set">Установить Idle w/o USIM.</string>
   <string name="icc_menu_enter_unset">Снять Idle w/o USIM.</string>
+  <string name="icc_usim_state_updating">Wait a moment</string>
   <string name="alwayson_settings_title">Настройки сети передачи данных</string>
   <string name="alwayson_settings_summary">Выберите для подключения или отключения сети передачи данных.</string>
   <string name="alwayson_alert_dial_title">Настройки сети передачи данных</string>
@@ -2075,14 +2092,15 @@
   <string name="skt_t_roaming">T roaming</string>
   <string name="data_roaming_msg_title">Roaming data agreement</string>
   <string name="data_roaming_msg_agree1">I confirm that I have read the terms and conditions below, and agree on roaming data usage.</string>
-  <string name="data_roaming_msg_agree2">
-    <font fgcolor="#ffff0000">Automatic synchronization</font> such as SNS or email or weather may incur additional charges in addition to your domestic flat rate plan. (Except One Pass plan)</string>
+  <string name="data_roaming_msg_agree2">Automatic synchronization such as SNS or email or weather may incur additional charges in addition to your domestic flat rate plan. (Except One Pass plan)</string>
   <string name="data_roaming_msg_checked">Agree</string>
   <string name="data_roaming_msg_allow">Agree(Allow)</string>
   <string name="data_roaming_msg_block">Cancel(Block)</string>
   <string name="network_indicator_set_title">Cостояние сети</string>
   <string name="toast_airplane_mode_on">Airplane mode is ON</string>
   <string name="toast_airplane_mode_off">Airplane mode is OFF</string>
+  <string name="vpn_iwlan_running">I-WLAN is running. Try it later.</string>
+  <string name="vpn_back_button">OK</string>
   <string name="wifi_hotspot_pw_title">Wi-Fi hotspot setting</string>
   <string name="wifi_hotspot_save">Save</string>
   <string name="wifi_hotspot_cancel">Cancel</string>
@@ -2101,7 +2119,7 @@
   <string name="wifi_hotspot_attention_dialog_msg">Enabling portable Wi-Fi hotspot will turn off Wi-Fi. Continue?</string>
   <string name="wifi_hotspot_data_dialog_title">Porable hotspot</string>
   <string name="wifi_hotspot_data_dialog_msg">Portable Wi-Fi hotspot consumes much battery power and increases your data usage. Continue?</string>
-  <string name="tethering_help">" "<b>USB tethering</b>" 
+  <string name="tethering_help">" "USB tethering" 
 
 You can tether your phone to your computer with a USB cable, to share your phone's internet connection with your computer 
 
@@ -2110,7 +2128,7 @@ You can tether your phone to your computer with a USB cable, to share your phone
 ● You can't mount your phone's SD card on your computer when USB tethered. 
 
 
-"<b>Portable Wi-Fi hotspot</b>" 
+"Portable Wi-Fi hotspot" 
 
 You can turn your phone into a portable Wi-Fi hotspot, to share your phone's internet connection with one or more computers or other devices. 
 
@@ -2119,7 +2137,7 @@ You can turn your phone into a portable Wi-Fi hotspot, to share your phone's int
 ● You configure the hotspot with the Wi-Fi hotspot settings. 
 
 
-"<b>Bluetooth tethering</b>" 
+"Bluetooth tethering" 
 
 You can tether your Android device to your computer via a Bluetooth connection, to share your device's Internet connection with your computer. 
 
