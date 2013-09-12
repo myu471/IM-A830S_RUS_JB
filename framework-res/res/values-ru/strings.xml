@@ -789,7 +789,7 @@
   <string name="lockscreen_plugged_in">Зарядка батареи (%d%%)</string>
   <string name="lockscreen_charged">Заряжено</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_low_battery">Подключите з/у (%d%%)</string>
+  <string name="lockscreen_low_battery">Подключите з.у. (%d%%)</string>
   <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
   <string name="lockscreen_missing_sim_message">SIM-карта не установлена.</string>
   <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
